@@ -1,19 +1,15 @@
 ---
 title: Python Notes from Intro to Machine Learning
-date: 2018-04-14 10:00:00 +07:00
+date: 2020-05-14 10:00:00 +07:00
 tags: [python, machine-learning]
 description: Notes and code snippets of Python that I've been collecting so far throughout the "Intro to Machine Learning" course.
 ---
 
-##### This article is for Demo purpose
-
-The article was originally on [this repo](https://github.com/risan/risanb.com/blob/master/content/posts/python-notes-from-intro-to-machine-learning/index.md)
-
-I rarely use Python. I only have one repository at Github that is written in Python: [iris-flower-classifier](https://github.com/risan/iris-flower-classifier). And it was written two years ago!
+## Machine Learning
 
 A few days ago I took this free course from Udacity: [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120). The machine learning related codes are quite easy to grasp since it simply uses the [scikit-learn](http://scikit-learn.org/) modules. But most of the supporting Python modules that are provided by this course were like a black-box to me. I had no idea how to download a file in Python or what's the difference between a list, a tuple and a dictionary.
 
-That's why I decided to read all of the provided Python modules and implement it myself. I ended up refactor most of the code so it's easier to understand: [github.com/risan/intro-to-machine-learning](https://github.com/risan/intro-to-machine-learning).
+That's why I decided to read all of the provided Python modules and implement it myself. I ended up refactor most of the code so it's easier to understand.
 
 So here are some notes and snippets of Python that I've been collecting so far (I'm not even halfway through the course 😝). Also, note that the codes here are still using Python version 2.7.
 
@@ -553,7 +549,3 @@ selected_features_test_transformed = selector.transform(features_test_transforme
 ```
 
 The `percentile` is the percentage of features that we'd like to select based on its highest score.
-
-##### This article is for Demo purpose
-
-The article was originally on [this repo](https://github.com/risan/risanb.com/blob/master/content/posts/python-notes-from-intro-to-machine-learning/index.md)
