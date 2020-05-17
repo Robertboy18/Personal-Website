@@ -19,7 +19,7 @@ author:
   avatar: /assets/img/eye3.png
 
 # Url settings
-url: "https://klise.now.sh"
+url: "https://robert18.netlify.app/"
 baseurl:
 permalink: /:title/
 google_analytics:
