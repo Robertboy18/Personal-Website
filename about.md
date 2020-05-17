@@ -1,18 +1,14 @@
 ---
-title: Colophon
+title: Realm 
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello peeps
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
-
-If you have a question about him or else, just send a letter to him.
-
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+Hey, there everyone. I honestly am interested in a lot of things and I hope I can showcase how much I love competitive programming, Machine Learning , Artificial Intelligence, Data Science and problem solving. Excited to showcase my projects and solutions to various problems.I want to get into research particularly in the field of Mathematics (Analytic Number theory or Topology) and in the field of Computer Science particularly Artificial Intelligence.I hope you all have a fun time reading this blog and learn something new.
 
 ##### may u needs ✨
 
-- {{ site.author.email }}
-- github.com/{{ site.author.username }}
+- {{robujsph2001@gmail.com }}
+- github.com/{{ Robertboy18 }}
