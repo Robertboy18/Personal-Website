@@ -11,12 +11,12 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Welcome🥺
+  name: Bonjour
   bio: >-
     Follow me into the realm of Artificial intellegince, Machine Learning, Data Science, Competitive programming and Olympiad/Putnam problem solving.
   username: username
   email: robujsph2001@gmail.com
-  avatar: /assets/img/avatar.jpg
+  avatar: /assets/img/eye.png
 
 # Url settings
 url: "https://klise.now.sh"
