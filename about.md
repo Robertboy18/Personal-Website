@@ -5,6 +5,10 @@ layout: page
 excerpt: Hello peeps
 comments: false
 ---
+**Name** : Robert Joseph  
+**University**: University of Alberta  
+**Degree**: Honors Applied Mathematics and Computational Sciences  
+**Year** : Freshman  
 
 Hey, there everyone. I honestly am interested in a lot of things and I hope I can showcase how much I love Competitive Programming, Machine Learning , Artificial Intelligence, Data Science and Problem Solving especially in Mathematics.  
 
