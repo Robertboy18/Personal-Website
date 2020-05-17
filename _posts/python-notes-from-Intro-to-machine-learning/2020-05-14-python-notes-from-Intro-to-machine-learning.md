@@ -548,4 +548,7 @@ selected_features_train_transformed = selector.transform(features_train_transfor
 selected_features_test_transformed = selector.transform(features_test_transformed).toarray()
 ```
 
-The `percentile` is the percentage of features that we'd like to select based on its highest score.
+The `percentile` is the percentage of features that we'd like to select based on its highest score.  
+
+Hope you all enjoyed this  
+- Robert 
