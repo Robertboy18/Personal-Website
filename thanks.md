@@ -2,12 +2,12 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: 
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+I just wanted to say thank you to everyone who are in my life and who has stood by my side and helped me when things went rough. I thank God for keeping me alive and giving me the strength and guidance to live my life in a fruitful way. Thank you for everything and I hope I can help more people out there with what I develop and work on and become a better person.
 
 <hr>
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+Hope you all enjoy reading this blog and if you want to get in touch do contact me.
