@@ -11,6 +11,6 @@
   external: false # set true if you using external link, see bellow
 
 # Example:
-# - title: github
-#   url: https://github.com/piharpi/jekyll-klise
-#   external: true
+ - title: github
+   url: https://github.com/piharpi/jekyll-klise 
+   external: true
