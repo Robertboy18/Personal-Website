@@ -96,7 +96,7 @@ Skills I have to offer
   </tr>
   <tr>
     <td class="tg-0lax">Writing</td>
-    <td class="tg-0lax">Written some books on <a href="https://www.wattpad.com/user/romancetxt" target="_blank" rel="noopener noreferrer">Wattpad</a> and some articles on Latex</td>
+    <td class="tg-0lax">Written some books on <a href="https://www.wattpad.com/user/romancetxt" target="_blank" rel="noopener noreferrer">Wattpad</a> and some articles in Latex</td>
     <td class="tg-0lax">4</td>
   </tr>
   <tr>
