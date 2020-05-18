@@ -18,7 +18,7 @@ author:
   avatar: /assets/img/eye3.png
 
 # Url settings
-url: "https://robert18.netlify.app/"
+url: "https://robert1.netlify.app/"
 baseurl:
 permalink: /:title/
 google_analytics:
