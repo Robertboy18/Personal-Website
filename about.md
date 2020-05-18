@@ -5,7 +5,7 @@ layout: page
 excerpt: Hello peeps
 comments: false
 ---
-<img src="https://thumbs.gfycat.com/AnnualBossyBighornsheep-max-1mb.gif" width="500" height="500" />
+<img src="https://i.ibb.co/wZqhNSG/ogp.png" width="400" height="300" />
 
 **Name** : Robert Joseph  
 **University**: University of Alberta  
