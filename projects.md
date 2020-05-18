@@ -48,7 +48,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <td class="tg-0pky">2020</td>
     <td class="tg-0pky">Super Bowl Statistics</td>
     <td class="tg-0pky">Data Science</td>
-    <td class="tg-0pky">Jupyter Notebook</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Data-Science/blob/master/Projects/SuperBowlStatistics.ipynb" target="_blank" rel="noopener noreferrer">Jupyter Notebook</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">2019</td>
