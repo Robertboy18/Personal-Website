@@ -5,8 +5,6 @@ layout: page
 excerpt: Hello peeps
 comments: false
 ---
-<img src="https://i.ibb.co/wZqhNSG/ogp.png" width="400" height="300" />
-
 **Name** : Robert Joseph  
 **University**: University of Alberta  
 **Degree**: Honors Applied Mathematics and Computational Sciences  
@@ -22,3 +20,4 @@ Excited to showcase my projects and solutions to various problems. I want to get
 - github.com/{{'Robertboy18'}}
 - linkedin.com/{{'in/robert-joseph-2001/'}}
 
+<img src="https://i.ibb.co/wZqhNSG/ogp.png" width="400" height="300" />
