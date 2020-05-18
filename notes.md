@@ -1,8 +1,32 @@
 ---
-title: Life Updates and Skills
+title: Life Updates
 permalink: /notes/
 layout: page
-excerpt: Skills and Life Updates
+excerpt: Life Updates
 comments: false
 ---
-Skills which I can offer
+Hey Everyone~
+
+I just finished my Freshman year of University 3 weeks ago so I have like 4 months free and I am going to be working on many projects this summer. These are some of the ideas that I have taught upon and would like to spend these months learning more on and particiapting in various competitions and gain more knowledge.
+<img src = "https://cdn130.picsart.com/309265189366201.jpg?type=webp&to=min&r=640" height = "500" width = "500">
+<hr>
+
+**Some of the Projects I currently am working on:-**
+
+| Topic                      | Area of Reasearch           |
+|----------------------------|-----------------------------|
+| Random Walks               | Statistics and Graph Theory |
+| Brown Numbers              | Analytic Number Theory      |
+| Jojo Game                  | Game Development            |
+| Machine Learning           | Computer Science            |
+| Data Science               | Computer Science            |
+| Complex and Real Analysics | Mathematics                 |
+
+<hr>
+
+Moreover I definitely will be taking time off to focus on myself , read more and overall enjoy this summer to the fullest.  
+
+<img src = "https://i.pinimg.com/736x/91/8e/26/918e26bbdd2aaf795d98498e6375edd7.jpg" height = "500" width = "500">  
+
+- Robert
+
