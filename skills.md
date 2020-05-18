@@ -8,7 +8,8 @@ comments: false
 Hey Everyone~
 <hr>
 You’ve probably heard the phrase, 
-> Practice makes perfect
+> Practice makes perfect  
+
 Everyone has talents and honestly God has been grateful to have blessed me with lots of talents . Skills however are what develop over the course of time and experiences are what makes us human.
 <hr>
 <img src = "https://i.pinimg.com/originals/99/46/0b/99460bfdb62560baad2653969e246a9b.jpg" width = "500" height = "500">
@@ -107,5 +108,6 @@ Skills I have to offer
 <hr>
 This is definitely not the complete list of what I can offer but I will be adding more to this list. Thank you and have a great day.
 <hr>
-<img src = "https://media1.giphy.com/media/A4wSE2GQGTpfi/giphy.gif" width = "500" height = "500">
+<img src = "https://media1.giphy.com/media/A4wSE2GQGTpfi/giphy.gif" width = "500" height = "500">   
+
 -Robert
