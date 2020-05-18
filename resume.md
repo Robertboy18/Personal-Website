@@ -6,4 +6,5 @@ excerpt:
 comments: false
 ---
 
-<iframe src= ”traditional-elegance.pdf" width=”100%” height=”100%”>This browser does not support PDFs. Please download the PDF to view it: Download PDF</iframe>
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-5d458056-e50e-49b9-b946-f10ecaf9cf9c"></div>
