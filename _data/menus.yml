@@ -9,5 +9,7 @@
 - title: Notes
   url: /notes/
   external: false # set true if you using external link, see bellow
-
-
+  
+ - title: Notes
+  url: /notes/
+  external: false # set true if you using external link, see bellow
