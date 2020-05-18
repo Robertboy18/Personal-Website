@@ -16,9 +16,8 @@ Excited to showcase my projects and solutions to various problems. I want to get
 
 ##### Get in touch with me ✨
 
-- {{'robujsph2001@gmail.com'}}
-- github.com/{{'Robertboy18'}}
-- linkedin.com/{{'in/robert-joseph-2001/'}}
+- [Email](robujsph2001@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/robert-joseph-2001/)
 - [GitHub](http://github.com/Robertboy18)
 
 <img src="https://i.ibb.co/wZqhNSG/ogp.png" width="400" height="300" />
