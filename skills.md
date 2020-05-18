@@ -110,11 +110,6 @@ Skills I have to offer
     <td class="tg-0lax">5</td>
   </tr>
   <tr>
-    <td class="tg-0lax">English </td>
-    <td class="tg-0lax">Native Language</td>
-    <td class="tg-0lax">5</td>
-  </tr>
-  <tr>
     <td class="tg-0lax">Leadership</td>
     <td class="tg-0lax">Part of the student council for 7 years, Academic Club President, Captain of the Varsity Table Tennis Team</td>
     <td class="tg-0lax">5</td>
