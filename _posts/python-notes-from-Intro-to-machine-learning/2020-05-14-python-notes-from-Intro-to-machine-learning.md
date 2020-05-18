@@ -13,7 +13,7 @@ A few days ago I took this free course from Udacity: [Intro to Machine Learning]
 
 That's why I decided to read all of the provided Python modules and implement it myself. I ended up refactor most of the code so it's easier to understand.
 
-So here are some notes and snippets of Python that I've been collecting so far (I'm not even halfway through the course 😝). Also, note that the codes here are still using Python version 2.7.
+So here are some notes and snippets of Python that I've been collecting so far.
 
 ### Example Table overflow-table
 
