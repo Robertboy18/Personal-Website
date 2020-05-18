@@ -5,6 +5,8 @@ layout: page
 excerpt: Hello peeps
 comments: false
 ---
+<img src="https://thumbs.gfycat.com/AnnualBossyBighornsheep-max-1mb.gif" width="500" height="500" />
+
 **Name** : Robert Joseph  
 **University**: University of Alberta  
 **Degree**: Honors Applied Mathematics and Computational Sciences  
