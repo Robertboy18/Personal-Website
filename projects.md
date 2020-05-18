@@ -19,12 +19,13 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 | 2018 | Library Management System | Database Management System |                  |
 | 2020 | Riemann zeta ζ(2k)        | Analysis                   |                  |
 | 2020 | Super Bowl Statistics     | Data Science               |[Jupyter Notebook](https://github.com/Robertboy18/Data-Science/blob/master/Projects/SuperBowlStatistics.ipynb) |
-| 2019 | Iris Data Set             | Machine Learning           | [Jupyter Notebook](https://github.com/Robertboy18/Data-Science/blob/master/Machine-Learning/Program%201%20.ipynb) |
-| 2020 | Corona Virus Website      | Website                    | [Website](stuckathomecorona.netlify.app)          |
-| 2019 | Sudoku Solver             | Backtracking Algorithms    | [Github Link](https://github.com/Robertboy18/Projects-/blob/master/Sudoku%20%20-%20CPP)      |
+| 2019 | Iris Data Set             | Machine Learning           |[Jupyter Notebook](https://github.com/Robertboy18/Data-Science/blob/master/Machine-Learning/Program%201%20.ipynb) |
+| 2020 | Corona Virus Website      | Website                    |[Website](https://stuckathomecorona.netlify.app)          |
+| 2019 | Sudoku Solver             | Backtracking Algorithms    |[Github Link](https://github.com/Robertboy18/Projects-/blob/master/Sudoku%20%20-%20CPP)      |
 <hr>
 
 I will be updating this page regularly as soon as I complete a Project.
 <hr>
-<img src = "https://media.giphy.com/media/C8gkEYivtQDlGzyAwp/giphy.gifhttps://media.giphy.com/media/C8gkEYivtQDlGzyAwp/giphy.gif" width = "500" height = "500">
+<img src = "https://media.giphy.com/media/C8gkEYivtQDlGzyAwp/giphy.gifhttps://media.giphy.com/media/C8gkEYivtQDlGzyAwp/giphy.gif" width = "500" height = "500">  
+
 -Robert
