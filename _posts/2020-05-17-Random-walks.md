@@ -5,4 +5,6 @@ modified: 2020-05-17 09:24:47 +07:00
 tags: [Mathematics,RandomWalks,Jupyternotebook,Python]
 ---
 
- <link rel="import" href="http://stackoverflow.com">
+   <object data="http://stackoverflow.com" width="400" height="300" type="text/html">
+        Alternative Content
+    </object>
