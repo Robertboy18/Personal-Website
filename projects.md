@@ -42,7 +42,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <td class="tg-0pky">2020</td>
     <td class="tg-0pky">Riemann zeta <span style="font-style:normal">ζ(2k)</span></td>
     <td class="tg-0pky">Analysis </td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="https://www.scribd.com/document/462045997/Riemann-zeta-2k-Using-Fourier-Analysis" target="_blank" rel="noopener noreferrer">PDF</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">2020</td>
