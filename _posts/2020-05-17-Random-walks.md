@@ -4,23 +4,4 @@ date: 2020-05-17 09:45:47 +07:00
 modified: 2020-05-17 09:24:47 +07:00
 tags: [Mathematics,RandomWalks,Jupyternotebook,Python]
 ---
-hey
-<html><head>
-
-
-<!-- Load require.js. Delete this if your page already loads require.js -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.4/require.min.js" integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA=" crossorigin="anonymous"></script>
-<script src="https://unpkg.com/@jupyter-widgets/html-manager@*/dist/embed-amd.js" crossorigin="anonymous"></script>
-<script type="application/vnd.jupyter.widget-state+json">
-{
-    "version_major": 2,
-    "version_minor": 0,
-    "state": {}
-}
-</script>
-</head>
-<body>
-
-
-</body>
-</html>
+<script src="https://gist.github.com/Robertboy18/29b0f489380c1c3d6fadd5ccadf82fee.js"></script>
