@@ -1,11 +1,13 @@
 ---
-title: Python Notes from Intro to Machine Learning
-date: 2020-05-14 10:00:00 +07:00
+title: Python Notes from Intro to Machine Learning~
+date: 2020-05-17 10:00:00 +07:00
 tags: [python, machine-learning]
 description: Notes and code snippets of Python that I've been collecting so far throughout the "Intro to Machine Learning" course.
 ---
 
-## Machine Learning
+## Machine Learning  
+<hr>
+Hey Everyone~
 
 A few days ago I took this free course from Udacity: [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120). The machine learning related codes are quite easy to grasp since it simply uses the [scikit-learn](http://scikit-learn.org/) modules. But most of the supporting Python modules that are provided by this course were like a black-box to me. I had no idea how to download a file in Python or what's the difference between a list, a tuple and a dictionary.
 
@@ -551,4 +553,7 @@ selected_features_test_transformed = selector.transform(features_test_transforme
 The `percentile` is the percentage of features that we'd like to select based on its highest score.  
 
 Hope you all enjoyed this  
+
 - Robert 
+
+<img src = "https://storage.googleapis.com/imandra-assets/images/github/VS_code_documentation_gif/vscodeV1.gif" height = "500" width = "500">
