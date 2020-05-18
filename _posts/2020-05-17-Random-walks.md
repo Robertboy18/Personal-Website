@@ -1,5 +1,5 @@
 ---
-title: Random Walks~
+title: Random Walks - Single Dimension~
 date: 2020-05-17 09:45:47 +07:00
 modified: 2020-05-17 09:24:47 +07:00
 tags: [Mathematics,RandomWalks,Jupyternotebook,Python]
