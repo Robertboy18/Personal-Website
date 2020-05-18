@@ -5,7 +5,7 @@ layout: page
 excerpt: Projects
 comments: false
 ---
-Hey everyone~  
+Hey Everyone~  
 <hr>
 Throughout my life I have learnt to apply my skills in something which would benifit others or rather showcase my skills through some projects or publications. Each project relates to something I have learnt in the field of Computer Science or Mathematics or in general.
 I hope my skills and the knowledge I have gained are reflected through these projects.
