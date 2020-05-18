@@ -22,6 +22,7 @@ Skills I have to offer
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -101,6 +102,31 @@ Skills I have to offer
   <tr>
     <td class="tg-0lax">Mathematics</td>
     <td class="tg-0lax">Analysis, Topology, Analytic Number theory are my main areas of interest</td>
+    <td class="tg-0lax">4</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Problem Solving and Critical thinking</td>
+    <td class="tg-0lax">Usually solving problems on Project Euler, Brilliant, Mathematical Olympiads, Putnam</td>
+    <td class="tg-0lax">5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">English </td>
+    <td class="tg-0lax">Native Language</td>
+    <td class="tg-0lax">5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Leadership</td>
+    <td class="tg-0lax">Part of the student council for 7 years, Academic Club President, Captain of the Varsity Table Tennis Team</td>
+    <td class="tg-0lax">5</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Teamwork</td>
+    <td class="tg-0lax">Part of 4 Varsity sports and I always was punctual and reliable and gave my opinions</td>
+    <td class="tg-0lax">5</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"><span style="font-weight:normal">Oral and Written Communication Skills</span></td>
+    <td class="tg-0lax">I love to participate in Elocutions, Debates and give seminars</td>
     <td class="tg-0lax">4</td>
   </tr>
 </tbody>
