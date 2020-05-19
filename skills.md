@@ -116,7 +116,7 @@ Skills I have to offer
   </tr>
   <tr>
     <td class="tg-0lax">Teamwork</td>
-    <td class="tg-0lax">Part of 4 Varsity sports and I always was punctual and reliable and gave my opinions</td>
+    <td class="tg-0lax">Part of 4 Varsity sports, wherein I was punctual, reliable, disciplined and gave my honest opinions</td>
     <td class="tg-0lax">5</td>
   </tr>
   <tr>
