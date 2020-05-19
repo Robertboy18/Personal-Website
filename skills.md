@@ -8,7 +8,7 @@ comments: false
 Hey Everyone~
 <hr>
 You’ve probably heard the phrase, 
-> Practice makes perfect  
+> Practice maketh a man perfect  
 
 Everyone has talents and honestly God has been grateful to have blessed me with lots of talents . Skills however are what develop over the course of time and experiences are what makes us human.
 <hr>
