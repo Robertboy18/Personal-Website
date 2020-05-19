@@ -10,9 +10,9 @@ comments: false
 **Degree**: Honors Applied Mathematics and Computational Sciences  
 **Year** : Freshman  
 
-Hey there everyone. I honestly am interested in a lot of things and I hope I can showcase how much I love Competitive Programming, Machine Learning , Artificial Intelligence, Data Science and Problem Solving especially in Mathematics.  
+Hey there everyone. I am interested in many a things and I hope I can showcase how much I love Competitive Programming, Machine Learning , Artificial Intelligence, Data Science and Problem Solving especially in Mathematics.  
 
-Excited to showcase my projects and solutions to various problems. I want to get into research particularly in the field of Mathematics (Analytic Number theory or Topology) and in the field of Computer Science in Artificial Intelligence. I hope you all have a fun time reading this blog and learning something new.
+Excited to exhibit my projects and solutions to various problems. I want to get into research particularly in the field of Mathematics (Analytic Number theory or Topology) and in the field of Computer Science in Artificial Intelligence. I hope you all would have fun reading this blog and learning something new.
 
 ##### Get in touch with me ✨
 
@@ -20,4 +20,4 @@ Excited to showcase my projects and solutions to various problems. I want to get
 - [Linkedin](https://www.linkedin.com/in/robert-joseph-2001/)
 - [GitHub](http://github.com/Robertboy18)
 
-<img src="https://i.ibb.co/wZqhNSG/ogp.png" width="400" height="300" />
+<img src="https://i.ibb.co/wZqhNSG/ogp.png" width="500" height="300" />
