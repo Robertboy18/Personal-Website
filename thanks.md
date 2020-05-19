@@ -10,4 +10,4 @@ I just wanted to say thank to each and everyone who are a part and parcel of my 
 
 <hr>
 
-Hope you all enjoy reading this blog and if you want to get in touch do contact me.
+Hope you all enjoy reading this blog and if you want to get in touch, please do not hesitate to contact me.
