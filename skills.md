@@ -10,7 +10,7 @@ Hey Everyone~
 You’ve probably heard the phrase, 
 > Practice maketh a man perfect  
 
-Everyone has talents and honestly God has been grateful to have blessed me with lots of talents . Skills however are what develop over the course of time and experiences are what makes us human.
+Everyone has talents and God has been grateful to have blessed me with many of them. Skills however are what develop over the course of time and experiences are what makes us human.
 <hr>
 <img src = "https://i.pinimg.com/originals/99/46/0b/99460bfdb62560baad2653969e246a9b.jpg" width = "500" height = "500">
 <hr>
