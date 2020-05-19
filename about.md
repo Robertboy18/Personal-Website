@@ -10,7 +10,7 @@ comments: false
 **Degree**: Honors Applied Mathematics and Computational Sciences  
 **Year** : Freshman  
 
-Hey there everyone. I am interested in many a things and I hope I can showcase how much I love Competitive Programming, Machine Learning , Artificial Intelligence, Data Science and Problem Solving especially in Mathematics.  
+Hey there everyone. I am interested in many a things and I hope I can showcase how much I love Competitive Programming, Machine Learning , Artificial Intelligence, Data Science and Problem Solving especially in Mathematics through this blog.  
 
 Excited to exhibit my projects and solutions to various problems. I want to get into research particularly in the field of Mathematics (Analytic Number theory or Topology) and in the field of Computer Science in Artificial Intelligence. I hope you all would have fun reading this blog and learning something new.
 
