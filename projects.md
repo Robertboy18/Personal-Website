@@ -73,7 +73,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 
 <hr>
 
-I will be updating this page regularly as soon as I complete a Project.
+I will be updating this page regularly based on the completion of a project.
 <hr>
 <img src = "https://media.giphy.com/media/C8gkEYivtQDlGzyAwp/giphy.gifhttps://media.giphy.com/media/C8gkEYivtQDlGzyAwp/giphy.gif" width = "500" height = "500">  
 
