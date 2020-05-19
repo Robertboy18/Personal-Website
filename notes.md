@@ -7,7 +7,7 @@ comments: false
 ---
 Hey Everyone~
 
-I just finished my Freshman year of University 3 weeks ago so I would be free for the next 4 months during summer and would be working many projects. These are some of the ideas that I have thought upon and would like to spend these months learning more on and participating in various competitions and gain more knowledge.
+I just finished my Freshman year of University 3 weeks ago so would be free for the next 4 months during summer to work on many projects. These are some of the ideas that I have thought upon and would like to spend these months learning more on and participating in various competitions to enhance my knowledge.
 <hr>
 <img src = "https://cdn130.picsart.com/309265189366201.jpg?type=webp&to=min&r=640" height = "500" width = "500">
 <hr>
