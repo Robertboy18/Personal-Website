@@ -8,7 +8,7 @@ Hey everyone
 <hr>
 This Jupyter Notebook is on Random Walks. I will be updating it regularly and hopefully by the end of summer learn something more and research on it more. Let me know if there are any mistakes.
 <hr>
-<script src="https://gist.github.com/Robertboy18/29b0f489380c1c3d6fadd5ccadf82fee.js"></script>
+<script src="https://gist.github.com/Robertboy18/ee39d9a5bc29b8fbd7849d70f195ece1.js"></script>
 <hr>
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Random_walk_25000.gif/269px-Random_walk_25000.gif">
 <hr>
