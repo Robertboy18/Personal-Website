@@ -16,7 +16,7 @@ comments: false
   /* Form outline */
   padding: 5em;
   border: 1px solid #CCC;
-  border-radius: 1.5em;
+  border-radius: 1em;
 }
 
 ul {
