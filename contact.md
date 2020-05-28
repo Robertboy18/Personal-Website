@@ -16,13 +16,14 @@ comments: false
   /* Form outline */
   padding: 5em;
   border: 1px solid #CCC;
-  border-radius: 4em;
+  border-radius: 1.5em;
 }
 
 ul {
   list-style: none;
   padding: 0;
   margin: 0;
+  text-align: center
 }
 
 form li + li {
