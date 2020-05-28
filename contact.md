@@ -62,6 +62,7 @@ textarea {
 
   /* Provide space to type some text */
   height: 5em;
+  width: 25em;
 }
 
 .button {
@@ -72,7 +73,7 @@ textarea {
 button {
   /* This extra margin represent roughly the same space as the space
      between the labels and their text fields */
-  margin-left: 15em;
+  margin-left: 11em;
 }
     </style>
   </head>
