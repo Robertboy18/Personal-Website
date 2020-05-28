@@ -32,8 +32,8 @@ form li + li {
 label {
   /* Uniform size & alignment */
   display: inline-block;
-  width: 90px;
-  text-align: right;
+  width: 120px;
+  text-align: center;
 }
 
 input, 
@@ -73,7 +73,7 @@ textarea {
 button {
   /* This extra margin represent roughly the same space as the space
      between the labels and their text fields */
-  margin-left: 11em;
+  margin-left: 13em;
 }
     </style>
   </head>
