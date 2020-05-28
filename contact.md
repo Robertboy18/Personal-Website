@@ -7,15 +7,19 @@ comments: false
 ---
 <form name="contact" method="POST" data-netlify="true">
   <p>
-    <label>Robert: <input type="text" name="name" /></label>   
+    <label>Name: <input type="text" name="name" /></label>   
   </p>
   <p>
-    <label>robujsph2001@gmail.com: <input type="email" name="email" /></label>
+    <label>Email: <input type="email" name="email" /></label>
   </p>
   <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="leader">Leader</option>
-      <option value="follower">Follower</option>
+    <label>Enquiry Type: <select name="role[]" multiple>
+      <option value="About me">About me</option>
+      <option value="Site">Website</option>
+      <option value="Updates">Life Updates</option>
+      <option value="General">General</option>
+      <option value="Business">Business</option>
+      <option value="Talk">Talk to me</option>
     </select></label>
   </p>
   <p>
