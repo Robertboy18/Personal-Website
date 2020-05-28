@@ -5,7 +5,11 @@ layout: page
 excerpt: 
 comments: false
 ---
-form {
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <style>
+      form {
   /* Center the form on the page */
   margin: 0 auto;
   width: 400px;
@@ -70,6 +74,9 @@ button {
      between the labels and their text fields */
   margin-left: .5em;
 }
+    </style>
+  </head>
+  <body>
 <form name="contact" method="POST" data-netlify="true">
   <p>
     <label>Name: <input type="text" name="name" /></label>   
@@ -94,3 +101,5 @@ button {
     <button type="submit">Send</button>
   </p>
 </form>
+  </body>
+  </html>
