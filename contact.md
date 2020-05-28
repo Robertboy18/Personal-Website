@@ -11,10 +11,10 @@ comments: false
     <style>
       form {
   /* Center the form on the page */
-  margin: 0 auto;
+  margin: auto;
   width: 400px;
   /* Form outline */
-  padding: 1em;
+  padding: 5em;
   border: 1px solid #CCC;
   border-radius: 4em;
 }
@@ -45,7 +45,7 @@ textarea {
   /* Uniform text field size */
   width: 400px;
   box-sizing: border-box;
-  padding: 12px 20px;
+  padding: 10px 15px;
 
   /* Match form field borders */
   border: 1px solid #999;
