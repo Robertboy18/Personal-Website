@@ -16,7 +16,7 @@ comments: false
   /* Form outline */
   padding: 1em;
   border: 1px solid #CCC;
-  border-radius: 1em;
+  border-radius: 4em;
 }
 
 ul {
@@ -45,6 +45,7 @@ textarea {
   /* Uniform text field size */
   width: 400px;
   box-sizing: border-box;
+  padding: 12px 20px;
 
   /* Match form field borders */
   border: 1px solid #999;
