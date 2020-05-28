@@ -33,7 +33,7 @@ label {
   /* Uniform size & alignment */
   display: inline-block;
   width: 120px;
-  text-align: center;
+  text-align: justify;
 }
 
 input, 
@@ -43,7 +43,7 @@ textarea {
   font: 1em sans-serif;
 
   /* Uniform text field size */
-  width: 300px;
+  width: 400px;
   box-sizing: border-box;
 
   /* Match form field borders */
