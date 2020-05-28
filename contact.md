@@ -11,10 +11,10 @@ comments: false
     <style>
       form {
   /* Center the form on the page */
-  margin: auto;
+  margin: 0 auto;
   width: 400px;
   /* Form outline */
-  padding: 5em;
+  padding: 1.5em;
   border: 1px solid #CCC;
   border-radius: 1em;
 }
