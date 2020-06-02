@@ -36,7 +36,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <td class="tg-0pky">2020</td>
     <td class="tg-0pky">National Undergraduate Big Data Challenge</td>
     <td class="tg-0pky">Data Science </td>
-    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Personal-Website/blob/master/National%20Undergraduate%20Big%20Data%20Challenge%202020.pdf" target="_blank" rel="noopener noreferrer">PDF Link</a></td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Personal-Website/blob/master/National%20Undergraduate%20Big%20Data%20Challenge%202020.pdf" target="_blank" rel="noopener noreferrer">PDF</a></td>
   </tr>
     <tr>
     <td class="tg-0pky">2020</td>
