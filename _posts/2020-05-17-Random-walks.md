@@ -10,6 +10,6 @@ This is one of the current projects I am working on . I currently have only comp
 <hr>
 <script src="https://gist.github.com/Robertboy18/ee39d9a5bc29b8fbd7849d70f195ece1.js"></script>
 <hr>
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Random_walk_25000.gif/538px-Random_walk_25000.gif">  
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Random_walk_25000.gif/538px-Random_walk_25000.gif" height = "500" width = "500">  
 <hr>  
 - Robert
