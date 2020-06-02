@@ -16,7 +16,7 @@ I just finished my Freshman year of University 3 weeks ago so would be free for 
 
 | Topic                      | Area of Reasearch           |
 |----------------------------|-----------------------------|
-| Random Walks               | Statistics and Graph Theory |
+| Random Walks               | [Statistics and Graph Theory](https://gist.github.com/Robertboy18/ee39d9a5bc29b8fbd7849d70f195ece1#file-random-walks-ipynb) |
 | Brown Numbers              | Analytic Number Theory      |
 | Jojo Game                  | Game Development            |
 | Machine Learning           | Computer Science            |
