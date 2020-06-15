@@ -78,3 +78,7 @@ plugins:
   - jekyll-sass-converter
   - jekyll-sitemap
   - jekyll-postfiles
+  - jekyll-paginate
+  
+paginate: 5
+
