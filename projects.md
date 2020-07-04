@@ -32,6 +32,12 @@ I hope my skills and the knowledge I have gained are reflected through these pro
   </tr>
 </thead>
 <tbody>
+      <tr>
+    <td class="tg-0pky">2020</td>
+    <td class="tg-0pky">Graduate Admission Prediction</td>
+    <td class="tg-0pky">Artificial Intelligence </td>
+    <td class="tg-0pky"><a href="https://gist.github.com/Robertboy18/3afc0d5f6efcc1929938db45f6112c52" target="_blank" rel="noopener noreferrer">Gist</a></td>
+    </tr>
      <tr>
     <td class="tg-0pky">2020</td>
     <td class="tg-0pky">National Undergraduate Big Data Challenge</td>
