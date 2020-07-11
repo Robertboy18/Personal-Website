@@ -1,6 +1,6 @@
-**My personal website using netlify and Jekyll**  
+**Personal website using Netlify and Jekyll**  
 
-The klise Theme has been used and if you want to use it as your own do fork this repo and deploy it on Netlify.  
+The Klise Theme has been used and if you want to use it as your own do fork this repo and deploy it on Netlify.  
 <hr>
 <img src = "https://data.whicdn.com/images/327014997/original.jpg?t=1550766960">
 
