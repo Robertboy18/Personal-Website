@@ -13,3 +13,19 @@ This is one of the current projects I am working on . I currently have only comp
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Random_walk_25000.gif/538px-Random_walk_25000.gif" height = "500" width = "500">  
 <hr>  
 - Robert
+
+<div id="wpac-comment"></div>
+<script type="text/javascript">
+wpac_init = window.wpac_init || [];
+wpac_init.push({widget: 'Comment', id: 26271});
+(function() {
+    if ('WIDGETPACK_LOADED' in window) return;
+    WIDGETPACK_LOADED = true;
+    var mc = document.createElement('script');
+    mc.type = 'text/javascript';
+    mc.async = true;
+    mc.src = 'https://embed.widgetpack.com/widget.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+})();
+</script>
+<a href="https://widgetpack.com" class="wpac-cr">Comments System WIDGET PACK</a>
