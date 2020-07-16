@@ -19,7 +19,7 @@ I hope my site introduces you to a bunch of topics and also to know more about m
 <img src = "https://images.unsplash.com/photo-1530103043960-ef38714abb15?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" height = "500" width = "500">
 <hr>
 -Robert
-
+<hr>  
 <div id="wpac-comment"></div>
 <script type="text/javascript">
 wpac_init = window.wpac_init || [];
@@ -34,4 +34,3 @@ wpac_init.push({widget: 'Comment', id: 26271});
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
 })();
 </script>
-<a href="https://widgetpack.com" class="wpac-cr">Comments System WIDGET PACK</a>
