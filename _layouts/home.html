@@ -6,17 +6,11 @@ home: true
 <h4 class="posts-item-note">Recent Posts</h4>
 {% for post in site.posts %}
 <article class="post-item">
-  <span class="post-item-date">{{ post.date | date: "%b %d, %Y" }}</span>
+  <span class="post-item-date">{{ post.date  | date: "%b %d, %Y" }}</span>
   <h4 class="post-item-title">
     <a href="{{ post.url }}">{{ post.title | escape }}</a>
   </h4>
 </article>
 {% endfor %}
 
-<h4 class="posts-item-note">All Posts</h4>
 <a href = "https://www.robertj1.com">All Posts</a>
-{% for post in site.posts %}
-<article class="post-item">
-    <a href="{{ post.url }}">{{ post.title | escape }}</a>
-</article>
-{% endfor %}
