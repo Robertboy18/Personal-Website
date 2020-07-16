@@ -553,7 +553,22 @@ selected_features_test_transformed = selector.transform(features_test_transforme
 The `percentile` is the percentage of features that we'd like to select based on its highest score.  
 
 Hope you all enjoyed this  
-
-- Robert 
-
+<hr>
 <img src = "https://storage.googleapis.com/imandra-assets/images/github/VS_code_documentation_gif/vscodeV1.gif" height = "500" width = "500">
+<hr>
+- Robert 
+<div id="wpac-comment"></div>
+<script type="text/javascript">
+wpac_init = window.wpac_init || [];
+wpac_init.push({widget: 'Comment', id: 26271});
+(function() {
+    if ('WIDGETPACK_LOADED' in window) return;
+    WIDGETPACK_LOADED = true;
+    var mc = document.createElement('script');
+    mc.type = 'text/javascript';
+    mc.async = true;
+    mc.src = 'https://embed.widgetpack.com/widget.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+})();
+</script>
+<a href="https://widgetpack.com" class="wpac-cr">Comments System WIDGET PACK</a>
