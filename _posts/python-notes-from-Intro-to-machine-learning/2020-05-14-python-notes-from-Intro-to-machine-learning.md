@@ -557,6 +557,7 @@ Hope you all enjoyed this
 <img src = "https://storage.googleapis.com/imandra-assets/images/github/VS_code_documentation_gif/vscodeV1.gif" height = "500" width = "500">
 <hr>
 - Robert 
+<hr>
 <div id="wpac-comment"></div>
 <script type="text/javascript">
 wpac_init = window.wpac_init || [];
@@ -571,4 +572,3 @@ wpac_init.push({widget: 'Comment', id: 26271});
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
 })();
 </script>
-<a href="https://widgetpack.com" class="wpac-cr">Comments System WIDGET PACK</a>
