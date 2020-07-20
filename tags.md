@@ -4,7 +4,6 @@ permalink: /tags/
 layout: page
 excerpt: Sorted article by tags.
 ---
-<div class="gcse-search"></div>
 <script async src="https://cse.google.com/cse.js?cx=015769198441636655101:7inx-o2uuzy"></script>
 <div class="gcse-search"></div>
 
