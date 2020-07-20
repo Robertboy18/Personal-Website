@@ -6,10 +6,10 @@ excerpt: Sorted article by tags.
 ---
 
 {% for tag in site.tags %} {% capture name %}{{ tag | first }}{% endcapture %}
-<!--
 <h4 class="post-header" id="{{ name | downcase | slugify }}">
   {{ name }}
 </h4>
+<!--
 {% for post in site.tags[name] %}
 <article class="posts">
   <span class="posts-date">{{ post.date | date: "%b %d" }}</span>
