@@ -1,7 +1,7 @@
 ---
 title: Python Notes from Intro to Machine Learning~
 date: 2020-05-17 10:00:00 +07:00
-tags: [python, machine-learning]
+tags: [Python, MachineLearning,Notes]
 description: Notes and code snippets of Python that I've been collecting so far throughout the "Intro to Machine Learning" course.
 ---
 
