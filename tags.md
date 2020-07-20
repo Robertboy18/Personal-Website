@@ -6,7 +6,7 @@ excerpt: Sorted article by tags.
 ---
 
 {% for tag in site.tags %} {% capture name %}{{ tag | first }}{% endcapture %}
-
+<!--
 <h4 class="post-header" id="{{ name | downcase | slugify }}">
   {{ name }}
 </h4>
@@ -19,4 +19,5 @@ excerpt: Sorted article by tags.
     </h4>
   </header>
 </article>
-{% endfor %} {% endfor %}
+{% endfor %}
+-->{% endfor %}
