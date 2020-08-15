@@ -1,10 +1,10 @@
 # Site settings
 title: Robert
 description: >-
-  Hey everyone - First-year undergrad at the Universty of Alberta pursuing applied math and computational sciences (honours) 
+  Student Developer Lead @Google/@ACM|Honors Math + Comp Sci|Sophomore|UAlberta 
 lang: en-US
 timezone: Canada/Edmonton
-image: assets/img/opg2.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/opt3.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/Robertboy18
 mode: dark # default theme "dark" | "light"
 
