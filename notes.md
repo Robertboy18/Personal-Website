@@ -18,7 +18,7 @@ I just finished my Freshman year of University in May and the past couple of mon
 |----------------------------|-----------------------------|
 | Random Walks               | [Statistics and Graph Theory](https://gist.github.com/Robertboy18/ee39d9a5bc29b8fbd7849d70f195ece1#file-random-walks-ipynb) |
 | Unsolved Conjectures       | Analytic Number Theory      |
-| Jojo Game                  | (Game Development)(https://github.com/jfdoming/Project-B)            |
+| Jojo Game                  | [Game Development](https://github.com/jfdoming/Project-B)            |
 | Machine Learning           | [Computer Science](https://github.com/Robertboy18/Data-Science)          |
 | Data Science               | [Computer Science](https://github.com/Robertboy18/IBM-Data-Science)            |
 | Complex and Real Analysics | Analysis                 |
