@@ -8,7 +8,7 @@ comments: false
 **Name** : Robert Joseph  
 **University**: University of Alberta  
 **Degree**: Honors Applied Mathematics and Computational Sciences  
-**Year** : Freshman  
+**Year** : Sophomore  
 
 Hey there everyone. I am interested in many a things and I hope I can showcase how much I love Competitive Programming, Machine Learning , Artificial Intelligence, Data Science and Problem Solving especially in Mathematics through this blog.  
 
@@ -21,4 +21,4 @@ Excited to exhibit my projects and solutions to various problems. I want to get 
 - [GitHub](http://github.com/Robertboy18)
 - [ACM](https://services.acm.org/public/vcard/vcard.cfm?handle=robertjoseph)
 
-<img src="https://i.ibb.co/wZqhNSG/ogp.png" width="500" height="300" />
+<img src="https://i.ibb.co/wrgh3F0/opt3.jpg" width="500" height="300" />
