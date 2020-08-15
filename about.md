@@ -21,4 +21,4 @@ Excited to exhibit my projects and solutions to various problems. I want to get 
 - [GitHub](http://github.com/Robertboy18)
 - [ACM](https://services.acm.org/public/vcard/vcard.cfm?handle=robertjoseph)
 
-<img src="https://i.ibb.co/wrgh3F0/opt3.jpg" width="600" height="400" />
+<img src="https://i.ibb.co/wrgh3F0/opt3.jpg" width="500" height="300" />
