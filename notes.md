@@ -25,7 +25,7 @@ I just finished my Freshman year of University in May and the past couple of mon
 
 <hr>
 
-Moreover I  definitely did take time off to focus on myself , read more and overall enjoyed this summer to the fullest. Can't wait for the new academic year to begin and really excited to be a sophomore.
+Moreover I  definitely did take time off to focus on myself , read more and overall enjoyed this summer to the fullest. Officially excited for the new academic year and really excited to learn as much as possible this year and connect with like minded peers.
 <hr>
 
 <img src = "https://i.pinimg.com/736x/91/8e/26/918e26bbdd2aaf795d98498e6375edd7.jpg" height = "500" width = "500">  
