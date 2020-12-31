@@ -4,10 +4,11 @@ The Klise Theme has been used and if you want to use it as your own do fork this
 
 <hr>
 <img src = "https://data.whicdn.com/images/327014997/original.jpg?t=1550766960">
+<hr>
+
 # Klisé
 
 Klisé is minimalist Jekyll theme for running a personal site and blog running on Jekyll.<br>
-For demo <a href="https://klise.now.sh" target="_blank" rel="noopener">klise.now.sh</a>
 
 ## Features
 
