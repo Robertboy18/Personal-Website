@@ -12,10 +12,6 @@ You’ve probably heard the phrase,
 
 Everyone has talents and God has been grateful to have blessed me with many of them. Skills however are what develop over the course of time and experiences are what makes us human.
 <hr>
-<img src = "https://i.pinimg.com/originals/99/46/0b/99460bfdb62560baad2653969e246a9b.jpg" width = "500" height = "500">
-<hr>
-Skills I have to offer 
-<hr>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -121,14 +117,14 @@ Skills I have to offer
   </tr>
   <tr>
     <td class="tg-1wig"><span style="font-weight:normal">Oral and Written Communication Skills</span></td>
-    <td class="tg-0lax">I love to participate in Elocutions, Debates and give seminars</td>
+    <td class="tg-0lax">I love to participate in elocution's, Debates and give seminars</td>
      <!--<td class="tg-0lax">4</td>-->
   </tr>
 </tbody>
 </table>
 <hr>
-This is definitely not the complete list of what I can offer but I will be adding more to this list. Thank you and have a great day.
+I strongly believe in the fact that if one puts effort into learning something they definitely can acquire the skill. I hope to acquire more skills and learn as much as I can.
 <hr>
-<img src = "https://media1.giphy.com/media/A4wSE2GQGTpfi/giphy.gif" width = "500" height = "500">   
+<img src = "https://www.mckinsey.com/~/media/McKinsey/McKinsey%20Quarterly/The%20Five%20Fifty/Soft-Skills-1536x1536.png">   
 
 -Robert
