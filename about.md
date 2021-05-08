@@ -1,5 +1,5 @@
 ---
-title: Realm 
+title: Introduction. 
 permalink: /about/
 layout: page
 excerpt: Hello peeps
