@@ -32,6 +32,24 @@ I hope my skills and the knowledge I have gained are reflected through these pro
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">Honors Ordinary Differential Equations - Research Project</td>
+    <td class="tg-0pky">Applied Mathematics</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/UAlberta-Mathematics/blob/main/MATH%20336/Research.pdf" target="_blank" rel="noopener noreferrer">Github</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">Mathematical Modelling - Research Project</td>
+    <td class="tg-0pky">Applied Mathematics</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/UAlberta-Mathematics/blob/main/MATH%20372/Dhaliwal_Basha_Joseph%20_2021Math372_TermProjectReport%20(1).pdf" target="_blank" rel="noopener noreferrer">Github</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2020</td>
+    <td class="tg-0pky">Blink Eye</td>
+    <td class="tg-0pky">Computer Vision</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/BlinkEyePython" target="_blank" rel="noopener noreferrer">Github</a></td>
+    </tr>
       <tr>
     <td class="tg-0pky">2020</td>
     <td class="tg-0pky">Graduate Admission Prediction</td>
