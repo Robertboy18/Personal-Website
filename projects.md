@@ -10,8 +10,6 @@ Hey Everyone~
 Throughout my life I have learnt to apply my skills in something which would benifit others or rather showcase my skills through some projects or publications. Each project relates to something I have learnt in the field of Computer Science or Mathematics or in general.
 I hope my skills and the knowledge I have gained are reflected through these projects.
 <hr>
-<img src = "https://pm1.narvii.com/7306/7e48598a6b21439a5a0d1a392b76ab72517bbddfr1-1084-1084v2_hq.jpg" width = "500" height = "500">
-<hr>
 **Projects I have completed**
 <hr>
 <style type="text/css">
@@ -105,6 +103,6 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 
 I will be updating this page regularly based on the completion of a project.
 <hr>
-<img src = "https://media.giphy.com/media/C8gkEYivtQDlGzyAwp/giphy.gifhttps://media.giphy.com/media/C8gkEYivtQDlGzyAwp/giphy.gif" width = "500" height = "500">  
+<img src = "https://99designs-blog.imgix.net/blog/wp-content/uploads/2016/06/900pxlightbulb.jpg?auto=format&q=60&fit=max&w=930">
 
 -Robert
