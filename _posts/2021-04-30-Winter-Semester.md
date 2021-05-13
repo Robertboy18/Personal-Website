@@ -6,7 +6,7 @@ tags: [Life,Winter,University life]
 ---
 Hey Everyone~
 <hr>
-I finally finished my winter semester of sophomore year and it was a great semester. Two of my courses MATH 336 - Honors ODE and MATH 372 - Mathematical Modelling I has a research component and will be linked below.
+I finally finished my winter semester of sophomore year and it was a great semester. Two of my courses MATH 336 - Honors ODE and MATH 372 - Mathematical Modelling I had a research component and will be linked below.
 <hr>
 # MATH 336 
 
