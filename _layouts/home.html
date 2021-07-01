@@ -2,12 +2,11 @@
 layout: default
 home: true
 ---
-h4 {text-align: center;}
 <!--
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
 <div class="elfsight-app-b13063fd-194b-41ac-a7f5-7c5932cf93f7"></div>
 -->
-<h4 class="posts-item-note">Recent Posts</h4>
+<h4 class="posts-item-note" text-align: center>Recent Posts</h4>
 {% for post in site.posts limit:5%}
 <article class="post-item">
   <span class="post-item-date">{{ post.date  | date: "%b %d, %Y" }}</span>
