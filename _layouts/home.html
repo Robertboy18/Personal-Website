@@ -9,8 +9,8 @@ home: true
 <h4 class="posts-item-note" align = "center">Recent Posts</h4>
 {% for post in site.posts limit:5%}
 <article class="post-item">
-  <span class="post-item-date">{{ post.date  | date: "%b %d, %Y" }}</span>
-  <h4 class="post-item-title">
+  <span class="post-item-date" align = "center">{{ post.date  | date: "%b %d, %Y" }}</span>
+  <h4 class="post-item-title" align = "center">
     <a href="{{ post.url }}">{{ post.title | escape }}</a>
   </h4>
 </article>
