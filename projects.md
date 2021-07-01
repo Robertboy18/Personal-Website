@@ -7,7 +7,7 @@ comments: false
 ---
 Hey Everyone~  
 <hr>
-Throughout my life I have learnt to apply my skills in something which would benifit others or rather showcase my skills through some projects or publications. Each project relates to something I have learnt in the field of Computer Science or Mathematics or in general.
+Throughout my life I have learnt to apply my skills in something which would benefit others or rather showcase my skills through some projects or publications. Each project relates to something I have learnt in the field of Computer Science or Mathematics or in general.
 I hope my skills and the knowledge I have gained are reflected through these projects.
 <hr>
 **Projects I have completed**
@@ -30,6 +30,12 @@ I hope my skills and the knowledge I have gained are reflected through these pro
   </tr>
 </thead>
 <tbody>
+<tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">National Undergraduate Big Data Challenge</td>
+    <td class="tg-0pky">Natural Language Processing</td>
+    <td class="tg-0pky"><a href="https://www.scribd.com/document/510636938/Research-GPT3" target="_blank" rel="noopener noreferrer">PDF</a></td>
+    </tr>
     <tr>
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">Honors Ordinary Differential Equations - Research Project</td>
