@@ -1,5 +1,5 @@
 ---
-title: Introduction. 
+title: Introduction
 permalink: /about/
 layout: page
 excerpt: Hello peeps
