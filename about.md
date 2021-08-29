@@ -8,7 +8,7 @@ comments: false
 **Name** : Robert Joseph  
 **University**: University of Alberta  
 **Degree**: Honors Applied Mathematics and Computational Sciences  
-**Year** : Sophomore  
+**Year** : Junior  
 
 Hey there everyone. I am interested in many a things and I hope I can showcase how much I love Competitive Programming, Machine Learning , Artificial Intelligence, Data Science and Problem Solving especially in Mathematics through this blog.  
 
