@@ -42,27 +42,28 @@ Everyone has talents and God has been grateful to have blessed me with many of t
   </tr>
   <tr>
     <td class="tg-0lax">Python Programming Language</td>
-    <td class="tg-0lax">Started in University and did some projects using Python<br><a href="https://github.com/Robertboy18/University-of-Alberta" target="_blank" rel="noopener noreferrer">Python Projects</a><br></td>
+    <td class="tg-0lax">Started in University and did some projects/research using Python<br><a href="https://github.com/Robertboy18/University-of-Alberta" target="_blank" rel="noopener noreferrer">Python Projects</a><br></td>
+     <!--<td class="tg-0lax">3</td>-->
+  </tr>
+    <tr>
+    <td class="tg-0lax">Algorithms</td>
+    <td class="tg-0lax">Love problem solving and approximation algorithms for NP Complete problems <br><a href="https://github.com/Robertboy18/University-of-Alberta" target="_blank" rel="noopener noreferrer">Python Projects</a><br></td>
      <!--<td class="tg-0lax">3</td>-->
   </tr>
   <tr>
     <td class="tg-0lax">SQL Database</td>
-    <td class="tg-0lax">Managed some databases and still learning since High School</td>
+    <td class="tg-0lax">Managed/Created some databases and still learning since High School</td>
      <!--<td class="tg-0lax">3</td>-->
   </tr>
   <tr>
     <td class="tg-0lax">HTML </td>
-    <td class="tg-0lax">Developed basic html files for my own website and <a href="https://aestheticboy17.tumblr.com/" target="_blank" rel="noopener noreferrer">Tumblr</a> </td>
+    <td class="tg-0lax">Developed basic html files for my own website</td>
      <!--<td class="tg-0lax">4</td>-->
   </tr>
-  <tr>
-    <td class="tg-0lax">CSS </td>
-    <td class="tg-0lax">Developed basic css templates for my own website and <a href="https://aestheticboy17.tumblr.com/" target="_blank" rel="noopener noreferrer">Tumblr</a></td>
-     <!--<td class="tg-0lax">3</td>-->
-  </tr>
+
   <tr>
     <td class="tg-0lax">Machine Learning </td>
-    <td class="tg-0lax">Machine learning Projects as well as Unsupervised/Supervised learning Algorithms -  Participating on <a href="https://www.kaggle.com/robertjoseph2001" target="_blank" rel="noopener noreferrer">Kaggle</a></td>
+    <td class="tg-0lax">Machine learning Projects/Internships as well as Unsupervised/Supervised learning Algorithms -  Participating on <a href="https://www.kaggle.com/robertjoseph2001" target="_blank" rel="noopener noreferrer">Kaggle</a></td>
      <!--<td class="tg-0lax">2</td>-->
   </tr>
   <tr>
@@ -92,12 +93,12 @@ Everyone has talents and God has been grateful to have blessed me with many of t
   </tr>
   <tr>
     <td class="tg-0lax">Writing</td>
-    <td class="tg-0lax">Written some books on <a href="https://www.wattpad.com/user/romancetxt" target="_blank" rel="noopener noreferrer">Wattpad</a> and some articles in Latex</td>
+    <td class="tg-0lax">Written some articles/Papers/Projects/Reports in Latex</td>
      <!--<td class="tg-0lax">4</td>-->
   </tr>
   <tr>
     <td class="tg-0lax">Mathematics</td>
-    <td class="tg-0lax">Analysis, Topology, Analytic Number theory are my main areas of interest <a href="https://www.researchgate.net/profile/Robert_Joseph" target="_blank" rel="noopener noreferrer">Research Gate</a> </td>
+    <td class="tg-0lax">Analysis,Numerical Algorithms are my main areas of interest <a href="https://www.researchgate.net/profile/Robert_Joseph" target="_blank" rel="noopener noreferrer">Research Gate</a> </td>
      <!--<td class="tg-0lax">4</td>-->
   </tr>
   <tr>
