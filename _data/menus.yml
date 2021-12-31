@@ -9,7 +9,11 @@
 - title: Notes
   url: /notes/
   external: false # set true if you using external link, see bellow
-  
+
+- title: Courses
+  url: /courses/
+  external: false # set true if you using external link, see bellow
+
 - title: Projects
   url: /projects/
   external: false # set true if you using external link, see bellow
