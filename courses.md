@@ -28,13 +28,11 @@ Courses that I have taken at the University of Alberta.
   </tr>
 </thead>
 <tbody>
-<tr>
+    <tr>
     <td class="tg-0pky">Winter 2021</td>
     <td class="tg-0pky">CMPUT 474 - Formal Languages, Automata, and Computability</td>
     <td class="tg-0pky">Formal grammars; relationship between grammars and automata; regular expressions; finite state machines; pushdown automata; Turing machines; computability; the halting problem; time and space complexit</td>
     </tr>
-    <tr>
-    
 </tbody>
 </table>
 
@@ -42,6 +40,7 @@ Courses that I have taken at the University of Alberta.
 
 I will be updating this page regularly based on the completion of a course.
 <hr>
+
 <img src = "https://www.dialogdesign.ca/assets/Projects/UAlberta-SUB/ualberta-SUB-design-dialog-exterior2.jpg">
 
 -Robert
