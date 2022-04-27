@@ -166,6 +166,6 @@ Important courses that I have taken/taking at the University of Alberta.
 I will be updating this page regularly based on the completion of a course.
 <hr>
 
-<img src = "https://www.dialogdesign.ca/assets/Projects/UAlberta-SUB/ualberta-SUB-design-dialog-exterior2.jpg">
+<img src = "https://www.ualberta.ca/folio/media-library/2020/05/200514-ualberta-fall2020-classes-banner.jpg">
 
 -Robert

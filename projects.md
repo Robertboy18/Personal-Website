@@ -30,7 +30,43 @@ I hope my skills and the knowledge I have gained are reflected through these pro
   </tr>
 </thead>
 <tbody>
-<tr>
+    <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">Using Object Detection Models to Identify and Count Arctic Wildlife</td>
+    <td class="tg-0pky">Artificial Intelligence</td>
+    <td class="tg-0pky">Reserved</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">Honors Thesis - Numerical Analysis of Real-time NMPC of Ethanol Steam Reformers</td>
+    <td class="tg-0pky">Numerical Algorithms</td>
+    <td class="tg-0pky">Pre-Print</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">Machine Learning Algorithms Implementation</td>
+    <td class="tg-0pky">Machine Learning</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Machine-Learning-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a></td>
+    </tr>
+      <tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">Fillactive Community App</td>
+    <td class="tg-0pky">Software Engineering</td>
+    <td class="tg-0pky">Taken over by Morgan Stanley</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">Numerical Algorithms Implementation</td>
+    <td class="tg-0pky">Numerical Algorithms</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Numerical-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">Theoritical Algorithms Implementation</td>
+    <td class="tg-0pky">Theoriticl Computer Science</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Theoretical-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a></td>
+    </tr>
+    <tr>
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">National Undergraduate Big Data Challenge</td>
     <td class="tg-0pky">Natural Language Processing</td>
@@ -109,6 +145,6 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 
 I will be updating this page regularly based on the completion of a project.
 <hr>
-<img src = "https://99designs-blog.imgix.net/blog/wp-content/uploads/2016/06/900pxlightbulb.jpg?auto=format&q=60&fit=max&w=930">
+<img src = "https://www.lovethispic.com/uploaded_images/38369-Heiligenblut-Austria.jpg">
 
 -Robert
