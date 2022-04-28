@@ -2,7 +2,7 @@
 title: Contact Form
 permalink: /contact/
 layout: page
-excerpt: 
+excerpt: Contact
 comments: false
 ---
 <html lang="en-US">

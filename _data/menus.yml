@@ -29,3 +29,7 @@
 - title: Tags
   url: /tags/
   external: false 
+
+- title: Contact
+  url: /contact/
+  external: false 
