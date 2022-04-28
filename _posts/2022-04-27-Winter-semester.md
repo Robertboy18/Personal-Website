@@ -2,7 +2,7 @@
 title: Winter Semester 2022~
 date: 2022-04-27 09:45:47 +07:00
 modified: 2022-04-27 09:24:47 +07:00
-tags: [Life,fall,University life]
+tags: [Life,Winter,University life]
 ---
 Hey Everyone~
 <hr>
