@@ -34,13 +34,13 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Using Object Detection Models to Identify and Count Arctic Wildlife</td>
     <td class="tg-0pky">Artificial Intelligence</td>
-    <td class="tg-0pky">Reserved</a></td>
+    <td class="tg-0pky"><a href="https://apps.ualberta.ca/catalogue/course/cmput/469" target="_blank" rel="noopener noreferrer">Reserved</a></td>
     </tr>
     <tr>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Honors Thesis - Numerical Analysis of Real-time NMPC of Ethanol Steam Reformers</td>
     <td class="tg-0pky">Numerical Algorithms</td>
-    <td class="tg-0pky">Pre-Print</a></td>
+    <td class="tg-0pky"><a href="https://apps.ualberta.ca/catalogue/course/math/499" target="_blank" rel="noopener noreferrer">Pre-Print</a></td>
     </tr>
     <tr>
     <td class="tg-0pky">2022</td>
@@ -52,7 +52,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">Fillactive Community App</td>
     <td class="tg-0pky">Software Engineering</td>
-    <td class="tg-0pky">Taken over by Morgan Stanley</a></td>
+    <td class="tg-0pky"><a href="https://www.businesswire.com/news/home/20210922005727/en/Morgan-Stanley-Code-to-Give-Hackathon-Provides-Montreal-Nonprofits-DESTA-Fillactive-and-La-Tabl%C3%A9e-des-Chefs-with-Technology-Solutions-to-Drive-their-Essential-Community-Work" target="_blank" rel="noopener noreferrer">Morgan Stanley</a></td>
     </tr>
     <tr>
     <td class="tg-0pky">2021</td>

@@ -7,29 +7,27 @@ comments: false
 ---
 Hey Everyone~
 
-I just finished my sophomore year of University in April and the past couple of months have been really fruitful and I have really learnt a lot in Mathematics/ML/AI as well as started two clubs at the University of Alberta and also was a Research and Teaching Assistant. I truly enjoyed this academic year by being with my family and online lessons have been a bliss for me.
+I just finished my Junior year of University in April and the past couple of months have been really fruitful and I have really learnt a lot in Mathematics/ML/AI as well was a Research and Teaching Assistant. I truly enjoyed this academic year by being with my family and in person lessons have been a bliss for me. I have met wonderful professors, and I have also been able to work with some really great people and meet great people in the community.
 <hr>
 <img src = "https://www.ualberta.ca/media-library/ualberta/admissions-and-programs/great-things/virtual-tour2-cropped.jpg">
 <hr>
 
-**Some of the Projects I did over Summer:-**
+**Some of the Research projects I plan to do over Summer:-**
 
 | Topic                      | Area of Reasearch           |
 |----------------------------|-----------------------------|
-| Ordinary Differential Equations               | [Applied Mathematics](https://gist.github.com/Robertboy18/ee39d9a5bc29b8fbd7849d70f195ece1#file-random-walks-ipynb) |
-| Unsolved Conjectures       | Analytic Number Theory      |
+| Numerical Algorithms               | Applied Mathematics|
+| Reinforcement Learning              | Artificial Intelligence|
 | Algorithms                  | [Theoretical Computer Science](https://github.com/Robertboy18/CLRS-Algorithms-Implementation)            |
-| Machine Learning           | [Computer Science](https://github.com/Robertboy18/Data-Science)          |
-| Data Science               | [Computer Science](https://github.com/Robertboy18/IBM-Data-Science)            |
-| Complex and Real Analysis | Analysis                 |
+| Theoritical Machine Learning           | Machine Learning |
 
 <hr>
 
-Moreover I am excited this summer for my internship with Microsoft and other workshops that I will be taking part in.
+Moreover I am excited this summer for all the research projects that I will be doing as well as going to Carnegie Mellon University to attend their presitiogous Summer School in Logic and Formal Epistemology.
 
 <hr>
 
-<img src = "https://hrdots.com/wp-content/uploads/2020/10/Azure.jpg">  
+<img src = "https://www.amii.ca/media/images/meta.2e16d0ba.fill-1370x800.jpg">  
 
 - Robert
 
