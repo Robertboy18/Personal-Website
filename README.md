@@ -26,8 +26,6 @@ Klisé is minimalist Jekyll theme for running a personal site and blog running o
 - [x] W3C **Validated**
 - [x] Lighthouse and PageSpeed **Passed**
 
-![Lighthouse Result](./lighthouse.png)
-
 ## Backlogs
 
 - [ ] Intergrated with PhotoSwipe.
