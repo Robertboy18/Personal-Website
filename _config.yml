@@ -81,5 +81,5 @@ plugins:
   - jekyll-postfiles
   - jekyll-paginate
   
-paginate: 10
+paginate: 7
 
