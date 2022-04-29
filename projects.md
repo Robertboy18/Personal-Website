@@ -63,7 +63,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <tr>
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">Theoritical Algorithms Implementation</td>
-    <td class="tg-0pky">Theoriticl Computer Science</td>
+    <td class="tg-0pky">Theoritical Computer Science</td>
     <td class="tg-0pky"><a href="https://github.com/Robertboy18/Theoretical-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a></td>
     </tr>
     <tr>
