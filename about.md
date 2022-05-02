@@ -5,13 +5,11 @@ layout: page
 excerpt: Hello peeps
 comments: false
 ---
+<img align="right" width="160" height="180" src="https://i.imgur.com/zO4Hmyt.jpg">
 
+**Robert Joseph George**
 
-<img align="right" width="160" height="180" style="border-radius:70%" src="assets\img\final.jpg">
-
-**Robert Joseph George** 
-
-UAlberta' 23, B.Sc Hons. Applied Mathematics and Computational Sciences  
+UAlberta' 23, B.Sc Hons. Applied Mathematics and Computer Science 
 
 I am currently a junior @UAlberta and am highly interested in Theoritical Machine Learning, Artificial Intelligence, Data Science and Mathematics (Numerical Algorithms). My major is Honors Mathematics while my minor is in Computer Science.
 
