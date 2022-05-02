@@ -6,33 +6,37 @@
   url: /about/
   external: false
 
-- title: Notes
-  url: /notes/
-  external: false # set true if you using external link, see bellow
-
 - title: Research
   url: /research/
   external: false
 
-- title: Courses
-  url: /courses/
+- title: Notes
+  url: /notes/
+  external: false # set true if you using external link, see bellow
+
+- title: Work
+  url: /work/
   external: false # set true if you using external link, see bellow
 
 - title: Projects
   url: /projects/
   external: false # set true if you using external link, see bellow
- 
+
 - title: Skills
   url: /skills/
+  external: false # set true if you using external link, see bellow
+
+- title: Courses
+  url: /courses/
   external: false # set true if you using external link, see bellow
   
 - title: Posts
   url: /posts/
   external: false
   
-- title: Tags
-  url: /tags/
-  external: false 
+#- title: Tags
+#  url: /tags/
+#  external: false 
 
 - title: Contact
   url: /contact/

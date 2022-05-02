@@ -7,9 +7,7 @@ comments: false
 ---
 Hey Everyone~  
 <hr>
-Important courses that I have taken/taking at the University of Alberta.
-<hr>
-**Courses I have completed/Taking**
+Important courses that I have taken/taking and was a Teaching Assistant for at the University of Alberta. The courses that I TA'ed are bolded. Most of the information is directly referenced from the University of Alberta's course catalogue.
 <hr>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -70,12 +68,12 @@ Important courses that I have taken/taking at the University of Alberta.
     </tr>
     <tr>
     <td class="tg-0pky">Winter 2020</td>
-    <td class="tg-0pky">CMPUT 267 - Basics of Machine Learning</td>
+    <td class="tg-0pky"><strong>CMPUT 267 - Basics of Machine Learning</strong></td>
     <td class="tg-0pky">This course introduces the fundamental statistical, mathematical, and computational concepts in analyzing data. The goal for this introductory course is to provide a solid foundation in the mathematics of machine learning, in preparation for more advanced machine learning concepts. The course focuses on univariate models, to simplify some of the mathematics and emphasize some of the underlying concepts in machine learning, including: how should one think about data, how can data be summarized, how models can be estimated from data, what sound estimation principles look like, how generalization is achieved, and how to evaluate the performance of learned models.</td>
     </tr>
     <tr>
     <td class="tg-0pky">Winter 2020</td>
-    <td class="tg-0pky">CMPUT 204 - Algorithms I</td>
+    <td class="tg-0pky"><strong>CMPUT 204 - Algorithms I</strong></td>
     <td class="tg-0pky">The first of two courses on algorithm design and analysis, with emphasis on fundamentals of searching, sorting, and graph algorithms. Examples include divide and conquer, dynamic programming, greedy methods, backtracking, and local search methods, together with analysis techniques to estimate program efficiency.</td>
     </tr>
     <tr>
@@ -140,12 +138,12 @@ Important courses that I have taken/taking at the University of Alberta.
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2019</td>
-    <td class="tg-0pky">MATH 117 - Honors Calculus I</td>
+    <td class="tg-0pky"><strong>MATH 117 - Honors Calculus I</strong></td>
     <td class="tg-0pky">Axiomatic systems, Real Analysis 1, Functions, continuity, and the derivative. Applications of the derivative. Extended limits and L'Hospital's rule. </td>
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2019</td>
-    <td class="tg-0pky">MATH 127 - Honors Linear Algebra I</td>
+    <td class="tg-0pky"><strong>MATH 127 - Honors Linear Algebra I</strong></td>
     <td class="tg-0pky">Systems of linear equations; vectors in Euclidean n-space; span and linear independence in Euclidean n-space; dot and cross product; orthogonality; lines and planes; matrix arithmetic; determinants; introduction to eigenvectors and eigenvalues; introduction to linear transformations; complex numbers; vector space axioms; subspaces and quotients.</td>
     </tr>
     <tr>
