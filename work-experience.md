@@ -5,12 +5,10 @@ layout: page
 excerpt: Work Experience
 ---
 
-A short summary of my work experience
+        A short summary of my work experience
 
+<img align = left src="https://www.amii.ca/media/images/meta.2e16d0ba.fill-1370x800.jpg" alt="Image" width="250" height="150">
 
-| Model           | Input Size | Parameters | GFLOPS |
-|-----------------|------------|------------|--------|
-| MobileNetV2-SSD | 300x300    | 15M        | 3.775  |
-| DETR            | 480x800    | 41M        | 86     |
-| YOLOX           | 640x640    | 9M         | 26.8   |
-| EfficientDet-DO | 512x512    | 4M         | 2.54   |
+        Alberta Machine Intelligence Institute (Amii)
+        Research Intern, Reinforcement Learning and Artificial Intelligence (RLAI) Lab, 2022 - Present
+

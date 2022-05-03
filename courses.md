@@ -2,7 +2,7 @@
 title: Courses
 permalink: /courses/
 layout: page
-excerpt: Courses
+excerpt: Courses & Teaching Assistant
 comments: false
 ---
 Hey Everyone~  
