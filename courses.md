@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Courses & Teaching Assistant
 permalink: /courses/
 layout: page
 excerpt: Courses & Teaching Assistant
