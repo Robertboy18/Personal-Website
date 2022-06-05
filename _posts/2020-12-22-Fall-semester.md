@@ -1,5 +1,5 @@
 ---
-title: Fall Semester~
+title: Fall Semester 2020 ~
 date: 2020-12-22 09:45:47 +07:00
 modified: 2020-12-22 09:24:47 +07:00
 tags: [Life,fall,University life]

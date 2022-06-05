@@ -7,10 +7,10 @@ home: true
 <div class="elfsight-app-b13063fd-194b-41ac-a7f5-7c5932cf93f7"></div>
 -->
 <h4 class="posts-item-note">Recent Posts</h4>
-{% for post in site.posts limit:5%}
-<article class="post-item">
-  <span class="post-item-date">{{ post.date  | date: "%b %d, %Y" }}</span>
-  <h4 class="post-item-title">
+{% for post in site.posts limit:11%}
+<article class="post-item" align = "center">
+  <span class="post-item-date" align = "center">{{ post.date  | date: "%b %d, %Y" }}</span>
+  <h4 class="post-item-title" align = "center">
     <a href="{{ post.url }}">{{ post.title | escape }}</a>
   </h4>
 </article>

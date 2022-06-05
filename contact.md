@@ -2,7 +2,7 @@
 title: Contact Form
 permalink: /contact/
 layout: page
-excerpt: 
+excerpt: Contact Form
 comments: false
 ---
 <html lang="en-US">
@@ -90,7 +90,7 @@ button {
   <p>
     <label>Message: <textarea name="message"></textarea></label>
   </p>
-  <div data-netlify-recaptcha="true"></div>
+  <div data-netlify-recaptcha="true" class="center"></div>
   <p>
     <button type="submit">Send</button>
   </p>

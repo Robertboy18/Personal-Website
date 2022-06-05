@@ -1,5 +1,5 @@
 ---
-title: Winter Semester~
+title: Winter Semester 2020~
 date: 2021-04-30 09:45:47 +07:00
 modified: 2021-04-30 09:24:47 +07:00
 tags: [Life,Winter,University life]

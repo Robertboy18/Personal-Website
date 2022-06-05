@@ -7,7 +7,7 @@ comments: false
 ---
 Hey Everyone~  
 <hr>
-Throughout my life I have learnt to apply my skills in something which would benifit others or rather showcase my skills through some projects or publications. Each project relates to something I have learnt in the field of Computer Science or Mathematics or in general.
+Throughout my life I have learnt to apply my skills in something which would benefit others or rather showcase my skills through some projects or publications. Each project relates to something I have learnt in the field of Computer Science or Mathematics or in general.
 I hope my skills and the knowledge I have gained are reflected through these projects.
 <hr>
 **Projects I have completed**
@@ -30,6 +30,48 @@ I hope my skills and the knowledge I have gained are reflected through these pro
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">Using Object Detection Models to Identify and Count Arctic Wildlife</td>
+    <td class="tg-0pky">Artificial Intelligence</td>
+    <td class="tg-0pky"><a href="https://apps.ualberta.ca/catalogue/course/cmput/469" target="_blank" rel="noopener noreferrer">Reserved</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">Honors Thesis - Numerical Analysis of Real-time NMPC of Ethanol Steam Reformers</td>
+    <td class="tg-0pky">Numerical Algorithms</td>
+    <td class="tg-0pky"><a href="https://apps.ualberta.ca/catalogue/course/math/499" target="_blank" rel="noopener noreferrer">Pre-Print</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">Machine Learning Algorithms Implementation</td>
+    <td class="tg-0pky">Machine Learning</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Machine-Learning-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a></td>
+    </tr>
+      <tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">Fillactive Community App</td>
+    <td class="tg-0pky">Software Engineering</td>
+    <td class="tg-0pky"><a href="https://www.businesswire.com/news/home/20210922005727/en/Morgan-Stanley-Code-to-Give-Hackathon-Provides-Montreal-Nonprofits-DESTA-Fillactive-and-La-Tabl%C3%A9e-des-Chefs-with-Technology-Solutions-to-Drive-their-Essential-Community-Work" target="_blank" rel="noopener noreferrer">Morgan Stanley</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">Numerical Algorithms Implementation</td>
+    <td class="tg-0pky">Numerical Algorithms</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Numerical-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">Theoritical Algorithms Implementation</td>
+    <td class="tg-0pky">Theoritical Computer Science</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Theoretical-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-0pky">National Undergraduate Big Data Challenge</td>
+    <td class="tg-0pky">Natural Language Processing</td>
+    <td class="tg-0pky"><a href="https://www.scribd.com/document/510636938/Research-GPT3" target="_blank" rel="noopener noreferrer">PDF</a></td>
+    </tr>
     <tr>
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">Honors Ordinary Differential Equations - Research Project</td>
@@ -103,6 +145,6 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 
 I will be updating this page regularly based on the completion of a project.
 <hr>
-<img src = "https://99designs-blog.imgix.net/blog/wp-content/uploads/2016/06/900pxlightbulb.jpg?auto=format&q=60&fit=max&w=930">
+<img src = "https://www.lovethispic.com/uploaded_images/38369-Heiligenblut-Austria.jpg">
 
 -Robert
