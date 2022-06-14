@@ -6,8 +6,7 @@ excerpt: Projects
 comments: false
 ---
 Hey Everyone~  
-<hr>
-Throughout my life I have learnt to apply my skills in something which would benefit others or rather showcase my skills through some projects or publications. Each project relates to something I have learnt in the field of Computer Science or Mathematics or in general.
+<hr>Throughout my life, I have learned to apply my skills in something which would benefit others or rather showcase my skills through some projects or publications. Each project relates to something I have learned in the field of Computer Science or Mathematics or in general.
 I hope my skills and the knowledge I have gained are reflected through these projects.
 <hr>
 **Projects I have completed**
@@ -62,8 +61,8 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     </tr>
     <tr>
     <td class="tg-0pky">2021</td>
-    <td class="tg-0pky">Theoritical Algorithms Implementation</td>
-    <td class="tg-0pky">Theoritical Computer Science</td>
+    <td class="tg-0pky">Theoretical Algorithms Implementation</td>
+    <td class="tg-0pky">Theoretical Computer Science</td>
     <td class="tg-0pky"><a href="https://github.com/Robertboy18/Theoretical-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a></td>
     </tr>
     <tr>
