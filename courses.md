@@ -27,6 +27,55 @@ Important courses that I have taken/taking and was a Teaching Assistant for at t
 </thead>
 <tbody>
     <tr>
+    <td class="tg-0pky">Winter 2022</td>
+    <td class="tg-0pky">MATH 417 - Honors Real Variables I
+</td>
+    <td class="tg-0pky">Brief review of set operations and countable sets. Measure theory, integration theory, Lebesgue measure and integrals on R^n, product measure, Tonelli-Fubini theorem. Functions of bounded variation, absolutely continuous functions. </td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">Winter 2022</td>
+    <td class="tg-0pky">CMPUT 200 - Ethics of Data Science and Artificial Intelligence
+</td>
+    <td class="tg-0pky">This course focuses on ethics issues in Artificial Intelligence ethics in Artificial Intelligence (AI) and Data Science (DS). The main themes are privacy, fairness/bias, and explainability in DS. The objectives are to learn how to identify and measure these aspects in outputs of algorithms, and how to build algorithms that correct for these issues. The course will follow a case-studies based approach, where we will examine these aspects by considering real-world case studies for each of these ethics issues. The concepts will be introduced through a humanities perspective before a technical treatment including implementation work.</td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">Winter 2022</td>
+    <td class="tg-0pky">CMPUT 365 - Introduction to Reinforcement Learning
+</td>
+    <td class="tg-0pky">This course provides an introduction to reinforcement learning, which focuses on the study and design of learning agents that interact with a complex, uncertain world to achieve a goal. The course will cover multi- armed bandits, Markov decision processes, reinforcement learning, planning, and function approximation (online supervised learning). The course will take an information-processing approach to the study of intelligence and briefly touch on perspectives from psychology, neuroscience, and philosophy. The course will use the University of Alberta MOOC on Reinforcement Learning. Any student who understands the material in this course will understand the foundations of much of modern probabilistic artificial intelligence (AI) and be prepared to take more advanced courses, or to apply AI tools and ideas to real-world problems.</td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">Fall 2022</td>
+    <td class="tg-0pky">CMPUT 366 - Search and Planning in Artificial Intelligence
+</td>
+    <td class="tg-0pky">This course provides an introduction to search and planning in artificial intelligence. The course covers deterministic single-agent and multi-agent problems. Students will learn how to model real-world problems as state-space search problems and how to solve such problems. The course covers algorithms for solving deterministic shortest path problems with factored and non-factored states, combinatorial optimization problems, constraint satisfaction problems, and multi- agent problems</td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">Fall 2022</td>
+    <td class="tg-0pky">CMPUT 261 - Introduction to Artificial Intelligence
+</td>
+    <td class="tg-0pky">Introduction to artificial intelligence focusing on techniques for building intelligent software systems and agents. Topics include search and problem-solving techniques, knowledge representation and reasoning, reasoning and acting under uncertainty, machine learning and neural networks.</td>
+    </tr>
+    <tr>
+    <tr>
+    <td class="tg-0pky">Fall 2022</td>
+    <td class="tg-0pky">MATH 436 - Intermediate Partial Differential Equations I
+</td>
+    <td class="tg-0pky">Partial differential equations as physical models. Introduction to basic generalized functions. Theory of linear and quasi-linear first-order equations: general solution, initial value problem, generalized solutions and propagation of singularities, characteristic surfaces, shock formation. Theory of fully nonlinear first order equations: complete solution and the initial value problem. Hamilton-Jacobi equation and its applications. Second order linear equations in n dimensions: classification, canonical form, characteristic surfaces and shock formation, initial and boundary value problem</td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">Fall 2022</td>
+    <td class="tg-0pky">MATH 436 - Intermediate Partial Differential Equations I
+</td>
+    <td class="tg-0pky">Partial differential equations as physical models. Introduction to basic generalized functions. Theory of linear and quasi-linear first-order equations: general solution, initial value problem, generalized solutions and propagation of singularities, characteristic surfaces, shock formation. Theory of fully nonlinear first order equations: complete solution and the initial value problem. Hamilton-Jacobi equation and its applications. Second order linear equations in n dimensions: classification, canonical form, characteristic surfaces and shock formation, initial and boundary value problem</td>
+    </tr>
+<tr>
+    <td class="tg-0pky">Fall 2022</td>
+    <td class="tg-0pky">MATH 411 - Honors Complex Variables
+</td>
+    <td class="tg-0pky">Complex number system. Analytic functions. Cauchy's Integral theorem and formula. Applications including the maximum modulus principle, Taylor expansion and Laurent expansion. Harmonic functions. The residue theorem with applications; calculus of residues, argument principle, and Rouche's theorem. Basics of analytic continuation. Additional topics at the instructor's discretion such as: Normal families, The Riemann mapping Theorem, Picard's Theorem. For Honors students</td>
+    </tr>
+    <tr>
     <td class="tg-0pky">Winter 2021</td>
     <td class="tg-0pky">CMPUT 474 - Formal Languages, Automata, and Computability</td>
     <td class="tg-0pky">Formal grammars; relationship between grammars and automata; regular expressions; finite state machines; pushdown automata; Turing machines; computability; the halting problem; time and space complexity</td>
