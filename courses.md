@@ -29,13 +29,13 @@ Important courses that I have taken/taking and was a Teaching Assistant for at t
     <tr>
     <td class="tg-0pky">Winter 2022</td>
     <td class="tg-0pky">MATH 417 - Honors Real Variables I
-</td>
+    </td>
     <td class="tg-0pky">Brief review of set operations and countable sets. Measure theory, integration theory, Lebesgue measure and integrals on R^n, product measure, Tonelli-Fubini theorem. Functions of bounded variation, absolutely continuous functions. </td>
     </tr>
     <tr>
     <td class="tg-0pky">Winter 2022</td>
     <td class="tg-0pky">CMPUT 200 - Ethics of Data Science and Artificial Intelligence
-</td>
+    </td>
     <td class="tg-0pky">This course focuses on ethics issues in Artificial Intelligence ethics in Artificial Intelligence (AI) and Data Science (DS). The main themes are privacy, fairness/bias, and explainability in DS. The objectives are to learn how to identify and measure these aspects in outputs of algorithms, and how to build algorithms that correct for these issues. The course will follow a case-studies based approach, where we will examine these aspects by considering real-world case studies for each of these ethics issues. The concepts will be introduced through a humanities perspective before a technical treatment including implementation work.</td>
     </tr>
     <tr>
@@ -209,7 +209,6 @@ Important courses that I have taken/taking and was a Teaching Assistant for at t
 </table>
 
 <hr>
-
 I will be updating this page regularly based on the completion of a course.
 <hr>
 
