@@ -27,6 +27,26 @@ Important courses that I have taken/taking and was a Teaching Assistant for at t
 </thead>
     <tbody>
     <tr>
+    <td class="tg-0pky">Fall 2022</td>
+    <td class="tg-0pky">CMPUT 261 - Introduction to Artificial Intelligence</td>
+    <td class="tg-0pky">Introduction to artificial intelligence focusing on techniques for building intelligent software systems and agents. Topics include search and problem-solving techniques, knowledge representation and reasoning, reasoning and acting under uncertainty, machine learning and neural networks.</td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">Fall 2022</td>
+    <td class="tg-0pky">MATH 436 - Intermediate Partial Differential Equations I</td>
+    <td class="tg-0pky">Partial differential equations as physical models. Introduction to basic generalized functions. Theory of linear and quasi-linear first-order equations: general solution, initial value problem, generalized solutions and propagation of singularities, characteristic surfaces, shock formation. Theory of fully nonlinear first order equations: complete solution and the initial value problem. Hamilton-Jacobi equation and its applications. Second order linear equations in n dimensions: classification, canonical form, characteristic surfaces and shock formation, initial and boundary value problem</td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">Fall 2022</td>
+    <td class="tg-0pky">MATH 436 - Intermediate Partial Differential Equations I</td>
+    <td class="tg-0pky">Partial differential equations as physical models. Introduction to basic generalized functions. Theory of linear and quasi-linear first-order equations: general solution, initial value problem, generalized solutions and propagation of singularities, characteristic surfaces, shock formation. Theory of fully nonlinear first order equations: complete solution and the initial value problem. Hamilton-Jacobi equation and its applications. Second order linear equations in n dimensions: classification, canonical form, characteristic surfaces and shock formation, initial and boundary value problem</td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">Fall 2022</td>
+    <td class="tg-0pky">MATH 411 - Honors Complex Variables</td>
+    <td class="tg-0pky">Complex number system. Analytic functions. Cauchy's Integral theorem and formula. Applications including the maximum modulus principle, Taylor expansion and Laurent expansion. Harmonic functions. The residue theorem with applications; calculus of residues, argument principle, and Rouche's theorem. Basics of analytic continuation. Additional topics at the instructor's discretion such as: Normal families, The Riemann mapping Theorem, Picard's Theorem. For Honors students</td>
+    </tr>
+    <tr>
     <td class="tg-0pky">Winter 2021</td>
     <td class="tg-0pky">CMPUT 474 - Formal Languages, Automata, and Computability</td>
     <td class="tg-0pky">Formal grammars; relationship between grammars and automata; regular expressions; finite state machines; pushdown automata; Turing machines; computability; the halting problem; time and space complexity</td>
