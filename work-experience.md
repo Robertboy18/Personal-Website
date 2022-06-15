@@ -1,5 +1,5 @@
 ---
-title: Work Experience
+title: Work & Research Experience
 permalink: /work/
 layout: page
 excerpt: Work & Research Experience
