@@ -50,10 +50,12 @@ Manager: Saurabh Agarwal
 <hr>
 
 <img align = "right" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-of-alberta-logo.jpg" alt="Image" width="250" height="150">
+
 International Undergraduate Summer Enrichment Program
 Participant, Department of Mathematical and Statistical Sciences, 04/2021 - 05/2021<br>
 Academic advisor: Linglong Kong
 <hr>
+
 <img align = "right" src="https://engcourses-uofa.ca/wp-content/themes/samer_custom_theme/img/Faculty_Wordmark_Standard.jpg" alt="Image" width="250" height="150">
 
 University of Alberta <br>
