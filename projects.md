@@ -6,8 +6,7 @@ excerpt: Projects
 comments: false
 ---
 Hey Everyone~  
-<hr>
-Throughout my life I have learnt to apply my skills in something which would benefit others or rather showcase my skills through some projects or publications. Each project relates to something I have learnt in the field of Computer Science or Mathematics or in general.
+<hr>Throughout my life, I have learned to apply my skills in something which would benefit others or rather showcase my skills through some projects or publications. Each project relates to something I have learned in the field of Computer Science or Mathematics or in general.
 I hope my skills and the knowledge I have gained are reflected through these projects.
 <hr>
 **Projects I have completed**
@@ -29,12 +28,18 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <th class="tg-0pky">Project Link</th>
   </tr>
 </thead>
-<tbody>
+<tbody>    
     <tr>
     <td class="tg-0pky">2022</td>
-    <td class="tg-0pky">Using Object Detection Models to Identify and Count Arctic Wildlife</td>
+    <td class="tg-0pky">The Mathematical Contest in Modeling - Water and Hydroelectric Power Sharing</td>
+    <td class="tg-0pky">Applied Mathematics</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Personal-Website/blob/master/2221823.pdf" target="_blank" rel="noopener noreferrer">Published (Drought and Rain Magazine)</a></td>
+    </tr>
+    <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">AI Research Capstone - Using Object Detection Models to Identify and Count Arctic Wildlife</td>
     <td class="tg-0pky">Artificial Intelligence</td>
-    <td class="tg-0pky"><a href="https://apps.ualberta.ca/catalogue/course/cmput/469" target="_blank" rel="noopener noreferrer">Reserved</a></td>
+    <td class="tg-0pky"><a href="https://apps.ualberta.ca/catalogue/course/cmput/469" target="_blank" rel="noopener noreferrer">Pre-Print</a></td>
     </tr>
     <tr>
     <td class="tg-0pky">2022</td>
@@ -62,8 +67,8 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     </tr>
     <tr>
     <td class="tg-0pky">2021</td>
-    <td class="tg-0pky">Theoritical Algorithms Implementation</td>
-    <td class="tg-0pky">Theoritical Computer Science</td>
+    <td class="tg-0pky">Theoretical Algorithms Implementation</td>
+    <td class="tg-0pky">Theoretical Computer Science</td>
     <td class="tg-0pky"><a href="https://github.com/Robertboy18/Theoretical-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a></td>
     </tr>
     <tr>

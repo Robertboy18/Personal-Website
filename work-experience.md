@@ -1,10 +1,10 @@
 ---
-title: Work Experience
+title: Work & Research Experience
 permalink: /work/
 layout: page
-excerpt: Work Experience
+excerpt: Work & Research Experience
 ---
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A short summary of my work experience
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A short summary of my work & research experience
 <hr>
 
 <img align = "right" src="https://www.amii.ca/media/images/meta.2e16d0ba.fill-1370x800.jpg" alt="Image" width="250" height="150">
