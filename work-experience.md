@@ -60,7 +60,7 @@ Academic advisor: Linglong Kong
 
 University of Alberta <br>
 Research Assistant, Facult of Engineering + Arts + Buisness, 08/2020 - 05/2021 <br>
-Academic advisor: Lianne Lefsrud, Joel Gehman, Heather Eckert
+Academic advisors: Lianne Lefsrud and Joel Gehman
 <hr>
 <img align = "right" src="https://cdn.vox-cdn.com/thumbor/p01ezbiuDHgRFQ-htBCd7QxaYxo=/0x105:2012x1237/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg" alt="Image" width="250" height="150">
 

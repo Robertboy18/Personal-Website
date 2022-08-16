@@ -11,7 +11,7 @@ comments: false
 
 I am currently a junior @UAlberta and am highly interested in Theoretical Machine Learning, Artificial Intelligence, Data Science and Mathematics (Numerical Algorithms). My major is Honors Applied Mathematics while my minor is in Computer Science.
 
-rjoseph1 (at) ualberta (dot) ca | [Linkedin](https://www.linkedin.com/in/robert-joseph-2001/) | [GitHub](http://github.com/Robertboy18) | [ACM](https://services.acm.org/public/vcard/vcard.cfm?handle=robertjoseph) | [Instagram](https://www.instagram.com/robertljg/) | [Google Scholar](https://scholar.google.com/citations?user=5P1Uwy4AAAAJ&hl=en)
+Email : rjoseph1 (at) ualberta (dot) ca | [Linkedin](https://www.linkedin.com/in/robert-joseph-2001/) | [GitHub](http://github.com/Robertboy18) | [ACM](https://services.acm.org/public/vcard/vcard.cfm?handle=robertjoseph) | [Instagram](https://www.instagram.com/robertljg/) | [Google Scholar](https://scholar.google.com/citations?user=5P1Uwy4AAAAJ&hl=en)
 
 
 
