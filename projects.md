@@ -45,7 +45,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Honors Thesis - Numerical Analysis of Real-time NMPC of Ethanol Steam Reformers</td>
     <td class="tg-0pky">Numerical Algorithms</td>
-    <td class="tg-0pky"><a href="https://cumc.math.ca/2022/presentation-database" target="_blank" rel="noopener noreferrer">Conference Submission</a></td>
+    <td class="tg-0pky"><a href="https://cumc.math.ca/2022/presentation-database" target="_blank" rel="noopener noreferrer">Conference - CUMC 2022</a></td>
     </tr>
     <tr>
     <td class="tg-0pky">2022</td>
