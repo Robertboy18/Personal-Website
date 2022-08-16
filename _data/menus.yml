@@ -34,7 +34,7 @@
   url: /courses/
   external: false # set true if you using external link, see bellow
   
-- title: Posts
+- title: Archive
   url: /posts/
   external: false
   
