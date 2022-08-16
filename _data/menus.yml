@@ -35,7 +35,7 @@
   external: false # set true if you using external link, see bellow
   
 - title: Archive
-  url: /posts/
+  url: /archive/
   external: false
   
 #- title: Tags
