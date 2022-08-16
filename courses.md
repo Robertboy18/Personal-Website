@@ -60,11 +60,6 @@ Important courses that I have taken/taking and was a Teaching Assistant for at t
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2022</td>
-    <td class="tg-0pky">MATH 436 - Intermediate Partial Differential Equations I</td>
-    <td class="tg-0pky">Partial differential equations as physical models. Introduction to basic generalized functions. Theory of linear and quasi-linear first-order equations: general solution, initial value problem, generalized solutions and propagation of singularities, characteristic surfaces, shock formation. Theory of fully nonlinear first order equations: complete solution and the initial value problem. Hamilton-Jacobi equation and its applications. Second order linear equations in n dimensions: classification, canonical form, characteristic surfaces and shock formation, initial and boundary value problem</td>
-    </tr>
-    <tr>
-    <td class="tg-0pky">Fall 2022</td>
     <td class="tg-0pky">MATH 411 - Honors Complex Variables</td>
     <td class="tg-0pky">Complex number system. Analytic functions. Cauchy's Integral theorem and formula. Applications including the maximum modulus principle, Taylor expansion and Laurent expansion. Harmonic functions. The residue theorem with applications; calculus of residues, argument principle, and Rouche's theorem. Basics of analytic continuation. Additional topics at the instructor's discretion such as: Normal families, The Riemann mapping Theorem, Picard's Theorem. For Honors students</td>
     </tr>
@@ -79,12 +74,12 @@ Important courses that I have taken/taking and was a Teaching Assistant for at t
     <td class="tg-0pky">Students will experience the challenges, and rewards, of working in a team to address a real-world task, related to artificial intelligence or machine learning. This will involve first identifying the task itself, then iteratively addressing relevant issues (typically with feedback from a domain expert), leading to an implementation and culminating in evaluating that system. Students will also learn about best practices in organizing team projects, as well as important information about effective communication</td>
     </tr>
     <tr>
-    <td class="tg-0pky">Winter 2021</td>
+    <td class="tg-0pky">Winter 2021,2022</td>
     <td class="tg-0pky">MATH 499 - Research Project</td>
     <td class="tg-0pky">This course provides students in Specialization and Honors programs an opportunity to pursue research in mathematics under the direction of a member of the Department. Course requirements include at least one oral presentation and a written final report. Students interested in taking this course should contact the course coordinator two months in advance.</td>
     </tr>
     <tr>
-    <td class="tg-0pky">Winter 2021</td>
+    <td class="tg-0pky">Fall 2021, Winter 2021, 2022</td>
     <td class="tg-0pky">MATH 298 - Problem Solving Seminar</td>
     <td class="tg-0pky">Problem solving techniques (pigeonhole principle, invariants, extremal principle, etc.) and survey of problems from various branches of mathematics: calculus, number theory, algebra, combinatorics, probability, geometry, etc. This credit/no-credit course is intended for students interested in mathematics contests and participation in the Putnam Mathematical Competition will be required.</td>
     </tr>
@@ -105,7 +100,7 @@ Important courses that I have taken/taking and was a Teaching Assistant for at t
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2021</td>
-    <td class="tg-0pky">CMPUT 304 - Advanced Algorithms</td>
+    <td class="tg-0pky"><strong>CMPUT 304 - Advanced Algorithms</strong></td>
     <td class="tg-0pky">The second course of a two-course sequence on algorithm design. Emphasis on principles of algorithm design. Categories of algorithms such as divide-and-conquer, greedy algorithms, dynamic programming; analysis of algorithms; limits of algorithm design; NP-completeness; heuristic algorithms. </td>
     </tr>
     <tr>
