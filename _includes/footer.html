@@ -1,6 +1,14 @@
 <footer class="footer">
-  <a class="footer_item" href="/thanks">ack.</a>
-  <a class="footer_item" href="/resume">resume.</a>
+  <a class="footer_item" href="/thanks">acknoledgment</a>
+  <a class="footer_item" href="/resume">resume</a>
+  <a href="https://github.com/Robertboy18" style="text-decoration:None" title="GitHub">
+    <i class="fa fa-github-alt" aria-hidden="true"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/robert-joseph-2001/" style="text-decoration:None" title="Linkedin">
+    <i class="fa fa-linkedin" aria-hidden="true"></i>
+  </a>
+  <a href="https://twitter.com/{{ site.author.twitter}}" style="text-decoration:None" title="Twitter">
+    <i class="fa fa-twitter" aria-hidden="true"></i>
   <!--<a class="footer_item" href="/contact">contact.</a>-->
   <span class="footer_item">&copy; {{ site.time | date: "2022" }}</span>
   <small class="footer_theme-copyright">
@@ -24,3 +32,13 @@
   var galite = galite || {};
   galite.UA = "{{ site.google_analytics }}";
 </script>
+{%- if page.url == '/archive/' -%}
+  <script src="/assets/js/search.min.js"></script>
+  <script>
+    var sjs = SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('search-results'),
+      json: '/assets/search.json',
+    });
+  </script>
+{%- endif -%}
