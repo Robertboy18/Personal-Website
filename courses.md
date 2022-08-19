@@ -7,7 +7,7 @@ comments: false
 ---
 Hey Everyone~  
 <hr>
-Important courses that I have taken/taking and was a Teaching Assistant for at the University of Alberta. The courses that I TA'ed are bolded. Most of the information is directly referenced from the University of Alberta's course catalogue.
+Important courses that I have taken/taking and was a Teaching Assistant for at the University of Alberta. The courses that I TA'ed (Will be TA'ing) are bolded. Most of the information is directly referenced from the University of Alberta's course catalogue.
 <hr>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
