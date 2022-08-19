@@ -37,7 +37,7 @@ Academic advisor: Russ Greiner
 
 <img align = "right" src="https://artsandscience.usask.ca/news/img/2739.jpg" alt="Image" width="250" height="150">
 
-Pacific Institute for the Mathematical Sciences<br>
+Pacific Institute for the Mathematical Sciences
 Research Assistant, Department of Mathematical and Statistical Sciences, 01/2022 - 04/2022<br>
 Academic advisor: Xinwei Yu
 <hr>
