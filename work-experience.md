@@ -50,7 +50,7 @@ Research Assistant, Department of Medicine & Dentistry, 10/2021 - 06/2022<br>
 Academic advisor: Russ Greiner
 <hr>
 
-<img align = "right" src="https://cdn.vox-cdn.com/thumbor/0pAzN6LdawcEO1pxZXy-78_VgVU=/7x0:633x417/1400x1050/filters:focal(7x0:633x417):format(jpeg)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg" alt="Image" width="250" height="150">
+<img align = "right" src="https://cdn.vox-cdn.com/thumbor/0pAzN6LdawcEO1pxZXy-78_VgVU=/7x0:633x417/1400x1050/filters:focal(7x0:633x417):format(jpeg)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg" alt="Image" width="250" height="130">
 
 Microsoft<br>
 Data Science Intern, Cloud and Artificial Intelligence, 04/2021 - 07/2021<br>
@@ -66,7 +66,7 @@ Academic advisor: Linglong Kong
 <img align = "right" src="https://engcourses-uofa.ca/wp-content/themes/samer_custom_theme/img/Faculty_Wordmark_Standard.jpg" alt="Image" width="250" height="150">
 
 University of Alberta<br>
-Research Assistant, Faculty of Engineering + Arts + Buisness, 08/2020 - 05/2021<br>
+Research Assistant, Faculty of Engineering + Arts + Business, 08/2020 - 05/2021<br>
 Academic advisors: Lianne Lefsrud and Joel Gehman
 <hr>
 <img align = "right" src="https://cdn.vox-cdn.com/thumbor/p01ezbiuDHgRFQ-htBCd7QxaYxo=/0x105:2012x1237/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg" alt="Image" width="250" height="150">
