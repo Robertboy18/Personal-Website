@@ -11,19 +11,23 @@ excerpt: Work & Research Experience
 
 Alberta Machine Intelligence Institute (Amii) <br>
 Research Intern, Reinforcement Learning and Artificial Intelligence (RLAI) Lab, 01/2022 - Present<br>
-Academic advisor: Martha White
+Academic advisor: Martha White and Adam White
 <hr>
-<!--<img align = "right" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-of-alberta-logo.jpg" alt="Image" width="250" height="150">
+
+<img align = "right" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-of-alberta-logo.jpg" alt="Image" width="250" height="150">
+
 University of Alberta <br>
 Research Assistant, Department of Mathematics and Statistics, 05/2022 - Present <br>
 Academic advisor: John Bowman
-<hr>-->
+<hr>
+
 <img align = "right" src="https://www.wishartlab.com/system/images/W1siZiIsIjIwMjEvMDgvMTMvNGhjcTdlcDRsbV9GdWxsQ29sb3JfMTI4MHgxMDI0XzMwMGRwaV9MT0dPMl8uanBnIl0sWyJwIiwidGh1bWIiLCIyMjV4MjU1XHUwMDNlIl1d/FullColor_1280x1024_300dpi%28LOGO2%29.jpg" alt="Image" width="250" height="150">
 
 Wishart Research Group<br>
 Research Assistant, Department of Biology (AI Computational Group), 01/2022 - Present<br>
 Academic advisor: David Wishart
 <hr>
+
 <img align = "right" src="https://ccs.ca/CCC/CCC2018/en/img/supporters/nivo-vigour.png" alt="Image" width="250" height="150">
 
 Canadian VIGOUR center<br>
@@ -46,15 +50,17 @@ Manager: Saurabh Agarwal
 <hr>
 
 <img align = "right" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-of-alberta-logo.jpg" alt="Image" width="250" height="150">
+
 International Undergraduate Summer Enrichment Program
-Summer Participant, Department of Mathematical and Statistical Sciences, 04/2021 - 05/2021<br>
+Participant, Department of Mathematical and Statistical Sciences, 04/2021 - 05/2021<br>
 Academic advisor: Linglong Kong
 <hr>
+
 <img align = "right" src="https://engcourses-uofa.ca/wp-content/themes/samer_custom_theme/img/Faculty_Wordmark_Standard.jpg" alt="Image" width="250" height="150">
 
 University of Alberta <br>
 Research Assistant, Facult of Engineering + Arts + Buisness, 08/2020 - 05/2021 <br>
-Academic advisor: Lianne Lefsrud, Joel Gehman, Heather Eckert
+Academic advisors: Lianne Lefsrud and Joel Gehman
 <hr>
 <img align = "right" src="https://cdn.vox-cdn.com/thumbor/p01ezbiuDHgRFQ-htBCd7QxaYxo=/0x105:2012x1237/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg" alt="Image" width="250" height="150">
 
