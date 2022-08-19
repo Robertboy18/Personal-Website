@@ -7,6 +7,13 @@ excerpt: Work & Research Experience
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A short summary of my work & research experience
 <hr>
 
+<img align = "right" src="https://findvectorlogo.com/wp-content/uploads/2019/01/california-institute-of-technology-caltech-vector-logo.png" alt="Image" width="250" height="150">
+
+California Institute of Technology (Caltech) <br>
+Research Intern, Center for Mathematical and Computing Sciences (CMS), 07/2022 - Present<br>
+Academic advisor: Animashree Anandkumar 
+<hr>
+
 <img align = "right" src="https://www.amii.ca/media/images/meta.2e16d0ba.fill-1370x800.jpg" alt="Image" width="250" height="150">
 
 Alberta Machine Intelligence Institute (Amii) <br>
@@ -37,8 +44,8 @@ Academic advisor: Russ Greiner
 
 <img align = "right" src="https://artsandscience.usask.ca/news/img/2739.jpg" alt="Image" width="250" height="150">
 
-Pacific Institute for the Mathematical Sciences
-Research Assistant, Department of Mathematical and Statistical Sciences, 01/2022 - 04/2022<br>
+Pacific Institute for the Mathematical Sciences <br>
+Research Assistant, Department of Mathematical and Statistical Sciences, 01/2022 - 04/2022 <br>
 Academic advisor: Xinwei Yu
 <hr>
 
@@ -51,7 +58,7 @@ Manager: Saurabh Agarwal
 
 <img align = "right" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-of-alberta-logo.jpg" alt="Image" width="250" height="150">
 
-International Undergraduate Summer Enrichment Program
+International Undergraduate Summer Enrichment Program <br>
 Participant, Department of Mathematical and Statistical Sciences, 04/2021 - 05/2021<br>
 Academic advisor: Linglong Kong
 <hr>
@@ -59,7 +66,7 @@ Academic advisor: Linglong Kong
 <img align = "right" src="https://engcourses-uofa.ca/wp-content/themes/samer_custom_theme/img/Faculty_Wordmark_Standard.jpg" alt="Image" width="250" height="150">
 
 University of Alberta <br>
-Research Assistant, Facult of Engineering + Arts + Buisness, 08/2020 - 05/2021 <br>
+Research Assistant, Faculty of Engineering + Arts + Buisness, 08/2020 - 05/2021 <br>
 Academic advisors: Lianne Lefsrud and Joel Gehman
 <hr>
 <img align = "right" src="https://cdn.vox-cdn.com/thumbor/p01ezbiuDHgRFQ-htBCd7QxaYxo=/0x105:2012x1237/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg" alt="Image" width="250" height="150">
