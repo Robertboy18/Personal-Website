@@ -34,7 +34,7 @@ Academic advisor: John Bowman
 <img align = "right" src="https://www.wishartlab.com/system/images/W1siZiIsIjIwMjEvMDgvMTMvNGhjcTdlcDRsbV9GdWxsQ29sb3JfMTI4MHgxMDI0XzMwMGRwaV9MT0dPMl8uanBnIl0sWyJwIiwidGh1bWIiLCIyMjV4MjU1XHUwMDNlIl1d/FullColor_1280x1024_300dpi%28LOGO2%29.jpg" alt="Image" width="250" height="150">
 
 Wishart Research Group<br>
-Research Assistant, Department of Biology (AI Computational Group), 01/2022 - Present<br>
+Research Assistant, Department of Biology (AI Computational Group), 01/2022 - 06/2022<br>
 Academic advisor: David Wishart
 <hr>
 <img align = "right" src="https://artsandscience.usask.ca/news/img/2739.jpg" alt="Image" width="250" height="150">
@@ -43,12 +43,13 @@ Pacific Institute for the Mathematical Sciences<br>
 Research Assistant, Department of Mathematical and Statistical Sciences, 01/2022 - 04/2022<br>
 Academic advisor: Xinwei Yu
 <hr>
-<img align = "right" src="https://ccs.ca/CCC/CCC2018/en/img/supporters/nivo-vigour.png" alt="Image" width="250" height="150">
+<img align = "right" src="https://ccs.ca/CCC/CCC2018/en/img/supporters/nivo-vigour.png" alt="Image" width="250" height="125">
 
 Canadian VIGOUR center<br>
 Research Assistant, Department of Medicine & Dentistry, 10/2021 - 06/2022<br>
 Academic advisor: Russ Greiner
 <hr>
+
 <img align = "right" src="https://cdn.vox-cdn.com/thumbor/0pAzN6LdawcEO1pxZXy-78_VgVU=/7x0:633x417/1400x1050/filters:focal(7x0:633x417):format(jpeg)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg" alt="Image" width="250" height="150">
 
 Microsoft<br>
