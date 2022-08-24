@@ -50,8 +50,8 @@ Important courses that I have taken/taking and was a Teaching Assistant for at t
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2022</td>
-    <td class="tg-0pky">CMPUT 261 - Introduction to Artificial Intelligence</td>
-    <td class="tg-0pky">Introduction to artificial intelligence focusing on techniques for building intelligent software systems and agents. Topics include search and problem-solving techniques, knowledge representation and reasoning, reasoning and acting under uncertainty, machine learning and neural networks.</td>
+    <td class="tg-0pky">CMPUT 497 - Reading Course ( Deep Learning ) </td>
+    <td class="tg-0pky">Reading Course</td>
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2022</td>
@@ -100,7 +100,7 @@ Important courses that I have taken/taking and was a Teaching Assistant for at t
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2021</td>
-    <td class="tg-0pky"><strong>CMPUT 304 - Advanced Algorithms</strong></td>
+    <td class="tg-0pky">CMPUT 304 - Advanced Algorithms</td>
     <td class="tg-0pky">The second course of a two-course sequence on algorithm design. Emphasis on principles of algorithm design. Categories of algorithms such as divide-and-conquer, greedy algorithms, dynamic programming; analysis of algorithms; limits of algorithm design; NP-completeness; heuristic algorithms. </td>
     </tr>
     <tr>
