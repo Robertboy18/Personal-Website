@@ -7,7 +7,7 @@ comments: false
 ---
 Hey Everyone~  
 <hr>
-Important courses that I have taken/taking and was a Teaching Assistant for at the University of Alberta. The courses that I TA'ed (Will be TA'ing) are bolded. Most of the information is directly referenced from the University of Alberta's course catalogue.
+Important courses that I have taken (or will be taking) at the University of Alberta. The courses that I TA'ed (Will be TA'ing) are bolded. Most of the information is directly referenced from the University of Alberta's course catalogue.
 <hr>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -100,7 +100,7 @@ Important courses that I have taken/taking and was a Teaching Assistant for at t
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2021</td>
-    <td class="tg-0pky">CMPUT 304 - Advanced Algorithms</td>
+    <td class="tg-0pky"><strong>CMPUT 304 - Advanced Algorithms</strong></td>
     <td class="tg-0pky">The second course of a two-course sequence on algorithm design. Emphasis on principles of algorithm design. Categories of algorithms such as divide-and-conquer, greedy algorithms, dynamic programming; analysis of algorithms; limits of algorithm design; NP-completeness; heuristic algorithms. </td>
     </tr>
     <tr>
