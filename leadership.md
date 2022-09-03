@@ -27,7 +27,7 @@ President: Crystal Snyder
 <img align = "right" src="https://cdn.vox-cdn.com/thumbor/p01ezbiuDHgRFQ-htBCd7QxaYxo=/0x105:2012x1237/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47070706/google2.0.0.jpg" alt="Image" width="250" height="150">
 
 Google <br>
-Developer Student Club Founder, Google Developers, 08/2020 - 04/2022 <br>
+Developer Student Club Founder and Lead, Google Developers, 08/2020 - 04/2022 <br>
 Manager: Madusha Cooray
 
 <hr>
