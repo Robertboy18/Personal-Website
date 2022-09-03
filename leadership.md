@@ -29,6 +29,7 @@ President: Crystal Snyder
 Google <br>
 Developer Student Club Founder, Google Developers, 08/2020 - 04/2022 <br>
 Manager: Madusha Cooray
+
 <hr>
 <img align = "right" src="https://www.acm.org/binaries/content/gallery/acm/ctas/acm_chapter_logo.jpg/acm_chapter_logo.jpg/acm%3Adesktopcta" alt="Image" width="250" height="150">
 
