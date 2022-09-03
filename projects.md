@@ -28,7 +28,13 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <th class="tg-0pky">Project Link</th>
   </tr>
 </thead>
-<tbody>    
+<tbody>
+    <tr>
+    <td class="tg-0pky">2022</td>
+    <td class="tg-0pky">MinAtar Faster- Tested for Reinforcement Learning Agents</td>
+    <td class="tg-0pky">Reinforcement Learning</td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/MinAtar-Faster">Github</a></td>
+    </tr> 
     <tr>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">The Mathematical Contest in Modeling - Water and Hydroelectric Power Sharing</td>
