@@ -11,6 +11,7 @@ comments: false
     <style>
       form {
   /* Center the form on the page */
+  margin: 0 auto;
   width: 400px;
   /* Form outline */
   padding: 1.5em;
@@ -90,7 +91,7 @@ button {
     <label>Message: <textarea name="message"></textarea></label>
   </p>
   <p>
-  <div data-netlify-recaptcha="true" class="right"></div>
+  <div data-netlify-recaptcha="true" class="center"></div>
   </p>
   <p>
     <button type="submit">Send</button>
