@@ -7,7 +7,7 @@ comments: false
 ---
 
 **Robert Joseph**, UAlberta' 23, B.Sc Hons. Applied Mathematics and Computer Science 
-<img align="right" width="130" height="130" src="https://media-exp2.licdn.com/dms/image/C5603AQF6cmv8Uqk8fQ/profile-displayphoto-shrink_800_800/0/1656353700317?e=1663200000&v=beta&t=xRL-l0kS3UMi11P0zWj9ftoE4uXz_3naZ-wi4Y78e2Y">
+<img align="right" width="130" height="130" src="https://media-exp1.licdn.com/dms/image/C5603AQF6cmv8Uqk8fQ/profile-displayphoto-shrink_400_400/0/1656353700317?e=1668643200&v=beta&t=9vGCPMHCvr2IV_rMYaSR2VT32W7RkwYQTA10RTz_p1E">
 
 I am currently a junior @UAlberta and am highly interested in Theoretical Machine Learning, Artificial Intelligence, Data Science and Mathematics (Numerical Algorithms). My major is Honors Applied Mathematics while my minor is in Computer Science.
 
