@@ -1,17 +1,32 @@
 ---
-title: Introduction
+title: Research
 permalink: /about/
 layout: page
 excerpt: Hello peeps
 comments: false
 ---
+# Conference Proceedings and Poster Sympossium's
 
-**Robert Joseph**, UAlberta' 23, B.Sc Hons. Applied Mathematics and Computer Science 
-<img align="right" width="130" height="130" src="https://media-exp1.licdn.com/dms/image/C5603AQF6cmv8Uqk8fQ/profile-displayphoto-shrink_400_400/0/1656353700317?e=1668643200&v=beta&t=9vGCPMHCvr2IV_rMYaSR2VT32W7RkwYQTA10RTz_p1E">
+**Joseph, Robert**, et al. “Making Reinforcement Learning Experiments More Reproducible and Computationally Efficient.” Undergraduate Research Symposium, University of Alberta, 2022, pp. 15–16.
 
-I am currently a senior @UAlberta and am highly interested in Theoretical Machine Learning, Artificial Intelligence, Data Science and Mathematics (Numerical Algorithms). My major is Honors Applied Mathematics while my minor is in Computer Science.
+**Joseph, Robert**, et al. “Hybrid Dealiasing Convolutions.” Undergraduate Research Symposium, University of Alberta, 2022, pp. 12–13.
 
-[Email](mail_to:) : rjoseph1 (at) ualberta (dot) ca | [Linkedin](https://www.linkedin.com/in/robert-joseph-2001/) | [GitHub](http://github.com/Robertboy18) | [ACM](https://services.acm.org/public/vcard/vcard.cfm?handle=robertjoseph) | [Instagram](https://www.instagram.com/robertljg/) | [Google Scholar](https://scholar.google.com/citations?user=5P1Uwy4AAAAJ&hl=en)
+**Joseph, Robert**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Canadian Undergraduate Mathematics Conference, 2022, pp. 30–31.
 
+**Joseph, Robert**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Eureka Undergraduate Symposium, 2022.
 
+**Joseph, Robert**. “Infodemiology and Infoveillance of Covid19 Using GPT-3.” STEM Fellowship Journal, vol. 7, no. 1, 2021, pp. 87–88. https://doi.org/10.17975/sfj-2021-003.
 
+**Joseph, Robert**, “Statistical Machine Learning - Analysis of Cardiovascular diseases.” International Undergraduate Summer Enrichment Program, 2021.
+
+**Joseph, Robert**, et al. “Correlation between COVID-19, Mental Illness and Substance Abuse Prevalence.” STEM Fellowship Journal, vol. 6, no. 1, 2020, pp. 127–128. https://doi.org/10.17975/sfj-2020-004.
+
+**Joseph, Robert**. ”Riemann ζ(2k) using Fourier Analysis” Undergraduate Number Theory Society, University of Alberta, 2020.
+
+# Summer Schools Attended
+
+International Undergraduate Summer Enrichment Program, University of Alberta, 2021.
+
+Alberta Number Theory Days XIII, Banff International Research Station for Mathematical Innovation and Discovery, 2021.
+
+Western Summer School in Algebra, University of Alberta, 2020.

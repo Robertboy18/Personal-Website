@@ -2,9 +2,9 @@
   url: /
   external: false
 
-#- title: About
-#  url: /about/
-#  external: false
+- title: Research
+  url: /about/
+  external: false
 
 #- title: Research
 #  url: /research/
