@@ -2,12 +2,16 @@
   url: /
   external: false
 
-- title: About
-  url: /about/
-  external: false
+#- title: About
+#  url: /about/
+#  external: false
 
-- title: Research
-  url: /research/
+#- title: Research
+#  url: /research/
+#  external: false
+
+- title: Posts
+  url: /archive/
   external: false
 
 - title: Notes
@@ -33,10 +37,7 @@
 - title: Courses
   url: /courses/
   external: false # set true if you using external link, see bellow
-  
-- title: Archive
-  url: /archive/
-  external: false
+
   
 #- title: Tags
 #  url: /tags/
