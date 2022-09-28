@@ -1,17 +1,27 @@
 ---
-title: Introduction
-permalink: /about/
 layout: page
-excerpt: Hello peeps
-comments: false
+home: true
 ---
 
-**Robert Joseph**, UAlberta' 23, B.Sc Hons. Applied Mathematics and Computer Science 
-<img align="right" width="130" height="130" src="https://media-exp1.licdn.com/dms/image/C5603AQF6cmv8Uqk8fQ/profile-displayphoto-shrink_400_400/0/1656353700317?e=1668643200&v=beta&t=9vGCPMHCvr2IV_rMYaSR2VT32W7RkwYQTA10RTz_p1E">
+I have a range of interests in several fields of inquiry, which causes me to stumble on what I am interested in (Throughout my life, I have always tried to be a *generalist* rather than a *specialist*). 
 
-I am currently a senior @UAlberta and am highly interested in Theoretical Machine Learning, Artificial Intelligence, Data Science and Mathematics (Numerical Algorithms). My major is Honors Applied Mathematics while my minor is in Computer Science.
-
-[Email](mail_to:) : rjoseph1 (at) ualberta (dot) ca | [Linkedin](https://www.linkedin.com/in/robert-joseph-2001/) | [GitHub](http://github.com/Robertboy18) | [ACM](https://services.acm.org/public/vcard/vcard.cfm?handle=robertjoseph) | [Instagram](https://www.instagram.com/robertljg/) | [Google Scholar](https://scholar.google.com/citations?user=5P1Uwy4AAAAJ&hl=en)
+On the one hand, I am quite
+interested in the theoretical aspects of Machine Learning/Reinforcement Learning (i.e., the discipline of Computational Learning Theory), while on the other hand, I am very interested in Explainable Artificial Intelligence and Theoretical Computer Science. Although this topic is rather extensive in its own right, I am particularly interested in the confluence of Complexity Theory and Machine Learning, i.e. PAC Theory ( Probably Approximately Correct or Computational Learning Theory). Lastly, for Graduate school, I am mostly interested in pursuing Theoretical Machine Learning especially the Foundations of Deep Learning, Reinforcement Learning and Computational Learning Theory.
 
 
+<!--
+<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+<div class="elfsight-app-b13063fd-194b-41ac-a7f5-7c5932cf93f7"></div>
+-->
+<!--<h4 class="posts-item-note">Recent Posts</h4>
+{% for post in site.posts limit:11%}
+<article class="post-item" align = "center">
+  <span class="post-item-date" align = "center">{{ post.date  | date: "%b %d, %Y" }}</span>
+  <h4 class="post-item-title" align = "center">
+    <a href="{{ post.url }}">{{ post.title | escape }}</a>
+  </h4>
+</article>
+{% endfor %}
+-->
 
+<!--<h4 class="posts-item-note" href = "/resume">All Posts</h4>-->
