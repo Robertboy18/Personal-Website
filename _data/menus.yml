@@ -6,10 +6,6 @@
   url: /about/
   external: false
 
-#- title: Research
-#  url: /research/
-#  external: false
-
 - title: Posts
   url: /archive/
   external: false
@@ -25,6 +21,10 @@
 - title: Leadership
   url: /leadership/
   external: false # set true if you using external link, see bellow
+
+- title: Outreach
+  url: /outreach/
+  external: false
 
 - title: Projects
   url: /projects/
