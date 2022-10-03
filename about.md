@@ -9,7 +9,7 @@ comments: false
 
 **Joseph, Robert**, et al. “Making Reinforcement Learning Experiments More Reproducible and Computationally Efficient.” Undergraduate Research Symposium, University of Alberta, 2022, pp. 15–16.
 
-> Abstract: The Arcade Learning Environment (ALE) is a well-known testing ground for reinforcement learning agents. MinAtar, short for miniature Atari, was introduced in 2018 by
+**Abstract**: <div align="left">The Arcade Learning Environment (ALE) is a well-known testing ground for reinforcement learning agents. MinAtar, short for miniature Atari, was introduced in 2018 by
 researchers at the University of Alberta and Google Brain/Deepmind as a new set of environments that capture the general mechanics of specific Atari games while simplifying the
 representational complexity to focus more on the behavioral challenges. Seaquest, Breakout,
 Asterix, Freeway, and Space Invaders are all counterparts of Atari games in MinAtar. Currently, the implementation of these gaming environments is slow, and we refactored the whole
@@ -23,7 +23,8 @@ approach. We hope to compare various other algorithms in the future and create a
 for MinAtar so researchers can compare their algorithms on these environments. Lastly we also
 hope to add more games from ALE to the MinAtar codebase for further testing. We hope that
 MinAtar and this new hyperparameter approach can allow researchers to use it as a testbed
-for reinforcement learning
+for reinforcement learning.
+</div>
 
 **Joseph, Robert**, et al. “Hybrid Dealiasing Convolutions.” Undergraduate Research Symposium, University of Alberta, 2022, pp. 12–13.
 
@@ -50,21 +51,81 @@ Transforms, fractional phase, and partial Fourier transforms
 
 **Joseph, Robert**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Canadian Undergraduate Mathematics Conference, 2022, pp. 30–31.
 
->Abstract: 
+>Abstract: The utilization of renewable energy technologies, particularly hydrogen, has seen a boom in interest and
+spread worldwide. Ethanol steam reformation (ESR) is one of the primary methods capable of producing
+hydrogen efficiently and reliably. This paper provides an in-depth study of the reformulated sys tem, both
+theoretically and numerically, and a plan to explore the possibility of converting the system into its conservation form. We aim to enable a mech anistic model to be employed in real-time control calculations while
+explicitly accounting for input, state and output constraints with minimal computation cost. Lastly, we offer
+an overview of several numerical approaches for solving the general first-order quasi-linear hyperbolic equation to the model for ESR. We conclude by presenting some results that would enable these ODE/PDE solvers
+to be used in non-linear model predictive control algorithms and discuss the limitations of our approach and
+directions for future work.
 
 **Joseph, Robert**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Eureka Undergraduate Symposium, 2022.
 
 **Joseph, Robert**. “Infodemiology and Infoveillance of Covid19 Using GPT-3.” STEM Fellowship Journal, vol. 7, no. 1, 2021, pp. 87–88. https://doi.org/10.17975/sfj-2021-003.
 
-**Joseph, Robert**, “Statistical Machine Learning - Analysis of Cardiovascular diseases.” International Undergraduate Summer Enrichment Program, 2021.
+> Abstract: Fake news detection is the task of detecting forms of news 
+consisting of deliberate disinformation or hoaxes spread 
+via traditional news media (print and broadcast) or online 
+social media. Fake news is especially rampant in the current 
+COVID-19 pandemic, leading to people believing and blindly 
+following in false and potentially harmful claims and stories. 
+Detecting fake news quickly can alleviate the spread of panic, 
+chaos and potential health hazards as well reducing stress 
+and other mental health issues. Using the Generative Pretrained Transformer 3 (GPT-3) which is an autoregressive 
+language model that uses deep learning to produce humanlike text, classify text,design, generate code and various 
+other use cases. Using the classifications endpoint provides 
+the ability to leverage a labeled set of examples without 
+fine- tuning and can be used for any text-to-label task and 
+hence by using various data sets which contain fake and 
+real Covid19 tweets/news GPT-3 was trained on the dataset 
+and achieved a 98% accuracy by correctly classifying fake 
+news and real news. Apart from using GPT-3 we also used 
+a Passive Aggressive Classifier which is an online machine 
+learning algorithm which also achieved an accuracy of 91%. 
+We also provide future discussions and the limitations of the 
+Deep Learning Model ( GPT-3 ) as well as the simple Machine 
+Learning model ( Passive Aggressive Classifier). We hope to 
+combat the misinformation of Covid19 spread online with 
+these two models
 
 **Joseph, Robert**, et al. “Correlation between COVID-19, Mental Illness and Substance Abuse Prevalence.” STEM Fellowship Journal, vol. 6, no. 1, 2020, pp. 127–128. https://doi.org/10.17975/sfj-2020-004.
 
+> Abstract: The aim of this paper is to determine if the experience of 
+the COVID-19 pandemic correlates with worsened mental 
+health and increased substance use among the affected 
+populations. Data sets from the National Addiction & HIV Data 
+Archive Program (NAHDAP) and Statistics Canada (StatCan) 
+were analyzed, with the aim of determining the trends in 
+mental health and alcohol purchases during the COVID-19 
+pandemic. Using machine learning model techniques, a 
+strong association between the two was discovered. It was 
+also predicted that similar future situations would yield 
+the same results. Statistical tools within Python, R, and SAS 
+were used to explore the data and analyse it using various 
+techniques., including linear regression. As a result, our 
+findings demonstrate that coronavirus pandemics correlate 
+with increased mental illness and substance use within 
+the affected populations. If its effects are similar to SARS, 
+however, considering that COVID-19 has had a much more 
+widespread impact, significant increases in mental illness 
+and substance abuse can be expected in the months and 
+years to come. The analysis determined that there is a strong 
+correlation between the COVID-19 pandemic, mental illness 
+and alcohol and drug use. Limitations to this conclusion 
+involve the fact that the pandemic is still ongoing and the 
+datasets used were relatively new and small.
+
 **Joseph, Robert**. ”Riemann ζ(2k) using Fourier Analysis” Undergraduate Number Theory Society, University of Alberta, 2020.
+
+> Abstract: 
 
 # Summer Schools Attended
 
 International Undergraduate Summer Enrichment Program, University of Alberta, 2021.
+
+>
+**Joseph, Robert**, “Statistical Machine Learning - Analysis of Cardiovascular diseases.” International Undergraduate Summer Enrichment Program, 2021.
 
 Alberta Number Theory Days XIII, Banff International Research Station for Mathematical Innovation and Discovery, 2021.
 
