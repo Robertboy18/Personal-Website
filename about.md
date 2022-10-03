@@ -9,7 +9,7 @@ comments: false
 
 **Joseph, Robert**, et al. “Making Reinforcement Learning Experiments More Reproducible and Computationally Efficient.” Undergraduate Research Symposium, University of Alberta, 2022, pp. 15–16.
 
-###### **Abstract**: The Arcade Learning Environment (ALE) is a well-known testing ground for reinforcement learning agents. MinAtar, short for miniature Atari, was introduced in 2018 by researchers at the University of Alberta and Google Brain/Deepmind as a new set of environments that capture the general mechanics of specific Atari games while simplifying the representational complexity to focus more on the behavioral challenges. Seaquest, Breakout, Asterix, Freeway, and Space Invaders are all counterparts of Atari games in MinAtar. Currently, the implementation of these gaming environments is slow, and we refactored the whole codebase to reduce training time by roughly 50% across all environments and also included a Just in time compiler (Numba) that makes the code even faster. This is a huge improvement for researchers to train their algorithms on these environments and get the results faster. Secondly, we propose a new approach to select the best hyperparameters after a hyperparameter sweep wherein the old method just used to choose the best hyper that resulted in largest area under the learning curve (AUC) but suffered from not taking into account the hyperparameter sensitivity etc. We compare the Soft Actor Critic (SAC) Discrete CNN and Vanilla ActorCritic (VAC) Discrete CNN agents’ mean learning curves in several contexts utilizing this new approach. We hope to compare various other algorithms in the future and create a benchmark for MinAtar so researchers can compare their algorithms on these environments. Lastly we also hope to add more games from ALE to the MinAtar codebase for further testing. We hope that MinAtar and this new hyperparameter approach can allow researchers to use it as a testbed for Reinforcement Learning and Artificial Intelligence Agents.
+<sup> **Abstract**: The Arcade Learning Environment (ALE) is a well-known testing ground for reinforcement learning agents. MinAtar, short for miniature Atari, was introduced in 2018 by researchers at the University of Alberta and Google Brain/Deepmind as a new set of environments that capture the general mechanics of specific Atari games while simplifying the representational complexity to focus more on the behavioral challenges. Seaquest, Breakout, Asterix, Freeway, and Space Invaders are all counterparts of Atari games in MinAtar. Currently, the implementation of these gaming environments is slow, and we refactored the whole codebase to reduce training time by roughly 50% across all environments and also included a Just in time compiler (Numba) that makes the code even faster. This is a huge improvement for researchers to train their algorithms on these environments and get the results faster. Secondly, we propose a new approach to select the best hyperparameters after a hyperparameter sweep wherein the old method just used to choose the best hyper that resulted in largest area under the learning curve (AUC) but suffered from not taking into account the hyperparameter sensitivity etc. We compare the Soft Actor Critic (SAC) Discrete CNN and Vanilla ActorCritic (VAC) Discrete CNN agents’ mean learning curves in several contexts utilizing this new approach. We hope to compare various other algorithms in the future and create a benchmark for MinAtar so researchers can compare their algorithms on these environments. Lastly we also hope to add more games from ALE to the MinAtar codebase for further testing. We hope that MinAtar and this new hyperparameter approach can allow researchers to use it as a testbed for Reinforcement Learning and Artificial Intelligence Agents.</sup>
 
 **Joseph, Robert**, et al. “Hybrid Dealiasing Convolutions.” Undergraduate Research Symposium, University of Alberta, 2022, pp. 12–13.
 
@@ -23,34 +23,10 @@ comments: false
 
 **Joseph, Robert**. “Infodemiology and Infoveillance of Covid19 Using GPT-3.” STEM Fellowship Journal, vol. 7, no. 1, 2021, pp. 87–88. https://doi.org/10.17975/sfj-2021-003.
 
-> Abstract: Fake news detection is the task of detecting forms of news 
-consisting of deliberate disinformation or hoaxes spread 
-via traditional news media (print and broadcast) or online 
-social media. Fake news is especially rampant in the current 
-COVID-19 pandemic, leading to people believing and blindly 
-following in false and potentially harmful claims and stories. 
-Detecting fake news quickly can alleviate the spread of panic, 
-chaos and potential health hazards as well reducing stress 
-and other mental health issues. Using the Generative Pretrained Transformer 3 (GPT-3) which is an autoregressive 
-language model that uses deep learning to produce humanlike text, classify text,design, generate code and various 
-other use cases. Using the classifications endpoint provides 
-the ability to leverage a labeled set of examples without 
-fine- tuning and can be used for any text-to-label task and 
-hence by using various data sets which contain fake and 
-real Covid19 tweets/news GPT-3 was trained on the dataset 
-and achieved a 98% accuracy by correctly classifying fake 
-news and real news. Apart from using GPT-3 we also used 
-a Passive Aggressive Classifier which is an online machine 
-learning algorithm which also achieved an accuracy of 91%. 
-We also provide future discussions and the limitations of the 
-Deep Learning Model ( GPT-3 ) as well as the simple Machine 
-Learning model ( Passive Aggressive Classifier). We hope to 
-combat the misinformation of Covid19 spread online with 
-these two models
+###### **Abstract**: Fake news detection is the task of detecting forms of news consisting of deliberate disinformation or hoaxes spread via traditional news media (print and broadcast) or online social media. Fake news is especially rampant in the current COVID-19 pandemic, leading to people believing and blindly following in false and potentially harmful claims and stories. Detecting fake news quickly can alleviate the spread of panic, chaos and potential health hazards as well reducing stress and other mental health issues. Using the Generative Pretrained Transformer 3 (GPT-3) which is an autoregressive language model that uses deep learning to produce humanlike text, classify text,design, generate code and various other use cases. Using the classifications endpoint provides the ability to leverage a labeled set of examples without fine- tuning and can be used for any text-to-label task and hence by using various data sets which contain fake and real Covid19 tweets/news GPT-3 was trained on the dataset and achieved a 98% accuracy by correctly classifying fake news and real news. Apart from using GPT-3 we also used a Passive Aggressive Classifier which is an online machine learning algorithm which also achieved an accuracy of 91%. We also provide future discussions and the limitations of the Deep Learning Model ( GPT-3 ) as well as the simple Machine Learning model ( Passive Aggressive Classifier). We hope to combat the misinformation of Covid19 spread online with these two models.
 
 **Joseph, Robert**, et al. “Correlation between COVID-19, Mental Illness and Substance Abuse Prevalence.” STEM Fellowship Journal, vol. 6, no. 1, 2020, pp. 127–128. https://doi.org/10.17975/sfj-2020-004.
-
-> Abstract: The aim of this paper is to determine if the experience of 
+###### **Abstract**: The aim of this paper is to determine if the experience of 
 the COVID-19 pandemic correlates with worsened mental 
 health and increased substance use among the affected 
 populations. Data sets from the National Addiction & HIV Data 
@@ -83,7 +59,6 @@ datasets used were relatively new and small.
 
 International Undergraduate Summer Enrichment Program, University of Alberta, 2021.
 
->
 **Joseph, Robert**, “Statistical Machine Learning - Analysis of Cardiovascular diseases.” International Undergraduate Summer Enrichment Program, 2021.
 
 Alberta Number Theory Days XIII, Banff International Research Station for Mathematical Innovation and Discovery, 2021.
