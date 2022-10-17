@@ -53,7 +53,7 @@ Academic advisor: Russ Greiner
 <img align = "right" src="https://cdn.vox-cdn.com/thumbor/0pAzN6LdawcEO1pxZXy-78_VgVU=/7x0:633x417/1400x1050/filters:focal(7x0:633x417):format(jpeg)/cdn.vox-cdn.com/assets/1311169/mslogo.jpg" alt="Image" width="250" height="150">
 
 Microsoft<br>
-Data Science Intern, Cloud and Artificial Intelligence, 04/2021 - 07/2021<br>
+Data Science Intern, Cloud and Artificial Intelligence Team, 04/2021 - 07/2021<br>
 Manager: Saurabh Agarwal
 <hr>
 <!--<img align = "right" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-of-alberta-logo.jpg" alt="Image" width="250" height="150">
