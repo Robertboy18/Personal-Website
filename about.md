@@ -55,6 +55,8 @@ datasets used were relatively new and small.</sup>-->
 
 # Summer Schools Attended
 
+Summer School in Logic and Formal Epistemology, Carnegie Mellon University, 2022 
+
 International Undergraduate Summer Enrichment Program, University of Alberta, 2021.
 
 **Joseph, Robert**, “Statistical Machine Learning - Analysis of Cardiovascular diseases.” International Undergraduate Summer Enrichment Program, 2021.
