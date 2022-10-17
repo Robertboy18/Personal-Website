@@ -26,6 +26,8 @@ If you are interested in Machine Learning Theory, Computational Complexity, Rein
 
 On the other hand, I am one of the organizers for the ML Theory Learning group at [Cohere For AI](https://cohere.for.ai/) and we will be having our first session this saturday from 2 - 3 pm MST! If you aren't a part of this wonderful community feel free to apply through this [form](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) to join us. 
 
+<img src = "assets\img\MLTheoryLearningGroup_Discord.png">
+
 This community is amazing and we have tons of other reading groups and I personally am enjoying the Reinforcement Learning Reading group events, Fireside talks and other events that the community holds. Its a really supportive environment, intellectually motivating and you definitely are going to find atleast one person who shares the same research interest as you.
 
 <img src="https://txt.cohere.ai/content/images/size/w600/2022/06/Blog-header-image---Desktop--3--1.png" alt="Image">

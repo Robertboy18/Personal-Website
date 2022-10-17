@@ -51,8 +51,6 @@ and alcohol and drug use. Limitations to this conclusion
 involve the fact that the pandemic is still ongoing and the 
 datasets used were relatively new and small.</sup>-->
 
-**Joseph, Robert** and Paul Buckingham ”Riemann ζ(2k) using Fourier Analysis” Undergraduate Number Theory Society, University of Alberta, 2020. [[Paper](https://www.scribd.com/document/462045997/Riemann-zeta-2k-Using-Fourier-Analysis#from_embed)]
-
 # Summer Schools Attended
 
 Summer School in Logic and Formal Epistemology, Carnegie Mellon University, 2022.
@@ -64,3 +62,12 @@ International Undergraduate Summer Enrichment Program, University of Alberta, 20
 Alberta Number Theory Days XIII, Banff International Research Station for Mathematical Innovation and Discovery, 2021.
 
 Western Summer School in Algebra, University of Alberta, 2020.
+
+# Unpublished Work and other papers
+
+**Joseph, Robert**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and CountArctic Wildlife", University of Alberta, 2022. [[Paper](https://www.scribd.com/document/601108521/AI-Capstone-project)]
+
+
+**Joseph, Robert**, "Solution Space of a Homogenous Linear Differential Equation", University of Alberta, 2021. [[Paper](https://github.com/Robertboy18/UAlberta-Mathematics/blob/main/MATH%20336/Research.pdf)]
+
+**Joseph, Robert** and Paul Buckingham ”Riemann ζ(2k) using Fourier Analysis” Undergraduate Number Theory Society, University of Alberta, 2020. [[Paper](https://www.scribd.com/document/462045997/Riemann-zeta-2k-Using-Fourier-Analysis#from_embed)]
