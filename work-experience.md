@@ -46,7 +46,7 @@ Academic advisor: Xinwei Yu
 <img align = "right" src="https://images.squarespace-cdn.com/content/v1/5a53e3f4dc2b4a52b8c4a316/1527655802072-CV6Y01F2BGXZONI2FP83/CVC+Red.jpg?format=2500w" alt="Image" width="250" height="150">
 
 Canadian VIGOUR center<br>
-Research Assistant, Department of Medicine & Dentistry, 10/2021 - 06/2022<br>
+Research Assistant, Department of Medicine and Dentistry, 10/2021 - 06/2022<br>
 Academic advisor: Russ Greiner
 <hr>
 
