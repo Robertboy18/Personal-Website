@@ -14,11 +14,11 @@
   url: /notes/
   external: false # set true if you using external link, see bellow
 
-- title: Work Experience
+- title: Work
   url: /work/
   external: false # set true if you using external link, see bellow
 
-- title: Outreach
+- title: Extracurricular
   url: /leadership/
   external: false # set true if you using external link, see bellow
 
