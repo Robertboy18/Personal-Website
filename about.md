@@ -63,10 +63,12 @@ Western Summer School in Algebra, University of Alberta, 2020.
 
 # Unpublished Work and other papers
 
-**Joseph, Robert**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and CountArctic Wildlife", Artificial Intelligence Thesis, University of Alberta, 2022. [[Paper](https://www.scribd.com/document/601108521/AI-Capstone-project)]
+**Joseph, Robert**, "Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers", Honors Thesis, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1chvXZEM7daBfrni2ISAgXqLiQgnzIqCa/view?usp=sharing)]
+
+**Joseph, Robert**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and CountArctic Wildlife", Artificial Intelligence Thesis, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1HmcnzZ6CXJkriHtifzvtkLeBRGyuarlD/view?usp=sharing)]
 
 **Joseph, Robert**, "Solution Space of a Homogenous Linear Differential Equation", Honors Ordinary Differential Equations, University of Alberta, 2021. [[Paper](https://github.com/Robertboy18/UAlberta-Mathematics/blob/main/MATH%20336/Research.pdf)]
 
 **Joseph, Robert**, “Statistical Machine Learning - Analysis of Cardiovascular diseases.” International Undergraduate Summer Enrichment Program, University of Alberta, 2021.
 
-**Joseph, Robert** and Paul Buckingham ”Riemann ζ(2k) using Fourier Analysis” Undergraduate Number Theory Society, University of Alberta, 2020. [[Paper](https://www.scribd.com/document/462045997/Riemann-zeta-2k-Using-Fourier-Analysis#from_embed)]
+<!--**Joseph, Robert** and Paul Buckingham ”Riemann ζ(2k) using Fourier Analysis” Undergraduate Number Theory Society, University of Alberta, 2020. [[Paper](https://www.scribd.com/document/462045997/Riemann-zeta-2k-Using-Fourier-Analysis#from_embed)]-->
