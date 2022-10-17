@@ -18,13 +18,11 @@ Alberta Machine Intelligence Institute (Amii) <br>
 Research Intern, Reinforcement Learning and Artificial Intelligence (RLAI) Lab, 01/2022 - Present<br>
 Academic advisor: Martha White and Adam White
 <hr>
-<img align = "right" src="https://remakelearning.org/wp-content/uploads/2012/01/CMU.jpg" alt="Image" width="250" height="150">
-
+<!--<img align = "right" src="https://remakelearning.org/wp-content/uploads/2012/01/CMU.jpg" alt="Image" width="250" height="150">
 Carnegie Mellon University<br>
 Participant, Summer School in Logic and Formal Epistemology
 , 06/2022 - 06/2022 <br>
-Academic advisor: Thomas Werner, Adam Bjorndhal, Kevin Zollman
-<hr>
+Academic advisor: Thomas Werner, Adam Bjorndhal, Kevin Zollman -->
 <img align = "right" src="https://www.ualberta.ca/media-library/ualberta/homepage/university-of-alberta-logo.jpg" alt="Image" width="250" height="150">
 
 University of Alberta <br>
