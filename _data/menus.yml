@@ -43,6 +43,6 @@
 #  url: /tags/
 #  external: false 
 
-- title: Contact
-  url: /contact/
-  external: false 
+#- title: Contact
+#  url: /contact/
+#  external: false 
