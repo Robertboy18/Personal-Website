@@ -71,7 +71,7 @@ Western Summer School in Algebra, University of Alberta, 2020.
 
 **George, Robert Joseph**, Joshua Joseph George and Davidson Noby Joseph,  "Water and Hydroelectric Power Sharing", The Mathematical Contest in Modeling, 2022. [[Paper](https://drive.google.com/file/d/17IUNdXzqem217o3Y2gLSN_LfE1Kh1XVp/view?usp=sharing)], [[Certificate](https://drive.google.com/file/d/1jq25pVDBwNzTCbcOb75AThdlIwW0mLpx/view?usp=sharing)]
 
-**George, Robert Joseph**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and CountArctic Wildlife", Artificial Intelligence Thesis, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1HmcnzZ6CXJkriHtifzvtkLeBRGyuarlD/view?usp=sharing)]
+**George, Robert Joseph**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and CountArctic Wildlife", AI Capstone, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1HmcnzZ6CXJkriHtifzvtkLeBRGyuarlD/view?usp=sharing)]
 
 **George, Robert Joseph**, "Solution Space of a Homogenous Linear Differential Equation", Honors Ordinary Differential Equations, University of Alberta, 2021. [[Paper](https://drive.google.com/file/d/1RVuxAUvd7xLYasmCIxcvnH91e3V-NG1u/view?usp=sharing)]
 
