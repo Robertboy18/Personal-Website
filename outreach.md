@@ -1,6 +1,6 @@
 ---
 title: Community Service
-permalink: /outreach/
+permalink: /service/
 layout: page
 excerpt: Leadership
 comments: false
