@@ -1,6 +1,6 @@
 ---
 title: Reading
-permalink: /skills/
+permalink: /reading/
 layout: page
 excerpt: Reading
 comments: false

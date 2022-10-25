@@ -19,11 +19,11 @@
   external: false # set true if you using external link, see bellow
 
 - title: Outreach
-  url: /leadership/
+  url: /outreach/
   external: false # set true if you using external link, see bellow
 
 - title: Resume
-  url: /outreach/
+  url: /resume/
   external: false
 
 - title: Projects
@@ -31,7 +31,7 @@
   external: false # set true if you using external link, see bellow
 
 - title: Reading
-  url: /skills/
+  url: /reading/
   external: false # set true if you using external link, see bellow
 
 - title: Teaching
