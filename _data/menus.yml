@@ -15,7 +15,7 @@
   external: false # set true if you using external link, see bellow
 
 - title: ML Theory
-  url: /work/
+  url: /ml/
   external: false # set true if you using external link, see bellow
 
 - title: Extracurricular

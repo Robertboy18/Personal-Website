@@ -1,6 +1,6 @@
 ---
 title: ML Theory
-permalink: /work/
+permalink: /ml/
 layout: page
 excerpt: Outreach
 ---
