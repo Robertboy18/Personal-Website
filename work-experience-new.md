@@ -15,5 +15,11 @@ This community is amazing and we have tons of other reading groups and I persona
 
 # First Session
 
+We had the ML Theory Learning group's first session, which was a great success. We discussed what we all hope to gain out of this reading group, our mission statement (which is subject to change over time) as well as potential topics we could cover. I am super excited to see where this group goes and I hope to see you all there!
+
+<img src="https://pbs.twimg.com/media/Ffs7-BDagAAYugH?format=png&name=small" alt="Image">
+
+<hr>
+We are a non-profit ML research lab and community exploring the unknown, together.
 <img src="https://txt.cohere.ai/content/images/size/w600/2022/06/Blog-header-image---Desktop--3--1.png" alt="Image">
 
