@@ -13,6 +13,16 @@ This community is amazing and we have tons of other reading groups and I persona
 
 <hr>
 
+# Second Session
+
+For the upcoming meeting, as mentioned in our first meeting, we will be following the format where each speaker prepares 1 - 2 slides on a topic they are interested in presenting, and then we vote on whose topic we would like to move forward with for the upcoming week and so on!
+
+The slide deck is on discord, feel free to follow the format or make changes and add what you would like to present on! Secondly, we were thinking of also splitting the session into beginner and advanced parts; beginner leads to advanced so it can cater to a more broader audience and everyone can partake in the group!
+
+Lastly, you will have time to present, discuss and potentially settle on a topic, and we look forward to having everyone attend!
+
+<hr>
+
 # First Session
 
 We had the ML Theory Learning group's first session, which was a great success. We discussed what we all hope to gain out of this reading group, our mission statement (which is subject to change over time) as well as potential topics we could cover. I am super excited to see where this group goes and I hope to see you all there!
