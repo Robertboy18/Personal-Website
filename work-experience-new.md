@@ -15,11 +15,11 @@ This community is amazing and we have tons of other reading groups and I persona
 
 # Second Session
 
-For the upcoming meeting, as mentioned in our first meeting, we will be following the format where each speaker prepares 1 - 2 slides on a topic they are interested in presenting, and then we vote on whose topic we would like to move forward with for the upcoming week and so on!
+Yesterday, we had our second session, which went really well! We had 4 exciting proposals from Sree Harsha Nelaturu, Ashish Gaurav, Max Marion and Harry Saini on the topics Meta Learning, Quantum probability, Neural Information Retrieval and Representation learning, respectively. 
 
-The slide deck is on discord, feel free to follow the format or make changes and add what you would like to present on! Secondly, we were thinking of also splitting the session into beginner and advanced parts; beginner leads to advanced so it can cater to a more broader audience and everyone can partake in the group!
+The voting also happened, and for the next meeting on 19/11/2022, we will have Harsha and Max talk on Meta-Learning and Neural Information Retrieval. In the subsequent meeting on 3/12/2022, we will have Harry and Ashish talk on Representation Learning and Quantum Probability. 
 
-Lastly, you will have time to present, discuss and potentially settle on a topic, and we look forward to having everyone attend!
+All the speakers will post some pre-requisite material to read up on or familiarize ourselves with before the talk (at least 1 week in advance), so we all prepare and learn as much as we can from the talk! Each presenter will talk for 25 minutes, followed by a 5 - 10 min Q/A! If you have more questions for the speakers, we will also create forums after each presentation where the conversation can be carried on. Thanks to everyone who came the other day; see you all next meeting:)
 
 <hr>
 
@@ -37,4 +37,4 @@ We are a non-profit ML research lab and community exploring the unknown, togethe
 
 # Twitter Feed
 
-<a class="twitter-timeline" data-width="500" data-height="400" data-theme="dark" href="https://twitter.com/Robertljg?ref_src=twsrc%5Etfw">Tweets by Robertljg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="700" data-height="400" data-theme="dark" href="https://twitter.com/Robertljg?ref_src=twsrc%5Etfw">Tweets by Robertljg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
