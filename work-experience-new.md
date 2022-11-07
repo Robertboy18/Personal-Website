@@ -33,3 +33,8 @@ We had the ML Theory Learning group's first session, which was a great success. 
 We are a non-profit ML research lab and community exploring the unknown, together.
 <img src="https://txt.cohere.ai/content/images/size/w600/2022/06/Blog-header-image---Desktop--3--1.png" alt="Image">
 
+
+
+# Twitter Feed
+
+<a class="twitter-timeline" data-width="500" data-height="400" data-theme="dark" href="https://twitter.com/Robertljg?ref_src=twsrc%5Etfw">Tweets by Robertljg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
