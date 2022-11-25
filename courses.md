@@ -65,7 +65,7 @@ Important courses that I have taken (or will be taking) at the University of Alb
     </tr>
     <tr>
     <td class="tg-0pky">Winter 2022</td>
-    <td class="tg-0pky">CMPUT 474 - Formal Languages, Automata, and Computability</td>
+    <td class="tg-0pky"><b>CMPUT 474 - Formal Languages, Automata, and Computability</b></td>
     <td class="tg-0pky">Formal grammars; relationship between grammars and automata; regular expressions; finite state machines; pushdown automata; Turing machines; computability; the halting problem; time and space complexity</td>
     </tr>
     <tr>
