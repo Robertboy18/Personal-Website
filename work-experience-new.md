@@ -20,20 +20,20 @@ Last saturday, we had our third ML theory session and we had two wonderful speak
 Some of the resources are listed below 
 
 **Neural Information Retrieval** - Lecture Notes on
-Neural Information Retrieval - https://arxiv.org/pdf/2207.13443.pdf
+Neural Information Retrieval - [https://arxiv.org/pdf/2207.13443.pdf](https://arxiv.org/pdf/2207.13443.pdf)
 
 **Meta Learning** 
 
-1. Meta Genetic Programming - https://people.idsia.ch/~juergen/diploma.html
-2. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks - https://arxiv.org/abs/1703.03400
-3. Prototypical Networks for Few-shot Learning - https://arxiv.org/abs/1703.05175
-4. Learning to learn by gradient descent by gradient descent - https://arxiv.org/abs/1606.04474
-5. Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples - https://arxiv.org/abs/1903.03096v4
-6. Meta Policy Gradients - https://roberttlange.github.io/posts/2020/12/meta-policy-gradients/
-7. Differentiable Plasticity: training plastic networks with Backprop - https://arxiv.org/abs/1804.02464
-8. Meta RL - https://lilianweng.github.io/posts/2019-06-23-meta-rl/
-9. Synthetic Petri Dish - https://arxiv.org/abs/2005.13092
-10. POET - https://arxiv.org/abs/1901.01753
+1. Meta Genetic Programming - [https://people.idsia.ch/~juergen/diploma.html](https://people.idsia.ch/~juergen/diploma.html)
+2. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks - [https://arxiv.org/abs/1703.03400](https://arxiv.org/abs/1703.03400)
+3. Prototypical Networks for Few-shot Learning - [https://arxiv.org/abs/1703.05175](https://arxiv.org/abs/1703.05175)
+4. Learning to learn by gradient descent by gradient descent - [https://arxiv.org/abs/1606.04474](https://arxiv.org/abs/1606.04474)
+5. Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples - [https://arxiv.org/abs/1903.03096v4](https://arxiv.org/abs/1903.03096v4)
+6. Meta Policy Gradients - [https://roberttlange.github.io/posts/2020/12/meta-policy-gradients/](https://roberttlange.github.io/posts/2020/12/meta-policy-gradients/)
+7. Differentiable Plasticity: training plastic networks with Backprop - [https://arxiv.org/abs/1804.02464](https://arxiv.org/abs/1804.02464)
+8. Meta RL - [https://lilianweng.github.io/posts/2019-06-23-meta-rl/](https://lilianweng.github.io/posts/2019-06-23-meta-rl/)
+9. Synthetic Petri Dish - [https://arxiv.org/abs/2005.13092](https://arxiv.org/abs/2005.13092)
+10. POET - [https://arxiv.org/abs/1901.01753](https://arxiv.org/abs/1901.01753)
 
 # Second Session
 
