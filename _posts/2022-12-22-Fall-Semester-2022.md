@@ -1,7 +1,7 @@
 ---
 title: Fall Semester 2022~
-date: 2022-12-24 09:45:47 +07:00
-modified: 2022-12-24 09:24:47 +07:00
+date: 2022-12-21 09:45:47 +07:00
+modified: 2022-12-21 09:24:47 +07:00
 tags: [Life,fall,University life]
 ---
 Hey Everyone~
