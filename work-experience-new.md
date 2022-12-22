@@ -13,6 +13,21 @@ This community is amazing and we have tons of other reading groups and I persona
 
 <hr>
 
+# Fifth Session
+Hey everyone! Last Saturday, we had our final ML theory session for the year, and it went really well. 
+
+We had two pitches, where I spoke on Fourier Neural Operators (FNO) and Harsha spoke on Gradient Descent proofs. On the other hand Ashish also pitched his topic of presenting on Diffusion models. Harsha also presented his idea on starting the Optimization Book Reading plan and lastly, our next meeting will probably be in the first week of January, and we will keep you updated! We want to thank everyone who came to our meetings regularly and the whole community for engaging with various topics in ML theory. It truly means a lot to us, and we can't wait to hold numerous events (even potentially with other groups: )) and hope you all have a great winter break! Merry Christmas and a happy new year in advance : )!
+
+Sneak peak of what I presented:)
+
+<img src="https://i.ibb.co/KVgRN93/Screenshot-2022-12-22-142947.png" alt="Image">
+
+# Fourth Session
+
+I unfortunately couldn't make it to this session as I had to write the Putnam but the session was a great successs. Thank you to Ahmad Mustafa for presenting on CLIP by OpenAI. He shared key insights on contrastive learning and language-guided recognition, and touched on key points of the CLIP paper.
+
+<img src = "https://miro.medium.com/max/1200/1*tg7akErlMSyCLQxrMtQIYw.png">
+
 # Third Session
 
 Last saturday, we had our third ML theory session and we had two wonderful speakers Sree Harsha Nelaturu and Max Marion who talked about Meta Learning and Neural Information Retrieval respectively. I enjoyed the talks and it was very informative. 
