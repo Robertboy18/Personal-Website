@@ -26,8 +26,6 @@ Overall, I am feeling very grateful and accomplished as I reflect on my fall sem
 | Theoretical Machine Learning           | Machine Learning |
 | Foundations of Deep Learning           | Deep Learning |  
 
-<hr>Moreover, I am excited for this upcoming senior year and graduate school application period. Excited to also learn interesting concepts from various courses and do more research over the semester.
-
 <hr>
 
 <img src = "https://www.amii.ca/media/images/meta.2e16d0ba.fill-1370x800.jpg">  
