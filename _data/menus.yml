@@ -3,11 +3,11 @@
   external: false
 
 - title: Research
-  url: /about/
+  url: /research/
   external: false
 
 - title: Posts
-  url: /archive/
+  url: /posts/
   external: false
 
 - title: Notes

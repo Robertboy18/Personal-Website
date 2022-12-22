@@ -1,10 +1,13 @@
 ---
 title: Research
-permalink: /about/
+permalink: /research/
 layout: page
 excerpt: Hello peeps
 comments: false
 ---
+
+## For an updated list of my research, please see my [Google Scholar](https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=5P1Uwy4AAAAJ) page.
+
 # Conference Proceedings and Workshops
 
 
