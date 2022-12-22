@@ -33,7 +33,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Online Learning Algorithms</td>
     <td class="tg-0pky">Machine Learning</td>
-    <td class="tg-0pky"><a href="https://drive.google.com/file/d/1Zg_2e1KXaiazPaNZaGQVx_8FSddiq5EZ/view?usp=sharing">Github</a></td>
+    <td class="tg-0pky"><a href="https://drive.google.com/file/d/1Zg_2e1KXaiazPaNZaGQVx_8FSddiq5EZ/view?usp=sharing">Presentation</a></td>
     </tr> 
     <tr>
     <td class="tg-0pky">2022</td>
