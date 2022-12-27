@@ -7,7 +7,7 @@ comments: false
 ---
 Hey Everyone~  
 <hr>
-Important courses that I have taken (or will be taking) at the University of Alberta. The courses that I TA'ed (Will be TA'ing) are bolded. Most of the information is directly referenced from the University of Alberta's course catalogue.
+Important courses that I have taken (or will be taking) at the University of Alberta. The courses that I TA'ed (Will be TA'ing) are bolded. If a number is in brackets it means I TA'ed the course twice, and DR signifies TA'ed the course in Decima Robinson Center. Most of the information is directly referenced from the University of Alberta's course catalogue.
 <hr>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -130,7 +130,7 @@ Important courses that I have taken (or will be taking) at the University of Alb
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2020</td>
-    <td class="tg-0pky">MATH 217 - Honors Advanced Calculus I</td>
+    <td class="tg-0pky"><strong>MATH 217 - Honors Advanced Calculus I (DR)</strong></td>
     <td class="tg-0pky">Axiomatic development of the real number system. Topology of Rn. Sequences, limits and continuity. Multi-variable calculus: differentiation and integration, including integration in spherical and polar coordinates. The differential and the chain rule. Taylor's Formula, maxima and minima. Introduction to vector field theory.</td>
     </tr>
     <tr>
@@ -160,12 +160,12 @@ Important courses that I have taken (or will be taking) at the University of Alb
     </tr>
     <tr>
     <td class="tg-0pky">Winter 2020</td>
-    <td class="tg-0pky">MATH 227 - Honors Linear Algebra II</td>
+    <td class="tg-0pky"><strong>MATH 227 - Honors Linear Algebra II (DR)</strong></td>
     <td class="tg-0pky">Review of vector space axioms, subspaces and quotients; span; linear independence; Gram-Schmidt process; projections; methods of least squares; linear transformations and their matrix representations with respect to arbitrary bases; change of basis; eigenvectors and eigenvalues; triangularization and diagonalization; canonical forms (Schur, Jordan, spectral theorem). </td>
     </tr>
     <tr>
     <td class="tg-0pky">Winter 2020</td>
-    <td class="tg-0pky">MATH 118 - Honors Calculus II</td>
+    <td class="tg-0pky"><strong>MATH 118 - Honors Calculus II</strong></td>
     <td class="tg-0pky">Integration and the Fundamental Theorem. Techniques and applications of integration. Derivatives and integrals of the exponential, and trigonometric functions. Introduction to infinite series. Introduction to partial derivatives and complex analysis.(Real Analysis 2)</td>
     </tr>
     <tr>
@@ -175,12 +175,12 @@ Important courses that I have taken (or will be taking) at the University of Alb
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2019</td>
-    <td class="tg-0pky"><strong>MATH 117 - Honors Calculus I</strong></td>
+    <td class="tg-0pky"><strong>MATH 117 - Honors Calculus I (2)</strong></td>
     <td class="tg-0pky">Axiomatic systems, Real Analysis 1, Functions, continuity, and the derivative. Applications of the derivative. Extended limits and L'Hospital's rule. </td>
     </tr>
     <tr>
     <td class="tg-0pky">Fall 2019</td>
-    <td class="tg-0pky"><strong>MATH 127 - Honors Linear Algebra I</strong></td>
+    <td class="tg-0pky"><strong>MATH 127 - Honors Linear Algebra I (DR)</strong></td>
     <td class="tg-0pky">Systems of linear equations; vectors in Euclidean n-space; span and linear independence in Euclidean n-space; dot and cross product; orthogonality; lines and planes; matrix arithmetic; determinants; introduction to eigenvectors and eigenvalues; introduction to linear transformations; complex numbers; vector space axioms; subspaces and quotients.</td>
     </tr>
     <tr>
