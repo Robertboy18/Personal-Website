@@ -6,15 +6,14 @@ excerpt: Hello peeps
 comments: false
 ---
 
-### For an updated list of my research, please see my [Google Scholar](https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=5P1Uwy4AAAAJ) page.
+### For an updated list of my research, see my [Google Scholar](https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=5P1Uwy4AAAAJ) page.
 
 # Conference Proceedings and Workshops
-
 
 Jiawei Zhao, **George, Robert Joseph**, Yifei Zhang, Zongyi Li and Anima Anandkumar “Incremental Fourier Neural
 Operator” NeurIPS 2022 Workshop AI4Science, 2022. [[Paper](https://openreview.net/forum?id=duCmFUWpxVj&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2022%2FWorkshop%2FAI4Science%2FAuthors%23your-submissions))], [[NeurIPS](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=57971)]
 
-**George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Canadian Undergraduate Mathematics Conference, 2022, pp. 30–31. arXiv preprint arXiv:2210.13745. (Also at the 2022 Eureka Undergraduate Symposium). [[Presentation](https://www.scribd.com/document/589615195/cumc#from_embed)], [[Paper](https://arxiv.org/abs/2210.13745)]
+**George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Canadian Undergraduate Mathematics Conference, 2022, pp. 30–31. arXiv preprint arXiv:2210.13745. (Also at the 2022 Eureka Undergraduate Symposium). [[Presentation](https://drive.google.com/file/d/1MCHo2Xm4mAOPN3tUEdZM9OKghdmh0nNq/view?usp=sharing)], [[Paper](https://arxiv.org/abs/2210.13745)]
 
 <!--<sup> **Abstract**: The utilization of renewable energy technologies, particularly hydrogen, has seen a boom in interest and spread worldwide. Ethanol steam reformation (ESR) is one of the primary methods capable of producing hydrogen efficiently and reliably. This paper provides an in-depth study of the reformulated sys tem, both theoretically and numerically, and a plan to explore the possibility of converting the system into its conservation form. We aim to enable a mech anistic model to be employed in real-time control calculations while explicitly accounting for input, state and output constraints with minimal computation cost. Lastly, we offer an overview of several numerical approaches for solving the general first-order quasi-linear hyperbolic equation to the model for ESR. We conclude by presenting some results that would enable these ODE/PDE solvers to be used in non-linear model predictive control algorithms and discuss the limitations of our approach and directions for future work.</sup>-->
 

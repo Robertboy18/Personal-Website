@@ -34,9 +34,9 @@ Important courses that I have taken (or will be taking) at the University of Alb
     </tr>
     <tr>
     <td class="tg-0pky">Winter 2023</td>
-    <td class="tg-0pky">CMPUT 200 - Ethics of Data Science and Artificial Intelligence
+    <td class="tg-0pky">MATH 253 - Theory of Interest
     </td>
-    <td class="tg-0pky">This course focuses on ethics issues in Artificial Intelligence ethics in Artificial Intelligence (AI) and Data Science (DS). The main themes are privacy, fairness/bias, and explainability in DS. The objectives are to learn how to identify and measure these aspects in outputs of algorithms, and how to build algorithms that correct for these issues. The course will follow a case-studies based approach, where we will examine these aspects by considering real-world case studies for each of these ethics issues. The concepts will be introduced through a humanities perspective before a technical treatment including implementation work.</td>
+    <td class="tg-0pky">Accumulation and amount functions, effective, nominal, simple, and compound rates, force of interest and discount, simple and general annuities certain, variable annuities and perpetuities, amortization schedules and sinking funds, bonds and other securities, applications, installment loans, depreciation, depletion, capitalized cost.</td>
     </tr>
     <tr>
     <td class="tg-0pky">Winter 2023</td>
