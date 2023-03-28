@@ -12,6 +12,36 @@ I am one of the organizers for the ML Theory Learning group at [Cohere For AI](h
 This community is amazing and we have tons of other reading groups and I personally am enjoying the Reinforcement Learning Reading group events, Fireside talks and other events that the community holds. Its a really supportive environment, intellectually motivating and you definitely are going to find atleast one person who shares the same research interest as you.
 
 <hr>
+# Sixth Session
+Hey everyone! Hey everyone! We had a very fruitful session last Saturday, and it was great meeting everyone new and our first meeting for this year. 
+
+We briefly discussed the Lottery Ticket Hypothesis, Neural Operators and why Adam is still being used as the main optimizer in most deep learning models. 
+
+Best of luck to everyone submitting to ICML or the ICLR blog/tiny paper: )!
+
+> Research Proposal by [Bhavnick](https://twitter.com/BhavnickMinhas) for Adam Optimizer
+
+The lottery ticket hypothesis suggests that deep neural networks have sparse subnetworks that can perform equally well or better than the original dense network. These sparse subnetworks can be obtained through a process called pruning, where the unnecessary connections in the network are removed.
+
+Recent research has shown that the pruned subnetworks often exhibit a regular structure, which can be visualized as a set of neurons that are strongly connected to each other while having weaker connections to the rest of the network. This regular structure is believed to be a circuit that enables the network to perform well on a specific task.
+
+The identification of this regular structure has significant implications for artificial general intelligence (AGI). If we can identify and compose these regular structures like functions, we can potentially create a single model that can perform well on multiple tasks, leading us closer to achieving AGI.
+
+Overall, the existence of regular structures in lottery tickets suggests that neural networks are not just a collection of random connections, but rather have underlying organizational principles that can be uncovered through careful pruning and analysis.
+
+> Research Proposal by members on understanding Adam and alternatives for Large Language Models. 
+
+Despite the many advances in the field of optimization, Adam is still widely used as the main optimizer for deep learning models, including large language models. Adam is popular because it is efficient, easy to use, and has been shown to perform well in many different settings.
+
+While there are hundreds of optimizers claiming to be better than Adam, it can be challenging to determine which optimizer is truly superior, as the effectiveness of an optimizer can vary depending on the specific task and architecture of the model. Additionally, some of the newer optimizers may require more tuning and experimentation to achieve optimal results.
+
+That being said, researchers are continuing to explore new optimization techniques and many promising alternatives to Adam have been proposed, such as RAdam and Ranger. These optimizers have been shown to perform well on a variety of tasks, and it is likely that they will continue to gain popularity in the deep learning community.
+
+Overall, while Adam remains a popular choice for deep learning optimization, it is important for researchers to stay informed about new developments in the field and to explore alternative optimizers to ensure that their models are performing at their best.
+
+Join the community [here](https://cohere.for.ai/) for the discussion and how you can contribute to the research proposal.
+
+<img src="https://internetpolicy.mit.edu/wp-content/uploads/2019/05/neural-network.png" alt="Image">
 
 # Fifth Session
 Hey everyone! Last Saturday, we had our final ML theory session for the year, and it went really well. 
