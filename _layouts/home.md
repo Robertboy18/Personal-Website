@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: home
 home: true
 ---
-<h1>Robert Joseph</h1>
+## Robert Joseph 
 
 <img align="right" width="230" height="260" src="https://i.ibb.co/0Gphxfg/SNOW-20220627-114422-413.jpg">
 
