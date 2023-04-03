@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 home: true
 ---
 <h1>Robert Joseph</h1>
