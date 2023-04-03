@@ -6,10 +6,11 @@ home: true
 
 <img align="left" width="230" height="270" src="https://i.ibb.co/0Gphxfg/SNOW-20220627-114422-413.jpg" vspace="0" hspace="0"/>
 <p>
-Ph.D. in Mathematics + Computer Science at the California Institute of Technology (Caltech) (Incoming - )
-
-BS.c Honors in Applied Mathematics and Computer Science at the University of Alberta (2019 - Present)
+Ph.D. Math/CS at Caltech (Incoming - )
+<br>
+BSc Honors in Math/CS at the University of Alberta (2019 - Present)
 </p>
+<br>
 <br>
 <br>
 <br>
