@@ -4,7 +4,7 @@ home: true
 ---
 <h1>Robert Joseph</h1>
 
-<img align="left" width="230" height="230" src="https://avatars.githubusercontent.com/u/32393571?v=4" vspace="0" hspace="0"/>
+<img align="left" width="230" height="225" src="https://avatars.githubusercontent.com/u/32393571?v=4" vspace="0" hspace="0"/>
 <p>
 &nbsp; &nbsp; Ph.D. Math/CS at <a href ="https://cms.caltech.edu/academics/grad_cms"> Caltech </a> (Incoming - )
 <br>
