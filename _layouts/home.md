@@ -6,10 +6,12 @@ home: true
 
 <img align="left" width="230" height="270" src="https://i.ibb.co/0Gphxfg/SNOW-20220627-114422-413.jpg" vspace="0" hspace="0"/>
 <p>
-Ph.D. Math/CS at Caltech (Incoming - )
+&nbsp; &nbsp; Ph.D. Math/CS at <a href ="https://cms.caltech.edu/academics/grad_cms"> Caltech </a> (Incoming - )
 <br>
-BSc Honors in Math/CS at the University of Alberta (2019 - Present)
+&nbsp; &nbsp; BSc Honors in Math/CS at the <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (2019 - Present)
 </p>
+<br>
+<br>
 <br>
 <br>
 <br>
