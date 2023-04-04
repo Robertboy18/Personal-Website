@@ -56,7 +56,7 @@ and alcohol and drug use. Limitations to this conclusion
 involve the fact that the pandemic is still ongoing and the 
 datasets used were relatively new and small.</sup>-->
 
-# Thesis and Honors Projects
+# Thesis and Honors Papers
 
 **George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Canadian Undergraduate Mathematics Conference, 2022, pp. 30–31. arXiv preprint arXiv:2210.13745. [[Presentation](https://drive.google.com/file/d/1MCHo2Xm4mAOPN3tUEdZM9OKghdmh0nNq/view?usp=sharing)], [[Paper](https://arxiv.org/abs/2210.13745)]
 
