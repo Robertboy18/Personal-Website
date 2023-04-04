@@ -9,7 +9,9 @@ Hey Everyone~
 <hr>Throughout my life, I have learned to apply my skills in something which would benefit others or rather showcase my skills through some projects or publications. Each project relates to something I have learned in the field of Computer Science or Mathematics or in general.
 I hope my skills and the knowledge I have gained are reflected through these projects.
 <hr>
-**Projects I have completed**
+
+## Projects I have completed
+
 <hr>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -123,7 +125,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 </tbody>
 </table>
 
-#   Papers as part of projects
+##   Papers as part of projects
 
 <!--**George, Robert Joseph**, "Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers", Honors Thesis, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1chvXZEM7daBfrni2ISAgXqLiQgnzIqCa/view?usp=sharing)]-->
 
