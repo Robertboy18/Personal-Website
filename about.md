@@ -56,9 +56,11 @@ and alcohol and drug use. Limitations to this conclusion
 involve the fact that the pandemic is still ongoing and the 
 datasets used were relatively new and small.</sup>-->
 
-# Thesis
+# Thesis and Honors Projects
 
 **George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Canadian Undergraduate Mathematics Conference, 2022, pp. 30–31. arXiv preprint arXiv:2210.13745. [[Presentation](https://drive.google.com/file/d/1MCHo2Xm4mAOPN3tUEdZM9OKghdmh0nNq/view?usp=sharing)], [[Paper](https://arxiv.org/abs/2210.13745)]
+
+**George, Robert Joseph**, "Solution Space of a Homogenous Linear Differential Equation", Honors Ordinary Differential Equations, University of Alberta, 2021. [[Paper](https://drive.google.com/file/d/1RVuxAUvd7xLYasmCIxcvnH91e3V-NG1u/view?usp=sharing)]
 
 # Summer Schools Attended
 
@@ -70,20 +72,7 @@ Alberta Number Theory Days XIII, Banff International Research Station for Mathem
 
 Western Summer School in Algebra, University of Alberta, 2020.
 
-# Extended Abstracts and other Papers
-
-<!--**George, Robert Joseph**, "Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers", Honors Thesis, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1chvXZEM7daBfrni2ISAgXqLiQgnzIqCa/view?usp=sharing)]-->
-
-**George, Robert Joseph**, Joshua Joseph George and Davidson Noby Joseph,  "Water and Hydroelectric Power Sharing", The Mathematical Contest in Modeling, 2022. [[Paper](https://drive.google.com/file/d/17IUNdXzqem217o3Y2gLSN_LfE1Kh1XVp/view?usp=sharing)], [[Certificate](https://drive.google.com/file/d/1jq25pVDBwNzTCbcOb75AThdlIwW0mLpx/view?usp=sharing)]
-
-**George, Robert Joseph**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and CountArctic Wildlife", AI Capstone, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1HmcnzZ6CXJkriHtifzvtkLeBRGyuarlD/view?usp=sharing)]
-
-
-**George, Robert Joseph**. “Infodemiology and Infoveillance of Covid19 Using GPT-3.” STEM Fellowship Journal, vol. 7, no. 1, 2021, pp. 87–88. [[Paper](https://drive.google.com/file/d/1bezZNMu11uXhMOTj4cKOdlAcZ5IcLyPA/view?usp=sharing)], [[Journal](https://doi.org/10.17975/sfj-2021-003)]
-
-**George, Robert Joseph**, "Solution Space of a Homogenous Linear Differential Equation", Honors Ordinary Differential Equations, University of Alberta, 2021. [[Paper](https://drive.google.com/file/d/1RVuxAUvd7xLYasmCIxcvnH91e3V-NG1u/view?usp=sharing)]
-
-**George, Robert Joseph**, et al. “Correlation between COVID-19, Mental Illness and Substance Abuse Prevalence.” STEM Fellowship Journal, vol. 6, no. 1, 2020, pp. 127–128. [[Paper](https://drive.google.com/file/d/1qCU1nBNevSwW8_IczykdcvwYi7SYMG8m/view?usp=sharing)], [[Journal](https://doi.org/10.17975/sfj-2020-004)], [[Codebase](https://gist.github.com/Robertboy18/2168d899ea5cb0732d4290bbba1ca515#file-big-data-science-2020-ipynb)]
+ 
 
 <!--**Joseph, Robert**, “Statistical Machine Learning - Analysis of Cardiovascular diseases.” International Undergraduate Summer Enrichment Program, University of Alberta, 2021.-->
 
