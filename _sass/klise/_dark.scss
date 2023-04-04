@@ -90,10 +90,17 @@ body[data-theme="dark"] {
   // Link
   a {
     color: rgba(255, 82, 119, 0.6);
-    text-decoration-color: $dark-smoke;
-
+    text-decoration: none;
+    &[target="_blank"]::after {
+      content: " \2197";
+      font-size: $small-font-size;
+      line-height: 0;
+      position: relative;
+      bottom: 5px;
+      vertical-align: baseline;
+    }
     &:hover {
-      color: $dark-text-link-blue;
+      color: rgba(255, 82, 119, 0.6);
     }
 
     &:focus {
