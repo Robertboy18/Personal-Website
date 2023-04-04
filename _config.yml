@@ -6,7 +6,7 @@ lang: en-US
 timezone: Canada/Edmonton
 image: assets/img/pic.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/Robertboy18
-mode: dark # default theme "dark" | "light"
+mode: light # default theme "dark" | "light"
 
 # Profile settings
 author:
@@ -16,7 +16,7 @@ author:
     @Caltech and @RLAI/Amii | Former Data Science Intern @Microsoft | Honors Math + CS @UAlberta
   username: username
   email: robujsph2001@gmail.com
-  avatar: /assets/img/finalimage1.jpg
+  avatar: /assets/img/pic.jpg
 
 # Url settings
 url: "https://www.robertj1.com/"
