@@ -18,8 +18,6 @@ Operator” NeurIPS 2022 Workshop AI4Science, 2022. [[Paper](https://openreview.
 
 # Presentations and Posters
 
-**George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Canadian Undergraduate Mathematics Conference, 2022, pp. 30–31. arXiv preprint arXiv:2210.13745. [[Presentation](https://drive.google.com/file/d/1MCHo2Xm4mAOPN3tUEdZM9OKghdmh0nNq/view?usp=sharing)], [[Paper](https://arxiv.org/abs/2210.13745)]
-
 **George, Robert Joseph**, Martha White, Adam White and Samuel Neumann. “Making Reinforcement Learning Experiments More Reproducible and Computationally Efficient.” Reverse Expo, Alberta Machine Intelligence Institute, 2022. [[Poster](https://drive.google.com/file/d/1ZlcmJao2NMlmXMtEz8H5J7Ob73Csu9Vx/view?usp=sharing)], [[Codebase](https://github.com/Robertboy18/MinAtar-Faster)]
 
 <!--<sup> **Abstract**: The Arcade Learning Environment (ALE) is a well-known testing ground for reinforcement learning agents. MinAtar, short for miniature Atari, was introduced in 2018 by researchers at the University of Alberta and Google Brain/Deepmind as a new set of environments that capture the general mechanics of specific Atari games while simplifying the representational complexity to focus more on the behavioral challenges. Seaquest, Breakout, Asterix, Freeway, and Space Invaders are all counterparts of Atari games in MinAtar. Currently, the implementation of these gaming environments is slow, and we refactored the whole codebase to reduce training time by roughly 50% across all environments and also included a Just in time compiler (Numba) that makes the code even faster. This is a huge improvement for researchers to train their algorithms on these environments and get the results faster. Secondly, we propose a new approach to select the best hyperparameters after a hyperparameter sweep wherein the old method just used to choose the best hyper that resulted in largest area under the learning curve (AUC) but suffered from not taking into account the hyperparameter sensitivity etc. We compare the Soft Actor Critic (SAC) Discrete CNN and Vanilla ActorCritic (VAC) Discrete CNN agents’ mean learning curves in several contexts utilizing this new approach. We hope that MinAtar and this new hyperparameter approach can allow researchers to use it as a testbed for Reinforcement Learning and Artificial Intelligence Agents.</sup>-->
@@ -57,6 +55,10 @@ correlation between the COVID-19 pandemic, mental illness
 and alcohol and drug use. Limitations to this conclusion 
 involve the fact that the pandemic is still ongoing and the 
 datasets used were relatively new and small.</sup>-->
+
+# Thesis
+
+**George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Canadian Undergraduate Mathematics Conference, 2022, pp. 30–31. arXiv preprint arXiv:2210.13745. [[Presentation](https://drive.google.com/file/d/1MCHo2Xm4mAOPN3tUEdZM9OKghdmh0nNq/view?usp=sharing)], [[Paper](https://arxiv.org/abs/2210.13745)]
 
 # Summer Schools Attended
 
