@@ -213,7 +213,7 @@ h6 > a {
 
 // Link
 a {
-  color: inherit;
+  color: $text-link-blue;
   text-decoration-color: $smoke;
 
   &:hover {
