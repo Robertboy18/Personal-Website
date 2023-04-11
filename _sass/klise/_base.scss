@@ -213,16 +213,23 @@ h6 > a {
 
 // Link
 a {
-  color: inherit;
-  text-decoration-color: $smoke;
+  color: $text-link-blue;
+  text-decoration: none;
+  &[target="_blank"]::after {
+    content: " \2197";
+    font-size: $small-font-size;
+    line-height: 0;
+    position: relative;
+    bottom: 5px;
+    vertical-align: baseline;
+  }
 
   &:hover {
-    color: $text-link-blue;
+    color: $text-link-blue-active;
   }
 
   &:focus {
-    outline: 3px solid rgba(0, 54, 199, 0.6);
-    outline-offset: 2px;
+    color: $text-link-blue;
   }
 }
 

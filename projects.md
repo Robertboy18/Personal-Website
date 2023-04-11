@@ -9,7 +9,9 @@ Hey Everyone~
 <hr>Throughout my life, I have learned to apply my skills in something which would benefit others or rather showcase my skills through some projects or publications. Each project relates to something I have learned in the field of Computer Science or Mathematics or in general.
 I hope my skills and the knowledge I have gained are reflected through these projects.
 <hr>
-**Projects I have completed**
+
+## Projects I have completed
+
 <hr>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -107,13 +109,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <td class="tg-0pky">Computer Vision</td>
     <td class="tg-0pky"><a href="https://github.com/Robertboy18/BlinkEyePython" target="_blank" rel="noopener noreferrer">Github</a></td>
     </tr>
-      <tr>
-    <td class="tg-0pky">2020</td>
-    <td class="tg-0pky">Graduate Admission Prediction</td>
-    <td class="tg-0pky">Artificial Intelligence </td>
-    <td class="tg-0pky"><a href="https://gist.github.com/Robertboy18/3afc0d5f6efcc1929938db45f6112c52" target="_blank" rel="noopener noreferrer">Gist</a></td>
-    </tr>
-     <tr>
+    <tr>
     <td class="tg-0pky">2020</td>
     <td class="tg-0pky">National Undergraduate Big Data Challenge</td>
     <td class="tg-0pky">Data Science </td>
@@ -125,38 +121,24 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <td class="tg-0pky">Analysis </td>
     <td class="tg-0pky"><a href="https://www.scribd.com/document/462045997/Riemann-zeta-2k-Using-Fourier-Analysis" target="_blank" rel="noopener noreferrer">PDF</a></td>
   </tr>
-    <tr>
-    <td class="tg-0pky">2020</td>
-    <td class="tg-0pky">Super Bowl Statistics</td>
-    <td class="tg-0pky">Data Science</td>
-    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Data-Science/blob/master/Projects/SuperBowlStatistics.ipynb" target="_blank" rel="noopener noreferrer">Jupyter Notebook</a></td>
-  </tr>
-    <tr>
-    <td class="tg-0pky">2020</td>
-    <td class="tg-0pky">Corona Virus Website</td>
-    <td class="tg-0pky">Website </td>
-    <td class="tg-0pky"><a href="https://stuckathomecorona.netlify.app/" target="_blank" rel="noopener noreferrer">Website</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">2019</td>
-    <td class="tg-0pky">Iris Data Set</td>
-    <td class="tg-0pky">Machine Learning</td>
-    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Data-Science/blob/master/Machine-Learning/Program%201%20.ipynb" target="_blank" rel="noopener noreferrer">Jupyter Notebook</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">2019</td>
-    <td class="tg-0pky">Sudoku Solver</td>
-    <td class="tg-0pky">Backtracking Algorithms </td>
-    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Projects-/blob/master/Sudoku%20%20-%20CPP" target="_blank" rel="noopener noreferrer">Github Link</a></td>
-  </tr>
-    <tr>
-    <td class="tg-0pky">2018</td>
-    <td class="tg-0pky">Library Management System</td>
-    <td class="tg-0pky">Database Management System</td>
-    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Projects-/blob/master/Library-management-system.cpp" target="_blank" rel="noopener noreferrer">Github Link</a></td>
-  </tr>
+ 
 </tbody>
 </table>
+
+##   Papers as part of projects
+
+<!--**George, Robert Joseph**, "Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers", Honors Thesis, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1chvXZEM7daBfrni2ISAgXqLiQgnzIqCa/view?usp=sharing)]-->
+
+**George, Robert Joseph**, Joshua Joseph George and Davidson Noby Joseph,  "Water and Hydroelectric Power Sharing", The Mathematical Contest in Modeling, 2022. [[Paper](https://drive.google.com/file/d/17IUNdXzqem217o3Y2gLSN_LfE1Kh1XVp/view?usp=sharing)], [[Certificate](https://drive.google.com/file/d/1jq25pVDBwNzTCbcOb75AThdlIwW0mLpx/view?usp=sharing)]
+
+**George, Robert Joseph**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and CountArctic Wildlife", AI Capstone, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1HmcnzZ6CXJkriHtifzvtkLeBRGyuarlD/view?usp=sharing)]
+
+
+**George, Robert Joseph**. “Infodemiology and Infoveillance of Covid19 Using GPT-3.” STEM Fellowship Journal, vol. 7, no. 1, 2021, pp. 87–88. [[Paper](https://drive.google.com/file/d/1bezZNMu11uXhMOTj4cKOdlAcZ5IcLyPA/view?usp=sharing)], [[Journal](https://doi.org/10.17975/sfj-2021-003)]
+
+ 
+
+**George, Robert Joseph**, et al. “Correlation between COVID-19, Mental Illness and Substance Abuse Prevalence.” STEM Fellowship Journal, vol. 6, no. 1, 2020, pp. 127–128. [[Paper](https://drive.google.com/file/d/1qCU1nBNevSwW8_IczykdcvwYi7SYMG8m/view?usp=sharing)], [[Journal](https://doi.org/10.17975/sfj-2020-004)], [[Codebase](https://gist.github.com/Robertboy18/2168d899ea5cb0732d4290bbba1ca515#file-big-data-science-2020-ipynb)]
 
 <hr>
 
