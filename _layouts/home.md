@@ -8,7 +8,7 @@ home: true
 <p>
 &nbsp; &nbsp; Ph.D. Math/CS at <a href ="https://cms.caltech.edu/academics/grad_cms"> Caltech </a> (Incoming - )
 <br>
-&nbsp; &nbsp; BSc Honors in Math/CS at the <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (2019 - Present)
+&nbsp; &nbsp; BSc Honors Math/CS at the <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (2019 - Present)
 </p>
 <br>
 <br>
