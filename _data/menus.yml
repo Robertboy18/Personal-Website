@@ -10,11 +10,11 @@
   url: /posts/
   external: false
 
-- title: Notes
-  url: /notes/
+- title: News
+  url: /updates/
   external: false # set true if you using external link, see bellow
 
-- title: ML Theory
+- title: Machine Learning Theory
   url: /ml/
   external: false # set true if you using external link, see bellow
 
@@ -22,9 +22,9 @@
   url: /service/
   external: false # set true if you using external link, see bellow
 
-- title: Resume
-  url: /resume/
-  external: false
+#- title: Resume
+#  url: /resume/
+#  external: false
 
 - title: Projects
   url: /projects/

@@ -28,7 +28,7 @@ I also am interested in giving back to the community by teaching and mentoring s
 Feel free to contact me if any of these interests align with your research or if you have any questions. I am always open to new opportunities and collaborations. 
 </p>
 <p style="margin-bottom:4cm;">
-Email: rjoseph1 (at) ualberta (dot) ca | Twitter: <a href = "https://twitter.com/Robertljg">@Robertljg</a> | LinkedIn: <a href = "https://www.linkedin.com/in/robert-joseph-2001/">Robertj</a> | Github: <a href = "https://github.com/Robertboy18">@Robertboy18</a>
+Email: rjoseph1 (at) ualberta (dot) ca | Twitter: <a href = "https://twitter.com/Robertljg">@Robertljg</a> | LinkedIn: <a href = "https://www.linkedin.com/in/robert-joseph-2001/">Robertj</a> | Github: <a href = "https://drive.google.com/file/d/1lVJvF2aaAyNwoI5KBKPUn5SXPAMtMKnR/view">@Robertboy18</a> | <a href = "/resume">Resume</a>
 </p>
 
 <!--
