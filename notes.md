@@ -27,7 +27,5 @@ Thank you all for being a part of this journey with me. I can't wait to see what
 
 <hr>
 
-- Robert
-
 <img src = "https://www.ualberta.ca/media-library/ualberta/admissions-and-programs/great-things/virtual-tour2-cropped.jpg">
 
