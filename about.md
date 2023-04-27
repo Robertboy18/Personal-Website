@@ -16,8 +16,7 @@ Operator” NeurIPS 2022 Workshop AI4Science, 2022. [[Paper](https://arxiv.org/p
 
 # Preprints
 
-**George, Robert Joseph**. "EDCDE - Extended Discovery of Closed-Form Differential Equations", Submitted to Tiny Paper at ICLR, 2023. [[Paper](https://openreview.net/forum?id=EVz_vcZQvvg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FTinyPapers%2FAuthors%23your-submissions))], [[Codebase](https://github.com/Robertboy18/EDCDE-ICLR-2023)]
-
+**George, Robert Joseph**. "EDCDE - Extended Discovery of Closed-Form Differential Equations", Submitted to Tiny Paper at the International Conference on Learning Representations, 2023. [[Paper](https://openreview.net/forum?id=EVz_vcZQvvg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FTinyPapers%2FAuthors%23your-submissions))], [[Codebase](https://github.com/Robertboy18/EDCDE-ICLR-2023)]
 # Presentations and Posters
 
 **George, Robert Joseph**, Martha White, Adam White and Samuel Neumann. “Making Reinforcement Learning Experiments More Reproducible and Computationally Efficient.” Reverse Expo, Alberta Machine Intelligence Institute, 2022. [[Poster](https://drive.google.com/file/d/1ZlcmJao2NMlmXMtEz8H5J7Ob73Csu9Vx/view?usp=sharing)], [[Codebase](https://github.com/Robertboy18/MinAtar-Faster)]
@@ -37,7 +36,7 @@ Operator” NeurIPS 2022 Workshop AI4Science, 2022. [[Paper](https://arxiv.org/p
 
 **George, Robert Joseph**, Noel Murasko and John Bowman. “Hybrid Dealiased Convolutions.” University of Alberta, 2023. [[Paper]()], [[Poster](https://drive.google.com/file/d/1VuqCO31T6Y9PkJzNKPvI6qplXcPUQ13k/view?usp=sharing)], [[Presentation](https://drive.google.com/file/d/1IXXeSwpm1xZwBjI-MkWbskTEsJKsxl8p/view?usp=sharing)]
 
-**George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Canadian Undergraduate Mathematics Conference, 2022, pp. 30–31. [[Presentation](https://drive.google.com/file/d/1MCHo2Xm4mAOPN3tUEdZM9OKghdmh0nNq/view?usp=sharing)], [[Paper](https://arxiv.org/abs/2210.13745)]
+**George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers.” Canadian Undergraduate Mathematics Conference, 2022. [[Presentation](https://drive.google.com/file/d/1MCHo2Xm4mAOPN3tUEdZM9OKghdmh0nNq/view?usp=sharing)], [[Paper](https://arxiv.org/abs/2210.13745)]
 
 # Summer Schools Attended
 
