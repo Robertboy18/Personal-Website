@@ -133,9 +133,9 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 
 **George, Robert Joseph**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and CountArctic Wildlife", AI Capstone, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1HmcnzZ6CXJkriHtifzvtkLeBRGyuarlD/view?usp=sharing)]
 
+**George, Robert Joseph**, "Solution Space of a Homogenous Linear Differential Equation", Honors Ordinary Differential Equations, University of Alberta, 2021. [[Paper](https://drive.google.com/file/d/1RVuxAUvd7xLYasmCIxcvnH91e3V-NG1u/view?usp=sharing)]
 
 **George, Robert Joseph**. “Infodemiology and Infoveillance of Covid19 Using GPT-3.” STEM Fellowship Journal, vol. 7, no. 1, 2021, pp. 87–88. [[Paper](https://drive.google.com/file/d/1bezZNMu11uXhMOTj4cKOdlAcZ5IcLyPA/view?usp=sharing)], [[Journal](https://doi.org/10.17975/sfj-2021-003)]
-
  
 
 **George, Robert Joseph**, et al. “Correlation between COVID-19, Mental Illness and Substance Abuse Prevalence.” STEM Fellowship Journal, vol. 6, no. 1, 2020, pp. 127–128. [[Paper](https://drive.google.com/file/d/1qCU1nBNevSwW8_IczykdcvwYi7SYMG8m/view?usp=sharing)], [[Journal](https://doi.org/10.17975/sfj-2020-004)], [[Codebase](https://gist.github.com/Robertboy18/2168d899ea5cb0732d4290bbba1ca515#file-big-data-science-2020-ipynb)]
