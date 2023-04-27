@@ -9,13 +9,39 @@ I am one of the organizers for the ML Theory Learning group at [Cohere For AI](h
 
 <img src = "https://i.ibb.co/ZMzFgB5/MLTheory-Learning-Group-Discord.png">
 
-This community is amazing and we have tons of other reading groups and I personally am enjoying the Reinforcement Learning Reading group events, Fireside talks and other events that the community holds. Its a really supportive environment, intellectually motivating and you definitely are going to find atleast one person who shares the same research interest as you.
+This community is amazing and we have tons of other reading groups and I personally am enjoying the Reinforcement Learning Reading group events, Fireside talks and other events that the community holds. It's a really supportive environment, intellectually motivating and you definitely are going to find atleast one person who shares the same research interest as you.
 
 <hr>
-# Sixth Session
-Hey everyone! Hey everyone! We had a very fruitful session last Saturday, and it was great meeting everyone new and our first meeting for this year. 
 
-We briefly discussed the Lottery Ticket Hypothesis, Neural Operators and why Adam is still being used as the main optimizer in most deep learning models. 
+# Ninth Session
+Hey everyone! Yaroslav Bulatov was the first speaker as part of our speaker series "Learning to learn: Unravelling learning theory". 
+
+The talk was based on Generating functions approach to gradient descent analysis (like in <a href = "https://arxiv.org/abs/2206.11124">https://arxiv.org/abs/2206.11124</a>). Classical optimization theorems characterise behaviour in the worst case, while generating functions can tell you how things behave in average case. <a href = "https://machine-learning-etc.ghost.io/">https://machine-learning-etc.ghost.io/</a> a blog by the speaker has some cool resources regarding topics in learning theory.
+
+It was a great session and the slides are available <a href ="https://notability.com/n/9KbYpGDd9D8d9HeCl1KP4"> here </a>. The talk is also on Youtube <a href = "https://www.youtube.com/watch?v=i3YPm7MCMf0"> here </a>.
+
+# Eigth Session
+Hey everyone! We had a very fruitful session last Saturday, where Ajinkya presented on the Privacy of Noisy SGD. The slides are available <a href ="https://docs.google.com/presentation/d/10XSIitnJ3DnM0KxevFk6iIQ0Qk71AzsjDTnAeowH54Q/edit"> here </a>.
+
+<hr>
+
+# Seventh Session
+Hey everyone! We had a very fruitful session last Saturday, and I presented on Neural Operators. The slides are available <a href ="https://docs.google.com/presentation/d/1jxtR6m2yw7i59QcFWqqAbyGyStsbGlqz/edit?usp=sharing&ouid=118309576339488509705&rtpof=true&sd=true"> here </a>.
+Neural Operators refer to a class of neural network architectures that enable the learning of mathematical operations from input-output data pairs, without explicit knowledge of the underlying equations. In contrast to traditional machine learning models that rely on pre-defined functions or equations, Neural Operators aim to learn the underlying physical laws directly from data.
+
+Neural Operators are inspired by the concept of differential operators, which are used in mathematics and physics to describe the relationship between functions and their derivatives. By learning differential operators directly from data, Neural Operators can be used to model complex physical systems and make predictions about their behavior.
+
+One of the advantages of Neural Operators is their ability to generalize to new, unseen data, which is critical for applications such as scientific discovery, control systems, and robotics. Another advantage is their flexibility, as they can be tailored to different types of input data, such as images, time-series, or point clouds.
+
+Although Neural Operators are a relatively new area of research, they hold promise for advancing the fields of machine learning and scientific computing, by enabling more efficient and accurate modeling of complex systems. You can check out some of the reading resources in <a href = "https://www.robertj1.com/reading/"> my reading list</a>.
+
+<img src = "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/04/Infinite-mapping-2.svg">
+
+
+# Sixth Session
+Hey everyone! We had a very fruitful session last Saturday, and it was great meeting everyone new and our first meeting for this year. 
+
+We briefly discussed the Lottery Ticket Hypothesis, Neural Operators and why Adam is still being used as the main optimizer in most deep-learning models. 
 
 Best of luck to everyone submitting to ICML or the ICLR blog/tiny paper: )!
 
@@ -35,7 +61,7 @@ Despite the many advances in the field of optimization, Adam is still widely use
 
 While there are hundreds of optimizers claiming to be better than Adam, it can be challenging to determine which optimizer is truly superior, as the effectiveness of an optimizer can vary depending on the specific task and architecture of the model. Additionally, some of the newer optimizers may require more tuning and experimentation to achieve optimal results.
 
-That being said, researchers are continuing to explore new optimization techniques and many promising alternatives to Adam have been proposed, such as RAdam and Ranger. These optimizers have been shown to perform well on a variety of tasks, and it is likely that they will continue to gain popularity in the deep learning community.
+That being said, researchers are continuing to explore new optimization techniques and many promising alternatives to Adam have been proposed, such as RAdam and Ranger. These optimizers have been shown to perform well on a variety of tasks, and they will likely continue to gain popularity in the deep learning community.
 
 Overall, while Adam remains a popular choice for deep learning optimization, it is important for researchers to stay informed about new developments in the field and to explore alternative optimizers to ensure that their models are performing at their best.
 

@@ -25,11 +25,11 @@ I also did research in Numerical Algorithms affiliated with the Pacific Institut
 </p>
 <p style="text-align: justify; hyphens: auto;">
 I also am interested in giving back to the community by teaching and mentoring students and sharing my love for <a href = "https://www.robertj1.com/service/">Mathematics and Computer Science</a> and co-leading the ML Theory Reading Group at <a href="https://cohere.for.ai/">Cohere for AI</a>.
-Feel free to contact me if any of these interests align with your research or if you have any questions. I am always open to new opportunities and collaborations. 
+Feel free to contact me if any of these interests align with your research or if you have any questions. I am always open to new opportunities and collaborations. My resume is available <a href = "https://drive.google.com/file/d/1lVJvF2aaAyNwoI5KBKPUn5SXPAMtMKnR/preview">here</a>.
+</p>
 </p>
 <p style="margin-bottom:4cm;">
-Email: rjoseph1 (at) ualberta (dot) ca | Twitter: <a href = "https://twitter.com/Robertljg">@Robertljg</a> | LinkedIn: <a href = "https://www.linkedin.com/in/robert-joseph-2001/">Robertj</a> | Github: <a href = "https://drive.google.com/file/d/1lVJvF2aaAyNwoI5KBKPUn5SXPAMtMKnR/view">@Robertboy18</a> | <a href = "/resume">Resume</a>
-</p>
+Email: rjoseph1 (at) ualberta (dot) ca | Twitter: <a href = "https://twitter.com/Robertljg">@Robertljg</a> | LinkedIn: <a href = "https://www.linkedin.com/in/robert-joseph-2001/">Robertj</a> | Github: <a href = "https://drive.google.com/file/d/1lVJvF2aaAyNwoI5KBKPUn5SXPAMtMKnR/view">@Robertboy18</a>
 
 <!--
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>

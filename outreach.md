@@ -33,7 +33,7 @@ My time at the <a href = "https://www.ualberta.ca/current-students/undergraduate
 
 ## Non - STEM Clubs
 
-I am also the current Treasurer of the <a href = "https://www.ualberta.ca/st-josephs/community/groups/catholic-students-association/index.html">Catholic Student Association </a> and I am excited to join the CSA and help support the various events planned for the academic year as well as grow in my faith and support the CSA community.
+I was also the Treasurer of the <a href = "https://www.ualberta.ca/st-josephs/community/groups/catholic-students-association/index.html">Catholic Student Association </a>. I helped support the various events planned for the previous academic year as well as grew in my faith and supported the CSA community.
 
 #### Other Non - STEM Clubs which I think are awesome/been involved with:
 
