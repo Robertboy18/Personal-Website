@@ -124,8 +124,9 @@ I hope my skills and the knowledge I have gained are reflected through these pro
  
 </tbody>
 </table>
+<hr>
 
-##   Papers as part of projects
+##  Papers as part of projects
 
 <!--**George, Robert Joseph**, "Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers", Honors Thesis, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1chvXZEM7daBfrni2ISAgXqLiQgnzIqCa/view?usp=sharing)]-->
 
@@ -139,6 +140,10 @@ I hope my skills and the knowledge I have gained are reflected through these pro
  
 
 **George, Robert Joseph**, et al. “Correlation between COVID-19, Mental Illness and Substance Abuse Prevalence”. *STEM Fellowship Journal*, vol. 6, no. 1, 2020, pp. 127–128. [[Paper](https://drive.google.com/file/d/1qCU1nBNevSwW8_IczykdcvwYi7SYMG8m/view?usp=sharing)], [[Journal](https://doi.org/10.17975/sfj-2020-004)], [[Codebase](https://gist.github.com/Robertboy18/2168d899ea5cb0732d4290bbba1ca515#file-big-data-science-2020-ipynb)]
+
+**George, Robert Joseph**, “Statistical Machine Learning - Analysis of Cardiovascular diseases”. *International Undergraduate Summer Enrichment Program*, University of Alberta, 2021.
+
+**George, Robert Joseph** and Paul Buckingham ”Riemann ζ(2k) using Fourier Analysis”. *Undergraduate Number Theory Society*, University of Alberta, 2020. [[Paper](https://www.scribd.com/document/462045997/Riemann-zeta-2k-Using-Fourier-Analysis#from_embed)]
 
 <hr>
 
