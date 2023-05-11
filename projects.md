@@ -149,7 +149,6 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 
 ### Theoritical Algorithms implementation - Website
 
-<!DOCTYPE html>
 <html>
 <body>
 
