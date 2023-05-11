@@ -153,7 +153,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 <html>
 <body>
 
-<iframe src="https://clrs-algorithms-implementation.streamlit.app/?embed=True" width="780" height="600">
+<iframe src="https://clrs-algorithms.streamlit.app/?embed=True" width="780" height="600">
   <p>Your browser does not support iframes.</p>
 </iframe>
 
