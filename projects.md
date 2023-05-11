@@ -83,7 +83,7 @@ I hope my skills and the knowledge I have gained are reflected through these pro
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">Theoretical Algorithms Implementation</td>
     <td class="tg-0pky">Theoretical Computer Science</td>
-    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Theoretical-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a></td>
+    <td class="tg-0pky"><a href="https://github.com/Robertboy18/Theoretical-Algorithms-Implementation" target="_blank" rel="noopener noreferrer">Github</a>, <a href="https://clrs-algorithms.streamlit.app/">Website</a></td>
     </tr>
     <tr>
     <td class="tg-0pky">2021</td>
@@ -146,18 +146,6 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 **George, Robert Joseph** and Paul Buckingham ”Riemann ζ(2k) using Fourier Analysis”. *Undergraduate Number Theory Society*, University of Alberta, 2020. [[Paper](https://www.scribd.com/document/462045997/Riemann-zeta-2k-Using-Fourier-Analysis#from_embed)]
 
 <hr>
-
-### Theoritical Algorithms implementation - Website
-
-<html>
-<body>
-
-<iframe src="https://clrs-algorithms.streamlit.app/?embed=True" width="780" height="600">
-  <p>Your browser does not support iframes.</p>
-</iframe>
-
-</body>
-</html>
 
 I will be updating this page regularly based on the completion of a project.
 <hr>
