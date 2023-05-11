@@ -147,6 +147,19 @@ I hope my skills and the knowledge I have gained are reflected through these pro
 
 <hr>
 
+### Theoritical Algorithms implementation
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<iframe src="https://clrs-algorithms-implementation.streamlit.app/" width="780" height="600">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+
+</body>
+</html>
+
 I will be updating this page regularly based on the completion of a project.
 <hr>
 <img src = "https://www.lovethispic.com/uploaded_images/38369-Heiligenblut-Austria.jpg">
