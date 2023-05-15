@@ -6,9 +6,9 @@ home: true
 
 <img align="left" width="230" height="225" src="https://i.ibb.co/ssKb4KS/pic.jpg" vspace="0" hspace="0"/>
 <p>
-&nbsp; &nbsp; Ph.D. Math/CS at the <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Incoming - )
+&nbsp; &nbsp; Ph.D. Math/CS, <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Incoming - )
 <br>
-&nbsp; &nbsp; BSc Honors Math/CS at the <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (2019 - Present)
+&nbsp; &nbsp; B.Sc Hons Math/CS, First Class, <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (2019 - Present)
 </p>
 <br>
 <br>
