@@ -10,13 +10,12 @@ Hey Everyone~
 Important courses that I took at the University of Alberta. The courses that I TA'ed are bolded. If a number is in brackets it means I TA'ed the course twice, and DR signifies TA'ed the course in Decima Robinson Center. Most of the information is directly referenced from the University of Alberta's course catalogue.
 <hr>
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
 .collapsible {
-  background-color: #777;
-  color: white;
+  background-color: #eee;
+  color: #444;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -24,17 +23,18 @@ Important courses that I took at the University of Alberta. The courses that I T
   text-align: left;
   outline: none;
   font-size: 15px;
+  transition: background-color 0.3s;
 }
 
 .active, .collapsible:hover {
   background-color: #ccc;
 }
 
-.collapsibleContent {
+.content {
   padding: 0 18px;
-  max-height: 0;
+  display: none;
   overflow: hidden;
-  transition: max-height 0.2s ease-out;
+  background-color: #f9f9f9;
 }
 </style>
 </head>
