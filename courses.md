@@ -29,12 +29,16 @@ Important courses that I took at the University of Alberta. The courses that I T
 
 .active, .collapsible:hover {
   background-color: #ccc;
+  display: none;
+  overflow: hidden;
+  outline: transparent;
 }
 
 .content {
   padding: 0 18px;
   display: none;
   overflow: hidden;
+  outline: transparent;
   background-color: #f9f9f9;
 }
 </style>
@@ -133,7 +137,7 @@ for (i = 0; i < coll.length; i++) {
     if (content.style.display === "block") {
       content.style.display = "none";
     } else {
-      content.style.display = "none";
+      content.style.display = "block";
     }
   });
 }
