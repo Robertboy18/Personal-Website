@@ -9,15 +9,8 @@ Hey Everyone~
 <hr>
 Important courses that I took at the University of Alberta. The courses that I TA'ed are bolded. If a number is in brackets it means I TA'ed the course twice, and DR signifies TA'ed the course in Decima Robinson Center. Most of the information is directly referenced from the University of Alberta's course catalogue.
 <hr>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
 
+<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -33,8 +26,8 @@ Important courses that I took at the University of Alberta. The courses that I T
   font-size: 15px;
 }
 
-.active {
-  background-color: #555;
+.active, .collapsible:hover {
+  background-color: #ccc;
 }
 
 .collapsibleContent {
@@ -149,7 +142,6 @@ for (i = 0; i < collapsibles.length; i++) {
 
 </body>
 </html>
-
 
 <hr>
 I will be updating this page regularly based on the completion of a course.
