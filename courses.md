@@ -40,15 +40,89 @@ Important courses that I took at the University of Alberta. The courses that I T
 </head>
 <body>
 
-<button class="collapsibles">Menu</button>
+<button class="collapsible">Winter 2023</button>
 <div class="content">
-  <a href="#">Item 1</a>
-  <a href="#">Item 2</a>
-  <a href="#">Item 3</a>
+  <ul>
+    <li>MATH 417 - Honors Real Variables I</li>
+    <li>MATH 253 - Theory of Interest</li>
+    <li>CMPUT 365 - Introduction to Reinforcement Learning</li>
+  </ul>
+</div>
+
+<button class="collapsible">Fall 2022</button>
+<div class="content">
+  <ul>
+    <li>CMPUT 366 - Search and Planning in Artificial Intelligence</li>
+    <li>CMPUT 497 - Reading Course (Deep Learning)</li>
+    <li>MATH 436 - Intermediate Partial Differential Equations I</li>
+    <li>MATH 411 - Honors Complex Variables</li>
+  </ul>
+</div>
+
+<button class="collapsible">Winter 2022</button>
+<div class="content">
+  <ul>
+    <li><strong>CMPUT 474 - Formal Languages, Automata, and Computability</strong></li>
+    <li>CMPUT 469 - Artifical Intelligence Capstone</li>
+    <li>MATH 499 - Research Project</li>
+  </ul>
+</div>
+
+<button class="collapsible">Fall 2021</button>
+<div class="content">
+  <ul>
+    <li>MATH 298 - Problem Solving Seminar</li>
+    <li>MATH 337 - Introduction to Partial Differential Equations</li>
+    <li>MATH 381 - Numerical Methods I</li>
+    <li>CMPUT 367 - Intermediate Machine Learning</li>
+    <li><strong>CMPUT 304 - Advanced Algorithms</strong></li>
+  </ul>
+</div>
+
+<button class="collapsible">Winter 2021</button>
+<div class="content">
+  <ul>
+    <li><strong>CMPUT 267 - Basics of Machine Learning</strong></li>
+    <li><strong>CMPUT 204 - Algorithms I</strong></li>
+    <li>MATH 336 - Honors Ordinary Differential Equations</li>
+    <li>MATH 317 - Honors Advanced Calculus II</li>
+    <li>MATH 372 - Mathematical Modelling I</li>
+  </ul>
+</div>
+
+<button class="collapsible">Fall 2020</button>
+<div class="content">
+  <ul>
+    <li><strong>MATH 217 - Honors Advanced Calculus I (DR)</strong></li>
+    <li>MATH 328 - Algebra: Introduction to Group Theory</li>
+    <li>MATH 322 - Graph Theory</li>
+    <li>CMPUT 291 - Introduction to File and Database Management</li>
+    <li>CMPUT 328 - Visual Recognition/Computer Vision</li>
+  </ul>
+</div>
+
+<button class="collapsible">Winter 2020</button>
+<div class="content">
+  <ul>
+    <li>CMPUT 272 - Formal Systems and Logic in Computing Science</li>
+    <li><strong>MATH 227 - Honors Linear Algebra II (DR)</strong></li>
+    <li><strong>MATH 118 - Honors Calculus II</strong></li>
+    <li>CMPUT 175 - Introduction to the Foundations of Computation II</li>
+  </ul>
+</div>
+
+<button class="collapsible">Fall 2019</button>
+<div class="content">
+  <ul>
+    <li><strong>MATH 117 - Honors Calculus I (2)</strong></li>
+    <li><strong>MATH 127 - Honors Linear Algebra I (DR)</strong></li>
+    <li>CMPUT 174 - Introduction to the Foundations of Computation I</li>
+    <li>STAT 151 - Introduction to Applied Statistics I</li>
+  </ul>
 </div>
 
 <script>
-var coll = document.getElementsByClassName("collapsibles");
+var coll = document.getElementsByClassName("collapsible");
 var i;
 
 for (i = 0; i < coll.length; i++) {
