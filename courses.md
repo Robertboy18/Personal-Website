@@ -10,7 +10,6 @@ Hey Everyone~
 Important courses that I took at the University of Alberta. The courses that I TA'ed are bolded. If a number is in brackets it means I TA'ed the course twice, and DR signifies TA'ed the course in Decima Robinson Center. Most of the information is directly referenced from the University of Alberta's course catalogue.
 <hr>
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -41,7 +40,7 @@ Important courses that I took at the University of Alberta. The courses that I T
 </head>
 <body>
 
-<button class="collapsible">Menu</button>
+<button class="collapsibles">Menu</button>
 <div class="content">
   <a href="#">Item 1</a>
   <a href="#">Item 2</a>
@@ -49,7 +48,7 @@ Important courses that I took at the University of Alberta. The courses that I T
 </div>
 
 <script>
-var coll = document.getElementsByClassName("collapsible");
+var coll = document.getElementsByClassName("collapsibles");
 var i;
 
 for (i = 0; i < coll.length; i++) {
