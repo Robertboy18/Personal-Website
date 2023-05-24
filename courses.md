@@ -14,7 +14,7 @@ Important courses that I took at the University of Alberta. The courses that I T
 <head>
 <style>
 .collapsible {
-  background-color: transparent;
+  background-color: #eee;
   color: #444;
   cursor: pointer;
   padding: 18px;
@@ -22,7 +22,7 @@ Important courses that I took at the University of Alberta. The courses that I T
   border: none;
   text-align: left;
   outline: none;
-  font-size: 20px;
+  font-size: 15px;
   transition: background-color 0.1s;
 }
 
@@ -34,7 +34,7 @@ Important courses that I took at the University of Alberta. The courses that I T
   padding: 0 18px;
   display: none;
   overflow: hidden;
-  background-color: transparent;
+  background-color: #f9f9f9;
 }
 </style>
 </head>
@@ -132,7 +132,7 @@ for (i = 0; i < coll.length; i++) {
     if (content.style.display === "block") {
       content.style.display = "none";
     } else {
-      content.style.display = "block";
+      content.style.display = "none";
     }
   });
 }
