@@ -14,7 +14,7 @@ Important courses that I took at the University of Alberta. The courses that I T
 <head>
 <style>
 .collapsible {
-  background-color: #eee;
+  background-color: transparent;
   color: #444;
   cursor: pointer;
   padding: 18px;
@@ -22,8 +22,8 @@ Important courses that I took at the University of Alberta. The courses that I T
   border: none;
   text-align: left;
   outline: none;
-  font-size: 15px;
-  transition: background-color 0.3s;
+  font-size: 20px;
+  transition: background-color 0.1s;
 }
 
 .active, .collapsible:hover {
@@ -34,7 +34,7 @@ Important courses that I took at the University of Alberta. The courses that I T
   padding: 0 18px;
   display: none;
   overflow: hidden;
-  background-color: #f9f9f9;
+  background-color: transparent;
 }
 </style>
 </head>
@@ -143,7 +143,7 @@ for (i = 0; i < coll.length; i++) {
 
 
 <hr>
-I will be updating this page regularly based on the completion of a course.
+Grateful for the courses that I took and the wonderful Professors who taught me.
 <hr>
 
 <img src = "https://www.ualberta.ca/folio/media-library/2020/05/200514-ualberta-fall2020-classes-banner.jpg">
