@@ -10,6 +10,7 @@ Hey Everyone~
 Important courses that I took at the University of Alberta. The courses that I TA'ed are bolded. If a number is in brackets it means I TA'ed the course twice, and DR signifies TA'ed the course in Decima Robinson Center. Most of the information is directly referenced from the University of Alberta's course catalogue.
 <hr>
 
+<!--
 <html>
 <head>
 <style>
@@ -140,7 +141,7 @@ for (i = 0; i < coll.length; i++) {
 
 </body>
 </html>
-
+-->
 
 <hr>
 Grateful for the courses that I took and the wonderful Professors who taught me.
