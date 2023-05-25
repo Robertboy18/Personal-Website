@@ -7,7 +7,8 @@ comments: false
 ---
 Hey Everyone~  
 <hr>
-Important courses that I took at the University of Alberta. The courses that I TA'ed are bolded. If a number is in brackets it means I TA'ed the course twice, and DR signifies TA'ed the course in Decima Robinson Center. Most of the information is directly referenced from the University of Alberta's course catalogue.
+<p style="text-align:justify; hyphens: auto;" hspace="30">
+Important courses that I took at the University of Alberta. The courses that I TA'ed are bolded. If a number is in brackets it means I TA'ed the course twice, and DR signifies TA'ed the course in <a href ="https://www.ualberta.ca/mathematical-and-statistical-sciences/undergraduate-studies/decima-support-centre/index.html"> Decima Robinson Support Center</a>. Most of the information is directly referenced from the University of Alberta's course <a href = "https://apps.ualberta.ca/catalogue/course/math">catalogue</a>.</p>
 <hr>
 
 
