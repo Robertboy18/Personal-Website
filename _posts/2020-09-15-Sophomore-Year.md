@@ -1,11 +1,11 @@
 ---
-title: Sophomore Year~
+title: Sophomore Year
 date: 2020-09-15 09:45:47 +07:00
 modified: 2020-09-15 09:24:47 +07:00
 tags: [General, Life, Personal]
 ---
 
-Hey Everyone~
+Hey Everyone
 <hr>
 I recently started my sophomore year in college and I am beyond thrilled to be taking amazing courses this year. 
 <hr>

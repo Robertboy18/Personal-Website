@@ -1,12 +1,12 @@
 ---
-title: Random Walks~
+title: Random Walks
 date: 2020-05-17 09:45:47 +07:00
 modified: 2020-05-17 09:24:47 +07:00
 tags: [Mathematics,RandomWalks,Jupyternotebook,Python]
 ---
-Hey Everyone~
+Hey Everyone
 <hr>
-This is one of the current projects I am working on . I currently have only completed single dimension random walks . Hopefully by this summer end I would be able to complete the notebook upto the third dimension. I have always been intrigued by the idea of random walks and the mathematical side of this topic is absolutely beautiful.
+This is one of the current projects I am working on. I have currently only completed single-dimensional random walks. Hopefully, by the end of this summer, I will be able to complete the notebook up to the third dimension. I have always been intrigued by the idea of random walks, and the mathematical side of this topic is absolutely beautiful.
 <hr>
 <script src="https://gist.github.com/Robertboy18/ee39d9a5bc29b8fbd7849d70f195ece1.js"></script>
 <hr>

@@ -5,9 +5,11 @@ layout: page
 excerpt: Projects
 comments: false
 ---
-Hey Everyone~  
+<p style="text-align:justify; hyphens: auto;" hspace="30">
 <hr>Throughout my life, I have learned to apply my skills in something which would benefit others or rather showcase my skills through some projects or publications. Each project relates to something I have learned in the field of Computer Science or Mathematics or in general.
 I hope my skills and the knowledge I have gained are reflected through these projects.
+</p>
+
 <hr>
 
 ## Projects I have completed

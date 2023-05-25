@@ -1,19 +1,17 @@
 ---
-title: Undergraduate Conferences ~
+title: Undergraduate Conferences
 date: 2022-08-27 09:45:47 +07:00
 modified: 2022-08-27 09:24:47 +07:00
 tags: [Life, University life, Conferences, Research, Undergraduate]
 ---
-Hey Everyone~
+Hey Everyone
 <hr>
-I had a chance to organize the first ever Undergraduate Sympossium at the University of Alberta which was co-organized with the Mathematical and Statistical Sciences, Physics, Chemistry, Psychology, Biological Sciences, and EAS departments! I led the CS department and helped the Mathematics Department in organizing this event with the rest of the clubs. The event was very successful and we had around 100 presenters come and present their research. 
+I had a chance to organize the first ever Undergraduate Symposium at the University of Alberta which was co-organized with the Mathematical and Statistical Sciences, Physics, Chemistry, Psychology, Biological Sciences, and EAS departments! I led the CS department and helped the Mathematics Department in organizing this event with the rest of the clubs. The event was very successful and we had around 100 presenters come and present their research. 
 
 The abstracts are provided below:
 <hr>
 <p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Abstract Booklet - Undergraduate Conference on Scribd" href="https://www.scribd.com/document/589606309/Abstract-Booklet-Undergraduate-Conference#from_embed"  style="text-decoration: underline;" >Abstract Booklet - Undergraduate Conference</a> by <a title="View Robert's profile on Scribd" href="https://www.scribd.com/user/302728348/Robert#from_embed"  style="text-decoration: underline;" >Robert</a> on Scribd</p><iframe class="scribd_iframe_embed" title="Abstract Booklet - Undergraduate Conference" src="https://www.scribd.com/embeds/589606309/content?start_page=1&view_mode=scroll&access_key=key-HtzvVfqPZ89dGXTKJZvv" data-auto-height="false" data-aspect-ratio="0.7080062794348508" scrolling="no" id="doc_39071" width="100%" height="600" frameborder="0"></iframe>
-<hr>
-
-In particular I also presented two posters; one on the research I did in the Mathematics department this summer and the other was my research internship at Amii and the RLAI lab. My mathematics poster is available below 
+<hr>In particular, I also presented two posters; one on the research I did in the Mathematics department this summer and the other was my research internship at Amii and the RLAI lab. My mathematics poster is available below 
 <hr>
 <p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View Hybrid Poster on Scribd" href="https://www.scribd.com/document/589613666/Hybrid-Poster#from_embed"  style="text-decoration: underline;" >Hybrid Poster</a> by <a title="View Robert's profile on Scribd" href="https://www.scribd.com/user/302728348/Robert#from_embed"  style="text-decoration: underline;" >Robert</a> on Scribd</p><iframe class="scribd_iframe_embed" title="Hybrid Poster" src="https://www.scribd.com/embeds/589613666/content?start_page=1&view_mode=scroll&access_key=key-SR5q4czY1FFOmSleCqwQ" data-auto-height="false" data-aspect-ratio="1.3323485967503692" scrolling="no" id="doc_66378" width="100%" height="600" frameborder="0"></iframe>
 

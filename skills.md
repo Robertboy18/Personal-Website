@@ -5,8 +5,6 @@ layout: page
 excerpt: Reading
 comments: false
 ---
-Hey Everyone~
-<hr>
 If you are interested in Physics Informed Machine Learning, Neural Operators, Machine Learning Theory, Computational Complexity, Reinforcement Learning and other cool stuff, check out my Reading List below. I will be updating this list as I read more papers and books.
 <hr>
 

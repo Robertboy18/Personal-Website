@@ -1,10 +1,10 @@
 ---
-title: Western Summer School in Algebra - 2020~
+title: Western Summer School in Algebra - 2020
 date: 2020-09-23 09:45:47 +07:00
 modified: 2020-05-23 09:24:47 +07:00
 tags: [Mathematics,Summer School,Problem Solving,Algebra]
 ---
-Hey Everyone~
+Hey Everyone
 <hr>
 <img src = "https://st3.depositphotos.com/3591429/13656/i/450/depositphotos_136562916-stock-photo-creative-website-banner.jpg">
 <hr>

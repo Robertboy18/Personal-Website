@@ -1,10 +1,10 @@
 ---
-title: Microsoft SWE Intern~
+title: Microsoft SWE Intern
 date: 2020-11-10 09:45:47 +07:00
 modified: 2020-11-10 09:24:47 +07:00
 tags: [Computer Science,Microsoft, SWE, Internship, Summer, 2021,Data analysis]
 ---
-Hey Everyone~
+Hey Everyone
 <hr>
 
 **Summary** 
