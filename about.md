@@ -20,15 +20,15 @@ Jiawei Zhao, **George, Robert Joseph**, Yifei Zhang, Zongyi Li and Anima Anandku
 
 # Presentations and Posters
 
-**George, Robert Joseph**, Martha White, Adam White and Samuel Neumann. "Making Reinforcement Learning Experiments More Reproducible and Computationally Efficient". *Reverse Expo*, Alberta Machine Intelligence Institute, 2022. [[Poster](https://drive.google.com/file/d/1ZlcmJao2NMlmXMtEz8H5J7Ob73Csu9Vx/view?usp=sharing)], [[Codebase](https://github.com/Robertboy18/MinAtar-Faster)]
+**George, Robert Joseph**, Martha White, Adam White and Samuel Neumann. "Making Reinforcement Learning Experiments More Reproducible and Computationally Efficient". *Reverse Expo*, Alberta Machine Intelligence Institute, 2022. [[Poster](https://www.robertj1.com/assets/pdf/RL-Poster.pdf)], [[Codebase](https://github.com/Robertboy18/MinAtar-Faster)]
 
-**George, Robert Joseph**, Noel Murasko and John Bowman. "Hybrid Dealiasing Convolutions". *Joint Mathematics Meetings*, 2023. [[Poster](https://drive.google.com/file/d/1ii8Qxf0Mep_FKn7detATZGF5YALaveyE/view?usp=sharing)], [[JMM](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/22815)]
+**George, Robert Joseph**, Noel Murasko and John Bowman. "Hybrid Dealiasing Convolutions". *Joint Mathematics Meetings*, 2023. [[Poster](https://www.robertj1.com/assets/pdf/Hybrid-Poster.pdf)], [[JMM](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/22815)]
 <hr>
 
 # Undergraduate Honors Thesis
-**George, Robert Joseph**, Noel Murasko and John Bowman. “Optimization of Hybrid Dealiasing Convolutions.” *University of Alberta*, 2023. [[Paper]()], [[Poster](https://drive.google.com/file/d/1VuqCO31T6Y9PkJzNKPvI6qplXcPUQ13k/view?usp=sharing)], [[Presentation](https://drive.google.com/file/d/1IXXeSwpm1xZwBjI-MkWbskTEsJKsxl8p/view?usp=sharing)]
+**George, Robert Joseph**, Noel Murasko and John Bowman. “Optimization of Hybrid Dealiasing Convolutions.” *University of Alberta*, 2023. [[Paper]()], [[Poster](https://www.robertj1.com/assets/pdf/MATH499-2-POSTER.pdf)], [[Presentation](https://www.robertj1.com/assets/pdf/MATH499_Presentation-final.pdf)]
 
-**George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers”. *Canadian Undergraduate Mathematics Conference*, 2022. [[Presentation](https://drive.google.com/file/d/1MCHo2Xm4mAOPN3tUEdZM9OKghdmh0nNq/view?usp=sharing)], [[Paper](https://arxiv.org/abs/2210.13745)]
+**George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers”. *Canadian Undergraduate Mathematics Conference*, 2022. [[Presentation](https://www.robertj1.com/assets/pdf/CUMC-2022-Presentation.pdf)], [[Paper](https://arxiv.org/abs/2210.13745)]
 <hr>
 
 # Summer Schools Attended

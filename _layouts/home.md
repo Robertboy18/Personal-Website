@@ -16,7 +16,7 @@ home: true
 <br>
 <br>
 <p style="text-align:justify; hyphens: auto;" hspace="30">
-I am an incoming Ph.D. student in Mathematics and Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar (Nvidia)</a>. I am a research intern at Caltech in the Theoretical Computing Science <a href="https://www.cms.caltech.edu/research/theoretical-computer-science">(TCS)</a> group. I graduated from the University of Alberta with a degree in Honors Applied Mathematics and Computer Science. My research interests include theoretical aspects of Machine Learning and Reinforcement Learning specifically in Computational Learning Theory, Neural Operators, Optimization Theory and Foundations of Deep Learning. <a href="https://www.robertj1.com/assets/pdf/ICLREDCDE.pdf" target="_blank">PDF.</a>
+I am an incoming Ph.D. student in Mathematics and Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar (Nvidia)</a>. I am a research intern at Caltech in the Theoretical Computing Science <a href="https://www.cms.caltech.edu/research/theoretical-computer-science">(TCS)</a> group. I graduated from the University of Alberta with a degree in Honors Applied Mathematics and Computer Science. My research interests include theoretical aspects of Machine Learning and Reinforcement Learning specifically in Computational Learning Theory, Neural Operators, Optimization Theory and Foundations of Deep Learning.
 
 </p>
 <p style="text-align: justify; hyphens: auto;">
