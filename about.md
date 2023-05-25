@@ -26,7 +26,7 @@ Jiawei Zhao, **George, Robert Joseph**, Yifei Zhang, Zongyi Li and Anima Anandku
 <hr>
 
 # Undergraduate Honors Thesis
-**George, Robert Joseph**, Noel Murasko and John Bowman. “Optimization of Hybrid Dealiasing Convolutions.” *University of Alberta*, 2023. [[Paper]()], [[Poster](https://www.robertj1.com/assets/pdf/MATH499-2-POSTER.pdf)], [[Presentation](https://www.robertj1.com/assets/pdf/MATH499_Presentation-final.pdf)]
+**George, Robert Joseph**, Noel Murasko and John Bowman. “Optimization of Hybrid Dealiasing Convolutions.” *University of Alberta*, 2023. [[Paper](https://www.robertj1.com/assets/pdf/Final_499.pdf)], [[Poster](https://www.robertj1.com/assets/pdf/MATH499-2-POSTER.pdf)], [[Presentation](https://www.robertj1.com/assets/pdf/MATH499_Presentation-final.pdf)]
 
 **George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers”. *Canadian Undergraduate Mathematics Conference*, 2022. [[Presentation](https://www.robertj1.com/assets/pdf/CUMC-2022-Presentation.pdf)], [[Paper](https://arxiv.org/abs/2210.13745)]
 <hr>
