@@ -22,11 +22,10 @@ Jiawei Zhao, **George, Robert Joseph**, Yifei Zhang, Zongyi Li and Anima Anandku
 
 **George, Robert Joseph**, Martha White, Adam White and Samuel Neumann. "Making Reinforcement Learning Experiments More Reproducible and Computationally Efficient". *Reverse Expo*, Alberta Machine Intelligence Institute, 2022. [[Poster](https://www.robertj1.com/assets/pdf/RL-Poster.pdf)], [[Codebase](https://github.com/Robertboy18/MinAtar-Faster)]
 
-**George, Robert Joseph**, Noel Murasko and John Bowman. "Hybrid Dealiasing of Convolutions". *Joint Mathematics Meetings*, 2023. [[Poster](https://www.robertj1.com/assets/pdf/Hybrid-Poster.pdf)], [[JMM](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/22815)]
 <hr>
 
 # Undergraduate Honors Thesis
-**George, Robert Joseph**, Noel Murasko and John Bowman. “Hybrid Dealiased Convolutions.” *University of Alberta*, 2023. [[Paper](https://www.robertj1.com/assets/pdf/Final_499.pdf)], [[Poster](https://www.robertj1.com/assets/pdf/MATH499-2-POSTER.pdf)], [[Presentation](https://www.robertj1.com/assets/pdf/MATH499_Presentation-final.pdf)]
+**George, Robert Joseph**, Noel Murasko and John Bowman. “Hybrid Dealiased Convolutions.” *Joint Mathematics Meetings*, 2023. [[Paper](https://www.robertj1.com/assets/pdf/Final_499.pdf)], [[Poster 1](https://www.robertj1.com/assets/pdf/Hybrid-Poster.pdf)], [[Poster 2](https://www.robertj1.com/assets/pdf/MATH499-2-POSTER.pdf)], [[Presentation](https://www.robertj1.com/assets/pdf/MATH499_Presentation-final.pdf)], [[JMM](https://meetings.ams.org/math/jmm2023/meetingapp.cgi/Paper/22815)]
 
 **George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers”. *Canadian Undergraduate Mathematics Conference*, 2022. [[Presentation](https://www.robertj1.com/assets/pdf/CUMC-2022-Presentation.pdf)], [[Paper](https://arxiv.org/abs/2210.13745)]
 <hr>
