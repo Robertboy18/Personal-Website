@@ -97,7 +97,7 @@ comments: false
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">Mathematical Modelling - Research Project</td>
     <td class="tg-0pky">Applied Mathematics</td>
-    <td class="tg-0pky"><a href="https://www.robertj1.com/assets/pdf/math373.pdf" target="_blank" rel="noopener noreferrer">Github</a></td>
+    <td class="tg-0pky"><a href="https://www.robertj1.com/assets/pdf/math373.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
     </tr>
 </tbody>
 </table>
