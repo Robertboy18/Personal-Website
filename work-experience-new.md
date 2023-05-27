@@ -54,32 +54,13 @@ The talk was based on Generating functions approach to gradient descent analysis
 It was a great session and the slides are available <a href ="https://notability.com/n/9KbYpGDd9D8d9HeCl1KP4"> here </a>. The talk is also on Youtube <a href = "https://www.youtube.com/watch?v=i3YPm7MCMf0"> here </a>.
 </div>
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
-
-</body>
-</html>
-
-# Eigth Session
+<button class="collapsible">Eigth Session</button>
+<div class="content">
 Hey everyone! We had a very fruitful session last Saturday, where Ajinkya presented on the Privacy of Noisy SGD. The slides are available <a href ="https://docs.google.com/presentation/d/10XSIitnJ3DnM0KxevFk6iIQ0Qk71AzsjDTnAeowH54Q/edit"> here </a>.
+</div>
 
-<hr>
-
-# Seventh Session
+<button class="collapsible">Seventh Session</button>
+<div class="content">
 Hey everyone! We had a very fruitful session last Saturday, and I presented on Neural Operators. The slides are available <a href ="https://docs.google.com/presentation/d/1jxtR6m2yw7i59QcFWqqAbyGyStsbGlqz/edit?usp=sharing&ouid=118309576339488509705&rtpof=true&sd=true"> here </a>.
 Neural Operators refer to a class of neural network architectures that enable the learning of mathematical operations from input-output data pairs, without explicit knowledge of the underlying equations. In contrast to traditional machine learning models that rely on pre-defined functions or equations, Neural Operators aim to learn the underlying physical laws directly from data.
 
@@ -90,7 +71,7 @@ One of the advantages of Neural Operators is their ability to generalize to new,
 Although Neural Operators are a relatively new area of research, they hold promise for advancing the fields of machine learning and scientific computing, by enabling more efficient and accurate modeling of complex systems. You can check out some of the reading resources in <a href = "https://www.robertj1.com/reading/"> my reading list</a>.
 
 <img src = "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/04/Infinite-mapping-2.svg">
-
+</div>
 
 # Sixth Session
 Hey everyone! We had a very fruitful session last Saturday, and it was great meeting everyone new and our first meeting for this year. 
@@ -180,7 +161,25 @@ We had the ML Theory Learning group's first session, which was a great success. 
 We are a non-profit ML research lab and community exploring the unknown, together.
 <img src="https://txt.cohere.ai/content/images/size/w600/2022/06/Blog-header-image---Desktop--3--1.png" alt="Image">
 
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
 
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
 
 <!-- # Twitter Feed
 
