@@ -74,7 +74,8 @@ One of the advantages of Neural Operators is their ability to generalize to new,
 <br>
 <br>
 Although Neural Operators are a relatively new area of research, they hold promise for advancing the fields of machine learning and scientific computing, by enabling more efficient and accurate modeling of complex systems. You can check out some of the reading resources in <a href = "https://www.robertj1.com/reading/"> my reading list</a>.
-
+<br>
+<br>
 <img src = "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/04/Infinite-mapping-2.svg">
 </div>
 
@@ -89,47 +90,61 @@ We briefly discussed the Lottery Ticket Hypothesis, Neural Operators and why Ada
 Best of luck to everyone submitting to ICML or the ICLR blog/tiny paper: )!
 <br>
 <br>
-> Research Proposal by [Bhavnick](https://twitter.com/BhavnickMinhas) for Adam Optimizer
-
+<bold>Research Proposal by [Bhavnick](https://twitter.com/BhavnickMinhas) for Adam Optimizer</bold>
+<br>
+<br>
 The lottery ticket hypothesis suggests that deep neural networks have sparse subnetworks that can perform equally well or better than the original dense network. These sparse subnetworks can be obtained through a process called pruning, where the unnecessary connections in the network are removed.
-
+<br>
+<br>
 Recent research has shown that the pruned subnetworks often exhibit a regular structure, which can be visualized as a set of neurons that are strongly connected to each other while having weaker connections to the rest of the network. This regular structure is believed to be a circuit that enables the network to perform well on a specific task.
-
+<br>
+<br>
 The identification of this regular structure has significant implications for artificial general intelligence (AGI). If we can identify and compose these regular structures like functions, we can potentially create a single model that can perform well on multiple tasks, leading us closer to achieving AGI.
-
+<br>
+<br>
 Overall, the existence of regular structures in lottery tickets suggests that neural networks are not just a collection of random connections, but rather have underlying organizational principles that can be uncovered through careful pruning and analysis.
-
-> Research Proposal by members on understanding Adam and alternatives for Large Language Models. 
-
+<br>
+<br>
+<bold>Research Proposal by members on understanding Adam and alternatives for Large Language Models</bold>
+<br>
+<br>
 Despite the many advances in the field of optimization, Adam is still widely used as the main optimizer for deep learning models, including large language models. Adam is popular because it is efficient, easy to use, and has been shown to perform well in many different settings.
-
+<br>
+<br>
 While there are hundreds of optimizers claiming to be better than Adam, it can be challenging to determine which optimizer is truly superior, as the effectiveness of an optimizer can vary depending on the specific task and architecture of the model. Additionally, some of the newer optimizers may require more tuning and experimentation to achieve optimal results.
-
+<br>
+<br>
 That being said, researchers are continuing to explore new optimization techniques and many promising alternatives to Adam have been proposed, such as RAdam and Ranger. These optimizers have been shown to perform well on a variety of tasks, and they will likely continue to gain popularity in the deep learning community.
-
+<br>
+<br>
 Overall, while Adam remains a popular choice for deep learning optimization, it is important for researchers to stay informed about new developments in the field and to explore alternative optimizers to ensure that their models are performing at their best.
-
+<br>
+<br>
 Join the community [here](https://cohere.for.ai/) for the discussion and how you can contribute to the research proposal.
-
+<br>
+<br>
 <img src="https://internetpolicy.mit.edu/wp-content/uploads/2019/05/neural-network.png" alt="Image">
 </div>
 
 <button class="collapsible">Fifth Session</button>
 <div class="content">
-
 Hey everyone! Last Saturday, we had our final ML theory session for the year, and it went really well. 
-
+<br>
+<br>
 We had two pitches, where I spoke on Fourier Neural Operators (FNO) and Harsha spoke on Gradient Descent proofs. On the other hand Ashish also pitched his topic of presenting on Diffusion models. Harsha also presented his idea on starting the Optimization Book Reading plan and lastly, our next meeting will probably be in the first week of January, and we will keep you updated! We want to thank everyone who came to our meetings regularly and the whole community for engaging with various topics in ML theory. It truly means a lot to us, and we can't wait to hold numerous events (even potentially with other groups: )) and hope you all have a great winter break! Merry Christmas and a happy new year in advance : )!
-
+<br>
+<br>
 Sneak peak of what I presented:)
-
+<br>
+<br>
 <img src="https://i.ibb.co/KVgRN93/Screenshot-2022-12-22-142947.png" alt="Image">
 </div>
 
 <button class="collapsible">Fourth Session</button>
 <div class="content">
 I unfortunately couldn't make it to this session as I had to write the Putnam but the session was a great success. Thank you to Ahmad Mustafa for presenting on CLIP by OpenAI. He shared key insights on contrastive learning and language-guided recognition and touched on key points of the CLIP paper.
-
+<br>
+<br>
 <img src = "https://miro.medium.com/max/1200/1*tg7akErlMSyCLQxrMtQIYw.png">
 </div>
 
@@ -137,24 +152,29 @@ I unfortunately couldn't make it to this session as I had to write the Putnam bu
 <div class="content">
 
 Last saturday, we had our third ML theory session and we had two wonderful speakers Sree Harsha Nelaturu and Max Marion who talked about Meta Learning and Neural Information Retrieval respectively. I enjoyed the talks and it was very informative. 
-
+<br>
+<br>
 Some of the resources are listed below 
-
-**Neural Information Retrieval** - Lecture Notes on
+<br>
+<br>
+<bold>Neural Information Retrieval</bold> - Lecture Notes on
 Neural Information Retrieval - [https://arxiv.org/pdf/2207.13443.pdf](https://arxiv.org/pdf/2207.13443.pdf)
+<br>
+<br>
+<bold>Meta Learning</bold> 
 
-**Meta Learning** 
-
-1. Meta Genetic Programming - [https://people.idsia.ch/~juergen/diploma.html](https://people.idsia.ch/~juergen/diploma.html)
-2. Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks - [https://arxiv.org/abs/1703.03400](https://arxiv.org/abs/1703.03400)
-3. Prototypical Networks for Few-shot Learning - [https://arxiv.org/abs/1703.05175](https://arxiv.org/abs/1703.05175)
-4. Learning to learn by gradient descent by gradient descent - [https://arxiv.org/abs/1606.04474](https://arxiv.org/abs/1606.04474)
-5. Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples - [https://arxiv.org/abs/1903.03096v4](https://arxiv.org/abs/1903.03096v4)
-6. Meta Policy Gradients - [https://roberttlange.github.io/posts/2020/12/meta-policy-gradients/](https://roberttlange.github.io/posts/2020/12/meta-policy-gradients/)
-7. Differentiable Plasticity: training plastic networks with Backprop - [https://arxiv.org/abs/1804.02464](https://arxiv.org/abs/1804.02464)
-8. Meta RL - [https://lilianweng.github.io/posts/2019-06-23-meta-rl/](https://lilianweng.github.io/posts/2019-06-23-meta-rl/)
-9. Synthetic Petri Dish - [https://arxiv.org/abs/2005.13092](https://arxiv.org/abs/2005.13092)
-10. POET - [https://arxiv.org/abs/1901.01753](https://arxiv.org/abs/1901.01753)
+<ul>
+  <li><a href="https://people.idsia.ch/~juergen/diploma.html">Meta Genetic Programming</a> - [https://people.idsia.ch/~juergen/diploma.html]</li>
+  <li><a href="https://arxiv.org/abs/1703.03400">Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks</a> - [https://arxiv.org/abs/1703.03400]</li>
+  <li><a href="https://arxiv.org/abs/1703.05175">Prototypical Networks for Few-shot Learning</a> - [https://arxiv.org/abs/1703.05175]</li>
+  <li><a href="https://arxiv.org/abs/1606.04474">Learning to learn by gradient descent by gradient descent</a> - [https://arxiv.org/abs/1606.04474]</li>
+  <li><a href="https://arxiv.org/abs/1903.03096v4">Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples</a> - [https://arxiv.org/abs/1903.03096v4]</li>
+  <li><a href="https://roberttlange.github.io/posts/2020/12/meta-policy-gradients/">Meta Policy Gradients</a> - [https://roberttlange.github.io/posts/2020/12/meta-policy-gradients/]</li>
+  <li><a href="https://arxiv.org/abs/1804.02464">Differentiable Plasticity: training plastic networks with Backprop</a> - [https://arxiv.org/abs/1804.02464]</li>
+  <li><a href="https://lilianweng.github.io/posts/2019-06-23-meta-rl/">Meta RL</a> - [https://lilianweng.github.io/posts/2019-06-23-meta-rl/]</li>
+  <li><a href="https://arxiv.org/abs/2005.13092">Synthetic Petri Dish</a> - [https://arxiv.org/abs/2005.13092]</li>
+  <li><a href="https://arxiv.org/abs/1901.01753">POET</a> - [https://arxiv.org/abs/1901.01753]</li>
+</ul>
 
 </div>
 
@@ -162,18 +182,21 @@ Neural Information Retrieval - [https://arxiv.org/pdf/2207.13443.pdf](https://ar
 <div class="content">
 
 Yesterday, we had our second session, which went really well! We had 4 exciting proposals from Sree Harsha Nelaturu, Ashish Gaurav, Max Marion and Harry Saini on the topics Meta Learning, Quantum probability, Neural Information Retrieval and Representation learning, respectively. 
-
+<br>
+<br>
 The voting also happened, and for the next meeting on 19/11/2022, we will have Harsha and Max talk on Meta-Learning and Neural Information Retrieval. In the subsequent meeting on 3/12/2022, we will have Harry and Ashish talk on Representation Learning and Quantum Probability. 
-
+<br>
+<br>
 All the speakers will post some pre-requisite material to read up on or familiarize ourselves with before the talk (at least 1 week in advance), so we all prepare and learn as much as we can from the talk! Each presenter will talk for 25 minutes, followed by a 5 - 10 min Q/A! If you have more questions for the speakers, we will also create forums after each presentation where the conversation can be carried on. Thanks to everyone who came the other day; see you all next meeting:)
-
+</div>
 <hr>
 
 <button class="collapsible">First Session</button>
 <div class="content">
 
 We had the ML Theory Learning group's first session, which was a great success. We discussed what we all hope to gain out of this reading group, our mission statement (which is subject to change over time) as well as potential topics we could cover. I am super excited to see where this group goes and I hope to see you all there!
-
+<br>
+<br>
 <img src="https://pbs.twimg.com/media/Ffs7-BDagAAYugH?format=png&name=small" alt="Image">
 </div>
 <hr>
@@ -181,6 +204,7 @@ We are a non-profit ML research lab and community exploring the unknown, togethe
 <img src="https://txt.cohere.ai/content/images/size/w600/2022/06/Blog-header-image---Desktop--3--1.png" alt="Image">
 
 <script>
+
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
