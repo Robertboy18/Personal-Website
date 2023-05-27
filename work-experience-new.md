@@ -13,12 +13,66 @@ This community is amazing and we have tons of other reading groups and I persona
 
 <hr>
 
-# Ninth Session
+<html>
+<head>
+<style>
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: transparent;
+  font-size: 15px;
+  transition: background-color 0.1s;
+}
+
+.active, .collapsible:hover {
+  background-color: transparent;
+  outline: transparent;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  outline: transparent;
+  background-color: #f9f9f9;
+}
+</style>
+</head>
+<body>
+
+<button class="collapsible">Ninth Session</button>
+<div class="content">
 Hey everyone! Yaroslav Bulatov was the first speaker as part of our speaker series "Learning to learn: Unravelling learning theory". 
 
 The talk was based on Generating functions approach to gradient descent analysis (like in <a href = "https://arxiv.org/abs/2206.11124">https://arxiv.org/abs/2206.11124</a>). Classical optimization theorems characterise behaviour in the worst case, while generating functions can tell you how things behave in average case. <a href = "https://machine-learning-etc.ghost.io/">https://machine-learning-etc.ghost.io/</a> a blog by the speaker has some cool resources regarding topics in learning theory.
 
 It was a great session and the slides are available <a href ="https://notability.com/n/9KbYpGDd9D8d9HeCl1KP4"> here </a>. The talk is also on Youtube <a href = "https://www.youtube.com/watch?v=i3YPm7MCMf0"> here </a>.
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
 
 # Eigth Session
 Hey everyone! We had a very fruitful session last Saturday, where Ajinkya presented on the Privacy of Noisy SGD. The slides are available <a href ="https://docs.google.com/presentation/d/10XSIitnJ3DnM0KxevFk6iIQ0Qk71AzsjDTnAeowH54Q/edit"> here </a>.
