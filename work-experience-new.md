@@ -4,10 +4,17 @@ permalink: /ml/
 layout: page
 excerpt: mltheory
 ---
+<style>
+  .centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
 
 I am one of the co-leads for the ML Theory Learning group at [Cohere For AI](https://cohere.for.ai/) and we will be having our sessions bi-weekly from 2 - 3 pm MST! If you aren't a part of this wonderful community do apply through this [form](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) to join us. 
 
-<img src = "https://i.ibb.co/ZMzFgB5/MLTheory-Learning-Group-Discord.png">
+<img src = "https://i.ibb.co/ZMzFgB5/MLTheory-Learning-Group-Discord.png" class="centered-image">
 
 This community is amazing and we have tons of other reading groups. I am enjoying the Reinforcement Learning Reading group events, Fireside talks and other events that the community holds. It's a supportive environment, intellectually motivating and you are going to find at least one person who shares the same research interest as you. Sessions that have happened are as follows:
 
@@ -34,6 +41,13 @@ This community is amazing and we have tons of other reading groups. I am enjoyin
   outline: transparent;
   color: blue;
 }
+
+<style>
+  .centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 .content {
   padding: 0 18px;
@@ -210,14 +224,6 @@ We had the ML Theory Learning group's first session, which was a great success. 
 <div class="centered-text">
   We are a non-profit ML research lab and community exploring the unknown, together.
 </div>
-
-<style>
-  .centered-image {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-</style>
 
 <img src="https://txt.cohere.ai/content/images/size/w600/2022/06/Blog-header-image---Desktop--3--1.png" alt="Image" class="centered-image">
 
