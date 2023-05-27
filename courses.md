@@ -29,6 +29,7 @@ Important courses that I took at the University of Alberta. The courses that I T
 .active, .collapsible:hover {
   background-color: transparent;
   outline: transparent;
+  color: blue;
 }
 
 .content {

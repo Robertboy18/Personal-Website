@@ -5,7 +5,7 @@ layout: page
 excerpt: mltheory
 ---
 
-I am one of the co-leads for the ML Theory Learning group at [Cohere For AI](https://cohere.for.ai/) and we will be having our session's bi-weekly from 2 - 3 pm MST! If you aren't a part of this wonderful community feel free to apply through this [form](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) to join us. 
+I am one of the co-leads for the ML Theory Learning group at [Cohere For AI](https://cohere.for.ai/) and we will be having our sessions bi-weekly from 2 - 3 pm MST! If you aren't a part of this wonderful community do apply through this [form](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) to join us. 
 
 <img src = "https://i.ibb.co/ZMzFgB5/MLTheory-Learning-Group-Discord.png">
 
@@ -151,8 +151,7 @@ I unfortunately couldn't make it to this session as I had to write the Putnam bu
 
 <button class="collapsible">Third Session</button>
 <div class="content">
-
-Last saturday, we had our third ML theory session and we had two wonderful speakers Sree Harsha Nelaturu and Max Marion who talked about Meta Learning and Neural Information Retrieval respectively. I enjoyed the talks and it was very informative. 
+Last Saturday, we had our third ML theory session and we had two wonderful speakers Sree Harsha Nelaturu and Max Marion who talked about Meta Learning and Neural Information Retrieval respectively. I enjoyed the talks and it was very informative. 
 <br>
 <br>
 Some of the resources are listed below 
@@ -201,8 +200,26 @@ We had the ML Theory Learning group's first session, which was a great success. 
 <img src="https://pbs.twimg.com/media/Ffs7-BDagAAYugH?format=png&name=small" alt="Image">
 </div>
 <hr>
-We are a non-profit ML research lab and community exploring the unknown, together.
-<img src="https://txt.cohere.ai/content/images/size/w600/2022/06/Blog-header-image---Desktop--3--1.png" alt="Image">
+
+<style>
+  .centered-text {
+    text-align: center;
+  }
+</style>
+
+<div class="centered-text">
+  We are a non-profit ML research lab and community exploring the unknown, together.
+</div>
+
+<style>
+  .centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>
+
+<img src="https://txt.cohere.ai/content/images/size/w600/2022/06/Blog-header-image---Desktop--3--1.png" alt="Image" class="centered-image">
 
 <script>
 
