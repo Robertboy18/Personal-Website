@@ -1,15 +1,15 @@
 ---
-title: ML Theory
+title: Machine Learning Theory Reading Group
 permalink: /ml/
 layout: page
-excerpt: Outreach
+excerpt: mltheory
 ---
 
-I am one of the organizers for the ML Theory Learning group at [Cohere For AI](https://cohere.for.ai/) and we will be having our session's bi-weekly from 2 - 3 pm MST! If you aren't a part of this wonderful community feel free to apply through this [form](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) to join us. 
+I am one of the co-leads for the ML Theory Learning group at [Cohere For AI](https://cohere.for.ai/) and we will be having our session's bi-weekly from 2 - 3 pm MST! If you aren't a part of this wonderful community feel free to apply through this [form](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) to join us. 
 
 <img src = "https://i.ibb.co/ZMzFgB5/MLTheory-Learning-Group-Discord.png">
 
-This community is amazing and we have tons of other reading groups and I personally am enjoying the Reinforcement Learning Reading group events, Fireside talks and other events that the community holds. It's a really supportive environment, intellectually motivating and you definitely are going to find atleast one person who shares the same research interest as you.
+This community is amazing and we have tons of other reading groups. I am enjoying the Reinforcement Learning Reading group events, Fireside talks and other events that the community holds. It's a supportive environment, intellectually motivating and you are going to find at least one person who shares the same research interest as you. Sessions that have happened are as follows:
 
 <hr>
 
@@ -32,6 +32,7 @@ This community is amazing and we have tons of other reading groups and I persona
 .active, .collapsible:hover {
   background-color: transparent;
   outline: transparent;
+  color: blue;
 }
 
 .content {
