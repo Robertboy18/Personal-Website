@@ -49,8 +49,9 @@ This community is amazing and we have tons of other reading groups and I persona
 <div class="content">
 Hey everyone! Yaroslav Bulatov was the first speaker as part of our speaker series "Learning to learn: Unravelling learning theory". 
 <br>
-
+<br>
 The talk was based on Generating functions approach to gradient descent analysis (like in <a href = "https://arxiv.org/abs/2206.11124">https://arxiv.org/abs/2206.11124</a>). Classical optimization theorems characterise behaviour in the worst case, while generating functions can tell you how things behave in average case. <a href = "https://machine-learning-etc.ghost.io/">https://machine-learning-etc.ghost.io/</a> a blog by the speaker has some cool resources regarding topics in learning theory.
+<br>
 <br>
 It was a great session and the slides are available <a href ="https://notability.com/n/9KbYpGDd9D8d9HeCl1KP4"> here </a>. The talk is also on Youtube <a href = "https://www.youtube.com/watch?v=i3YPm7MCMf0"> here </a>.
 </div>
@@ -65,22 +66,29 @@ Hey everyone! We had a very fruitful session last Saturday, where Ajinkya presen
 Hey everyone! We had a very fruitful session last Saturday, and I presented on Neural Operators. The slides are available <a href ="https://docs.google.com/presentation/d/1jxtR6m2yw7i59QcFWqqAbyGyStsbGlqz/edit?usp=sharing&ouid=118309576339488509705&rtpof=true&sd=true"> here </a>.
 Neural Operators refer to a class of neural network architectures that enable the learning of mathematical operations from input-output data pairs, without explicit knowledge of the underlying equations. In contrast to traditional machine learning models that rely on pre-defined functions or equations, Neural Operators aim to learn the underlying physical laws directly from data.
 <br>
+<br>
 Neural Operators are inspired by the concept of differential operators, which are used in mathematics and physics to describe the relationship between functions and their derivatives. By learning differential operators directly from data, Neural Operators can be used to model complex physical systems and make predictions about their behavior.
-
+<br>
+<br>
 One of the advantages of Neural Operators is their ability to generalize to new, unseen data, which is critical for applications such as scientific discovery, control systems, and robotics. Another advantage is their flexibility, as they can be tailored to different types of input data, such as images, time-series, or point clouds.
-
+<br>
+<br>
 Although Neural Operators are a relatively new area of research, they hold promise for advancing the fields of machine learning and scientific computing, by enabling more efficient and accurate modeling of complex systems. You can check out some of the reading resources in <a href = "https://www.robertj1.com/reading/"> my reading list</a>.
 
 <img src = "https://d2r55xnwy6nx47.cloudfront.net/uploads/2021/04/Infinite-mapping-2.svg">
 </div>
 
-# Sixth Session
+<button class="collapsible">Sixth Session</button>
+<div class="content">
 Hey everyone! We had a very fruitful session last Saturday, and it was great meeting everyone new and our first meeting for this year. 
-
+<br>
+<br>
 We briefly discussed the Lottery Ticket Hypothesis, Neural Operators and why Adam is still being used as the main optimizer in most deep-learning models. 
-
+<br>
+<br>
 Best of luck to everyone submitting to ICML or the ICLR blog/tiny paper: )!
-
+<br>
+<br>
 > Research Proposal by [Bhavnick](https://twitter.com/BhavnickMinhas) for Adam Optimizer
 
 The lottery ticket hypothesis suggests that deep neural networks have sparse subnetworks that can perform equally well or better than the original dense network. These sparse subnetworks can be obtained through a process called pruning, where the unnecessary connections in the network are removed.
@@ -104,8 +112,11 @@ Overall, while Adam remains a popular choice for deep learning optimization, it 
 Join the community [here](https://cohere.for.ai/) for the discussion and how you can contribute to the research proposal.
 
 <img src="https://internetpolicy.mit.edu/wp-content/uploads/2019/05/neural-network.png" alt="Image">
+</div>
 
-# Fifth Session
+<button class="collapsible">Fifth Session</button>
+<div class="content">
+
 Hey everyone! Last Saturday, we had our final ML theory session for the year, and it went really well. 
 
 We had two pitches, where I spoke on Fourier Neural Operators (FNO) and Harsha spoke on Gradient Descent proofs. On the other hand Ashish also pitched his topic of presenting on Diffusion models. Harsha also presented his idea on starting the Optimization Book Reading plan and lastly, our next meeting will probably be in the first week of January, and we will keep you updated! We want to thank everyone who came to our meetings regularly and the whole community for engaging with various topics in ML theory. It truly means a lot to us, and we can't wait to hold numerous events (even potentially with other groups: )) and hope you all have a great winter break! Merry Christmas and a happy new year in advance : )!
@@ -113,14 +124,17 @@ We had two pitches, where I spoke on Fourier Neural Operators (FNO) and Harsha s
 Sneak peak of what I presented:)
 
 <img src="https://i.ibb.co/KVgRN93/Screenshot-2022-12-22-142947.png" alt="Image">
+</div>
 
-# Fourth Session
-
-I unfortunately couldn't make it to this session as I had to write the Putnam but the session was a great successs. Thank you to Ahmad Mustafa for presenting on CLIP by OpenAI. He shared key insights on contrastive learning and language-guided recognition, and touched on key points of the CLIP paper.
+<button class="collapsible">Fourth Session</button>
+<div class="content">
+I unfortunately couldn't make it to this session as I had to write the Putnam but the session was a great success. Thank you to Ahmad Mustafa for presenting on CLIP by OpenAI. He shared key insights on contrastive learning and language-guided recognition and touched on key points of the CLIP paper.
 
 <img src = "https://miro.medium.com/max/1200/1*tg7akErlMSyCLQxrMtQIYw.png">
+</div>
 
-# Third Session
+<button class="collapsible">Third Session</button>
+<div class="content">
 
 Last saturday, we had our third ML theory session and we had two wonderful speakers Sree Harsha Nelaturu and Max Marion who talked about Meta Learning and Neural Information Retrieval respectively. I enjoyed the talks and it was very informative. 
 
@@ -142,7 +156,10 @@ Neural Information Retrieval - [https://arxiv.org/pdf/2207.13443.pdf](https://ar
 9. Synthetic Petri Dish - [https://arxiv.org/abs/2005.13092](https://arxiv.org/abs/2005.13092)
 10. POET - [https://arxiv.org/abs/1901.01753](https://arxiv.org/abs/1901.01753)
 
-# Second Session
+</div>
+
+<button class="collapsible">Second Session</button>
+<div class="content">
 
 Yesterday, we had our second session, which went really well! We had 4 exciting proposals from Sree Harsha Nelaturu, Ashish Gaurav, Max Marion and Harry Saini on the topics Meta Learning, Quantum probability, Neural Information Retrieval and Representation learning, respectively. 
 
@@ -152,12 +169,13 @@ All the speakers will post some pre-requisite material to read up on or familiar
 
 <hr>
 
-# First Session
+<button class="collapsible">First Session</button>
+<div class="content">
 
 We had the ML Theory Learning group's first session, which was a great success. We discussed what we all hope to gain out of this reading group, our mission statement (which is subject to change over time) as well as potential topics we could cover. I am super excited to see where this group goes and I hope to see you all there!
 
 <img src="https://pbs.twimg.com/media/Ffs7-BDagAAYugH?format=png&name=small" alt="Image">
-
+</div>
 <hr>
 We are a non-profit ML research lab and community exploring the unknown, together.
 <img src="https://txt.cohere.ai/content/images/size/w600/2022/06/Blog-header-image---Desktop--3--1.png" alt="Image">
