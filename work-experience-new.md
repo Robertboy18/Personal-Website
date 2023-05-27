@@ -48,9 +48,10 @@ This community is amazing and we have tons of other reading groups and I persona
 <button class="collapsible">Ninth Session</button>
 <div class="content">
 Hey everyone! Yaroslav Bulatov was the first speaker as part of our speaker series "Learning to learn: Unravelling learning theory". 
+<br>
 
 The talk was based on Generating functions approach to gradient descent analysis (like in <a href = "https://arxiv.org/abs/2206.11124">https://arxiv.org/abs/2206.11124</a>). Classical optimization theorems characterise behaviour in the worst case, while generating functions can tell you how things behave in average case. <a href = "https://machine-learning-etc.ghost.io/">https://machine-learning-etc.ghost.io/</a> a blog by the speaker has some cool resources regarding topics in learning theory.
-
+<br>
 It was a great session and the slides are available <a href ="https://notability.com/n/9KbYpGDd9D8d9HeCl1KP4"> here </a>. The talk is also on Youtube <a href = "https://www.youtube.com/watch?v=i3YPm7MCMf0"> here </a>.
 </div>
 
@@ -63,7 +64,7 @@ Hey everyone! We had a very fruitful session last Saturday, where Ajinkya presen
 <div class="content">
 Hey everyone! We had a very fruitful session last Saturday, and I presented on Neural Operators. The slides are available <a href ="https://docs.google.com/presentation/d/1jxtR6m2yw7i59QcFWqqAbyGyStsbGlqz/edit?usp=sharing&ouid=118309576339488509705&rtpof=true&sd=true"> here </a>.
 Neural Operators refer to a class of neural network architectures that enable the learning of mathematical operations from input-output data pairs, without explicit knowledge of the underlying equations. In contrast to traditional machine learning models that rely on pre-defined functions or equations, Neural Operators aim to learn the underlying physical laws directly from data.
-
+<br>
 Neural Operators are inspired by the concept of differential operators, which are used in mathematics and physics to describe the relationship between functions and their derivatives. By learning differential operators directly from data, Neural Operators can be used to model complex physical systems and make predictions about their behavior.
 
 One of the advantages of Neural Operators is their ability to generalize to new, unseen data, which is critical for applications such as scientific discovery, control systems, and robotics. Another advantage is their flexibility, as they can be tailored to different types of input data, such as images, time-series, or point clouds.
