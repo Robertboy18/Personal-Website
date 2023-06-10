@@ -15,7 +15,7 @@ comments: false
 
 **George, Robert Joseph**, Joshua Joseph George and Davidson Noby Joseph,  "Water and Hydroelectric Power Sharing". *The Mathematical Contest in Modeling*, 2022. [[Paper](https://www.robertj1.com/assets/pdf/MCM-2022.pdf)], [[Certificate](https://www.robertj1.com/assets/pdf/MCM_Certificate.pdf)]
 
-**George, Robert Joseph**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and Count Arctic Wildlife". *AI Capstone*, University of Alberta, 2022. [[Paper](https://www.robertj1.com/assets/pdf/RG-T2-NEPPER-final.pdf)]
+**George, Robert Joseph**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and Count Arctic Wildlife". *AI Capstone*, University of Alberta, 2022. [[Paper](https://www.robertj1.com/assets/pdf/RG-T2-NEPPER-final-version.pdf)]
 
 **George, Robert Joseph**, "Solution Space of a Homogenous Linear Differential Equation". *Honors Ordinary Differential Equations*. University of Alberta, 2021. [[Paper](https://www.robertj1.com/assets/pdf/Research.pdf)]
 
