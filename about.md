@@ -11,11 +11,8 @@ comments: false
 
 # Conference Proceedings and Workshops
 Jiawei Zhao, **George, Robert Joseph**, Yifei Zhang, Zongyi Li and Anima Anandkumar. "Incremental Fourier Neural Operator". *NeurIPS 2022 Workshop AI4Science*, 2022. [[Paper](https://arxiv.org/pdf/2211.15188.pdf)], [[NeurIPS](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=57971)]
-<hr>
 
-# Preprints
-
-**George, Robert Joseph**. "EDCDE - Extended Discovery of Closed-Form Differential Equations". *Submitted to Tiny Paper at the International Conference on Learning Representations*, 2023. [[Paper](https://openreview.net/forum?id=EVz_vcZQvvg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FTinyPapers%2FAuthors%23your-submissions))], [[Codebase](https://github.com/Robertboy18/EDCDE-ICLR-2023)]
+**George, Robert Joseph**. "EDCDE - Extended Discovery of Closed-Form Differential Equations". *ICLR, Tiny Paper*, 2023. [[Paper](https://openreview.net/forum?id=EVz_vcZQvvg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FTinyPapers%2FAuthors%23your-submissions))], [[Codebase](https://github.com/Robertboy18/EDCDE-ICLR-2023)]
 <hr>
 
 # Presentations and Posters
