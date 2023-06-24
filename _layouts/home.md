@@ -26,7 +26,7 @@ I also did research in Numerical Algorithms affiliated with the Pacific Institut
 </p>
 <p style="text-align: justify; hyphens: auto;">
 I also am interested in giving back to the community by teaching and mentoring students and sharing my love for <a href = "https://www.robertj1.com/service/">Mathematics and Computer Science</a> and co-leading the ML Theory Reading Group at <a href="https://cohere.for.ai/">Cohere for AI</a>.
-Feel free to contact me if any of these interests align with your research or if you have any questions. I am always open to new opportunities and collaborations. My resume is available <a href = "https://www.robertj1.com/assets/pdf/resume.pdf">here</a>.
+Feel free to contact me if any of these interests align with your research or if you have any questions. I am always open to new opportunities and collaborations. My Academic CV is available <a href = "https://www.robertj1.com/assets/pdf/cv.pdf">here</a>.
 </p>
 </p>
 <p style="margin-bottom:4cm;">
