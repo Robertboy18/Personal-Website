@@ -9,26 +9,77 @@ comments: false
 <hr>Throughout my life, I have learned to apply my skills in something which would benefit others or rather showcase my skills through some projects or publications. Each project relates to something I have learned in the field of Computer Science and Mathematics. I hope my skills and the knowledge I have gained are reflected through these projects.
 </p>
 
-##  Papers as part of projects
+<html>
+<head>
+<style>
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: transparent;
+  font-size: 15px;
+  transition: background-color 0.1s;
+}
 
-<!--**George, Robert Joseph**, "Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers", Honors Thesis, University of Alberta, 2022. [[Paper](https://drive.google.com/file/d/1chvXZEM7daBfrni2ISAgXqLiQgnzIqCa/view?usp=sharing)]-->
+.active, .collapsible:hover {
+  background-color: transparent;
+  outline: transparent;
+  color: blue;
+}
 
-**George, Robert Joseph**, Joshua Joseph George and Davidson Noby Joseph,  "Water and Hydroelectric Power Sharing". *The Mathematical Contest in Modeling*, 2022. [[Paper](https://www.robertj1.com/assets/pdf/MCM-2022.pdf)], [[Certificate](https://www.robertj1.com/assets/pdf/MCM_Certificate.pdf)]
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  outline: transparent;
+  background-color: #f9f9f9;
+}
+</style>
+</head>
+<body>
 
-**George, Robert Joseph**, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and Count Arctic Wildlife". *AI Capstone*, University of Alberta, 2022. [[Paper](https://www.robertj1.com/assets/pdf/RG-T2-NEPPER-final-version.pdf)]
+<button class="collapsible">Papers as part of projects</button>
+<div class="content">
+  <ul>
+    <li><strong>George, Robert Joseph<strong>, Joshua Joseph George and Davidson Noby Joseph, "Water and Hydroelectric Power Sharing". The Mathematical Contest in Modeling*, 2022. <a href="https://www.robertj1.com/assets/pdf/MCM-2022.pdf">[Paper]</a>, <a href="https://www.robertj1.com/assets/pdf/MCM_Certificate.pdf">[Certificate]</a></li>
 
-**George, Robert Joseph**, "Solution Space of a Homogenous Linear Differential Equation". *Honors Ordinary Differential Equations*. University of Alberta, 2021. [[Paper](https://www.robertj1.com/assets/pdf/Research.pdf)]
+  <li><strong>George, Robert Joseph<strong>, Emily Halina, Nicholas Rebstock, Patrick Wyrod and Sandipan Nath, "Using Object Detection Models to Identify and Count Arctic Wildlife". AI Capstone, University of Alberta, 2022. <a href="https://www.robertj1.com/assets/pdf/RG-T2-NEPPER-final-version.pdf">[Paper]</a></li>
 
-**George, Robert Joseph**. “Infodemiology and Infoveillance of Covid19 Using GPT-3”. *STEM Fellowship Journal*, vol. 7, no. 1, 2021, pp. 87–88. [[Paper](https://www.robertj1.com/assets/pdf/stem-2021.pdf)], [[Journal](https://doi.org/10.17975/sfj-2021-003)]
+  <li><strong>George, Robert Joseph<strong>, "Solution Space of a Homogenous Linear Differential Equation". Honors Ordinary Differential Equations. University of Alberta, 2021. <a href="https://www.robertj1.com/assets/pdf/Research.pdf">[Paper]</a></li>
+
+  <li><strong>George, Robert Joseph<strong>. “Infodemiology and Infoveillance of Covid19 Using GPT-3”. STEM Fellowship Journal, vol. 7, no. 1, 2021, pp. 87–88. <a href="https://www.robertj1.com/assets/pdf/stem-2021.pdf">[Paper]</a>, <a href="https://doi.org/10.17975/sfj-2021-003">[Journal]</a></li>
  
+  <li><strong>George, Robert Joseph<strong>, et al. “Correlation between COVID-19, Mental Illness and Substance Abuse Prevalence”. STEM Fellowship Journal, vol. 6, no. 1, 2020, pp. 127–128. <a href="https://www.robertj1.com/assets/pdf/stem-2020.pdf">[Paper]</a>, <a href="https://doi.org/10.17975/sfj-2020-004">[Journal]</a>, <a href="https://gist.github.com/Robertboy18/2168d899ea5cb0732d4290bbba1ca515#file-big-data-science-2020-ipynb">[Codebase]</a></li>
 
-**George, Robert Joseph**, et al. “Correlation between COVID-19, Mental Illness and Substance Abuse Prevalence”. *STEM Fellowship Journal*, vol. 6, no. 1, 2020, pp. 127–128. [[Paper](https://www.robertj1.com/assets/pdf/stem-2020.pdf)], [[Journal](https://doi.org/10.17975/sfj-2020-004)], [[Codebase](https://gist.github.com/Robertboy18/2168d899ea5cb0732d4290bbba1ca515#file-big-data-science-2020-ipynb)]
+  <li><strong>George, Robert Joseph<strong>, “Statistical Machine Learning - Analysis of Cardiovascular diseases”. International Undergraduate Summer Enrichment Program, University of Alberta, 2021.</li>
 
-**George, Robert Joseph**, “Statistical Machine Learning - Analysis of Cardiovascular diseases”. *International Undergraduate Summer Enrichment Program*, University of Alberta, 2021.
+  <li><strong>George, Robert Joseph<strong> and Paul Buckingham ”Riemann ζ(2k) using Fourier Analysis”. Undergraduate Number Theory Society, University of Alberta, 2020. <a href="https://www.robertj1.com/assets/pdf/fourier.pdf">[Paper]</a></li>
+  </ul>
+</div>
 
-**George, Robert Joseph** and Paul Buckingham ”Riemann ζ(2k) using Fourier Analysis”. *Undergraduate Number Theory Society*, University of Alberta, 2020. [[Paper](https://www.robertj1.com/assets/pdf/fourier.pdf)]
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
 
-<hr>
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
+</body>
+</html>
 
 ## Additional Projects
 
