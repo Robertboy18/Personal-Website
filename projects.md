@@ -53,12 +53,11 @@ comments: false
 </head>
 <body>
 
-<button class="collapsible">Winter 2023</button>
+<button class="collapsible">Papers as part of projects</button>
 <div class="content">
   <ul>
-    <li>MATH 417 - Honors Real Variables I (Measure Theory)</li>
-    <li>MATH 253 - Theory of Interest</li>
-    <li>CMPUT 365 - Reinforcement Learning</li>
+    <li><strong>George, Robert Joseph<strong>, Joshua Joseph George and Davidson Noby Joseph, "Water and Hydroelectric Power Sharing". The Mathematical Contest in Modeling*, 2022. 
+    <a href="https://www.robertj1.com/assets/pdf/MCM-2022.pdf">[Paper]</a>, <a href="https://www.robertj1.com/assets/pdf/MCM_Certificate.pdf">[Certificate]</a></li>
   </ul>
 </div>
 
