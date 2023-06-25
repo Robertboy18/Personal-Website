@@ -55,26 +55,6 @@ comments: false
   </ul>
 </div>
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
-
-</body>
-</html>
-
 <button class="collapsible">Projects</button>
 <div class="content">
 <style type="text/css">
@@ -147,7 +127,27 @@ for (i = 0; i < coll.length; i++) {
 </tbody>
 </table>
 </div>
-<hr>
+
+</body>
+</html>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
+
 
 I will be updating this page regularly based on the completion of a project.
 <hr>
