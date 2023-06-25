@@ -38,6 +38,17 @@ comments: false
   outline: transparent;
   background-color: #f9f9f9;
 }
+
+.tg  {border-collapse:collapse;border-spacing:0;}
+
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+  
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+
 </style>
 </head>
 <body>
@@ -57,15 +68,6 @@ comments: false
 
 <button class="collapsible">Projects</button>
 <div class="content">
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<body>
 <table class="tg">
 <thead>
   <tr>
@@ -75,7 +77,6 @@ comments: false
     <th class="tg-0pky">Project Link</th>
   </tr>
 </thead>
-<tbody>
     <tr>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Online Learning Algorithms</td>
@@ -124,7 +125,6 @@ comments: false
     <td class="tg-0pky">Applied Mathematics</td>
     <td class="tg-0pky"><a href="https://www.robertj1.com/assets/pdf/math373.pdf" target="_blank" rel="noopener noreferrer">Paper</a></td>
     </tr>
-</tbody>
 </table>
 </div>
 
