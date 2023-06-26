@@ -60,6 +60,13 @@ This community is amazing and we have tons of other reading groups. I am enjoyin
 </head>
 <body>
 
+<button class="collapsible">Tenth Session</button>
+<div class="content">
+Hey everyone! Harsha gave a talk on the Lottery Ticket Hypothesis at the previous ML Theory session! Revealing the potential of sparse neural networks and 'lottery tickets' within them, this concept offers exciting opportunities for optimizing deep learning models. 
+<img src = "https://pbs.twimg.com/media/FySQVrMakAA3C1R?format=png&name=small">
+
+</div>
+
 <button class="collapsible">Ninth Session</button>
 <div class="content">
 Hey everyone! Yaroslav Bulatov was the first speaker as part of our speaker series "Learning to learn: Unravelling learning theory". 
