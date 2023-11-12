@@ -4,7 +4,7 @@ home: true
 ---
 <h1>Robert Joseph</h1>
 
-<img align="left" width="215" height="225" src="https://www.robertj1.com/assets/img/pic4.jpg" vspace="0" hspace="0"/>
+<img align="left" width="205" height="225" src="https://www.robertj1.com/assets/img/pic4.jpg" vspace="0" hspace="0"/>
 <p>
 &nbsp; &nbsp; Ph.D. Math & CS, <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Sep 2023 - Present)
 <br>
@@ -20,7 +20,7 @@ I am a Ph.D. student in Mathematics and Computer Science at Caltech under Profes
 
 </p>
 <p style="text-align: justify; hyphens: auto;">
-I used to work with Professor <a href = "http://webdocs.cs.ualberta.ca/~whitem/">Martha White</a> and <a href = "https://sites.ualberta.ca/~amw8/" >Adam White (DeepMind)</a> at the Reinforcement Learning and Artificial Intelligence <a href = "http://rlai.ualberta.ca/)">(RLAI)</a> Lab and the Alberta Machine Intelligence Institute <a href = "https://www.amii.ca/">(Amii)</a>, as well as with Professor <a href = "https://www.math.ualberta.ca/~bowman/">John Bowman</a> in the Mathematics Department. I was a CSRMP Research Scholar at <a href = "https://research.google/outreach/csrmp/">Google AI</a> and collaborated with <a href = "https://www.microsoft.com/en-us/research/research-area/data-platform-analytics/">Microsoft Research</a> as a Data Science Intern.</p>
+I used to work with Professor <a href = "http://webdocs.cs.ualberta.ca/~whitem/">Martha White</a> and <a href = "https://sites.ualberta.ca/~amw8/" >Adam White (Google DeepMind)</a> at the Reinforcement Learning and Artificial Intelligence <a href = "http://rlai.ualberta.ca/)">(RLAI)</a> Lab and the Alberta Machine Intelligence Institute <a href = "https://www.amii.ca/">(Amii)</a>, as well as with Professor <a href = "https://www.math.ualberta.ca/~bowman/">John Bowman</a> in the Mathematics Department. I was a CSRMP Research Scholar at <a href = "https://research.google/outreach/csrmp/">Google AI</a> and collaborated with <a href = "https://www.microsoft.com/en-us/research/research-area/data-platform-analytics/">Microsoft Research</a> as a Data Science Intern.</p>
 <p style="text-align: justify; hyphens: auto;">
 I also did research in Numerical Algorithms affiliated with the Pacific Institute of Mathematical Sciences <a href = "https://www.pims.math.ca/">(PIMS)</a> and the Applied Mathematics Institute <a href = "https://sites.ualberta.ca/~yauwong/AMI.htm">(AMI)</a> where I better contributed to the understanding and developing algorithms for Quasi - Linear PDE's, climate forecasting (AI Computational Team - <a href = "https://www.wishartlab.com/">Wishart Lab</a>), Healthcare (<a href = "https://thecvc.ca/">Canadian VIGOUR center</a>) and Explainable AI <a href = "https://sites.ualberta.ca/~amiixai/">(xAI)</a>.
 </p>
