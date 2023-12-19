@@ -5,7 +5,7 @@ layout: page
 excerpt: Skills
 comments: false
 ---
-Hey Everyone~
+Hey Everyone
 <hr>
 You’ve probably heard the phrase, 
 > Practice maketh a man perfect  

@@ -38,7 +38,7 @@ I also helped found the Association for Computing Machinery (ACM) Student chapte
 ## Research Groups
 
 <p style="text-align:justify; hyphens: auto;" hspace="30">
-My time at the <a href = "https://www.ualberta.ca/current-students/undergraduate-research-initiative/index.html">Undergraduate Research Initiative (URI) </a>was very fruitful. I was a Peer Undergraduate Research Liason and an Undergraduate reviewer where I helped support URI through involvement in promotion and outreach activities, event logistics and support and peer-advising related research opportunities & reviewed Undergraduate journals. I love doing research, and I'm passionate about guiding undergrads and helping others find research-related jobs.
+My time at the <a href = "https://www.ualberta.ca/current-students/undergraduate-research-initiative/index.html">Undergraduate Research Initiative (URI) </a>was very fruitful. I was a Peer Undergraduate Research Liaison and an Undergraduate reviewer where I helped support URI through involvement in promotion and outreach activities, event logistics and support and peer-advising related research opportunities & reviewed Undergraduate journals. I love doing research, I’m passionate about guiding undergraduates, and helping others find research-related career paths.
 </p>
 
 ## Non-STEM Clubs

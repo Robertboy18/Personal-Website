@@ -1,5 +1,5 @@
 ---
-title: Python Notes from Intro to Machine Learning~
+title: Python Notes from Intro to Machine Learning
 date: 2020-05-17 10:00:00 +07:00
 tags: [Python, MachineLearning,Notes]
 description: Notes and code snippets of Python that I've been collecting so far throughout the "Intro to Machine Learning" course.
@@ -7,7 +7,7 @@ description: Notes and code snippets of Python that I've been collecting so far 
 
 ## Machine Learning  
 <hr>
-Hey Everyone~
+Hey Everyone
 
 A few days ago I took this free course from Udacity: [Intro to Machine Learning](https://eu.udacity.com/course/intro-to-machine-learning--ud120). The machine learning related codes are quite easy to grasp since it simply uses the [scikit-learn](http://scikit-learn.org/) modules. But most of the supporting Python modules that are provided by this course were like a black-box to me. I had no idea how to download a file in Python or what's the difference between a list, a tuple and a dictionary.
 

@@ -12,7 +12,7 @@ excerpt: mltheory
   }
 </style>
 
-I am one of the co-leads for the ML Theory Learning group at [Cohere For AI](https://cohere.for.ai/) and we will be having our sessions bi-weekly from 2 - 3 pm MST! If you aren't a part of this wonderful community do apply through this [form](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) to join us. 
+I am one of the co-leads for the ML Theory Learning group at [Cohere For AI](https://cohere.for.ai/) and we will be having our sessions bi-weekly from 2 - 3 pm MST! If you aren't a part of this wonderful community, do apply through this [form](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) to join us. 
 
 <img src = "https://i.ibb.co/ZMzFgB5/MLTheory-Learning-Group-Discord.png" class="centered-image">
 
@@ -78,14 +78,14 @@ The talk was based on Generating functions approach to gradient descent analysis
 It was a great session and the slides are available <a href ="https://notability.com/n/9KbYpGDd9D8d9HeCl1KP4"> here </a>. The talk is also on Youtube <a href = "https://www.youtube.com/watch?v=i3YPm7MCMf0"> here </a>.
 </div>
 
-<button class="collapsible">Eigth Session</button>
+<button class="collapsible">Eighth Session</button>
 <div class="content">
 Hey everyone! We had a very fruitful session last Saturday, where Ajinkya presented on the Privacy of Noisy SGD. The slides are available <a href ="https://docs.google.com/presentation/d/10XSIitnJ3DnM0KxevFk6iIQ0Qk71AzsjDTnAeowH54Q/edit"> here </a>.
 </div>
 
 <button class="collapsible">Seventh Session</button>
 <div class="content">
-Hey everyone! We had a very fruitful session last Saturday, and I presented on Neural Operators. The slides are available <a href ="https://docs.google.com/presentation/d/1jxtR6m2yw7i59QcFWqqAbyGyStsbGlqz/edit?usp=sharing&ouid=118309576339488509705&rtpof=true&sd=true"> here </a>.
+Hey everyone! We had a very fruitful session last Saturday, and I presented on Neural Operators. The slides are available <a href ="https://docs.google.com/presentation/d/1jxtR6m2yw7i59QcFWqqAbyGyStsbGlqz/edit?usp=sharing&ouid=118309576339488509705&rtpof=true&sd=true"> here</a>.
 Neural Operators refer to a class of neural network architectures that enable the learning of mathematical operations from input-output data pairs, without explicit knowledge of the underlying equations. In contrast to traditional machine learning models that rely on pre-defined functions or equations, Neural Operators aim to learn the underlying physical laws directly from data.
 <br>
 <br>
@@ -164,7 +164,7 @@ Sneak peak of what I presented:)
 
 <button class="collapsible">Fourth Session</button>
 <div class="content">
-I unfortunately couldn't make it to this session as I had to write the Putnam but the session was a great success. Thank you to Ahmad Mustafa for presenting on CLIP by OpenAI. He shared key insights on contrastive learning and language-guided recognition and touched on key points of the CLIP paper.
+I unfortunately couldn't make it to this session as I had to write the Putnam, but the session was a great success. Thank you to Ahmad Mustafa for presenting on CLIP by OpenAI. He shared key insights on contrastive learning, language-guided recognition, and touched on key points of the CLIP Paper.
 <br>
 <br>
 <img src = "https://miro.medium.com/max/1200/1*tg7akErlMSyCLQxrMtQIYw.png">
@@ -175,7 +175,7 @@ I unfortunately couldn't make it to this session as I had to write the Putnam bu
 Last Saturday, we had our third ML theory session and we had two wonderful speakers Sree Harsha Nelaturu and Max Marion who talked about Meta Learning and Neural Information Retrieval respectively. I enjoyed the talks and it was very informative. 
 <br>
 <br>
-Some of the resources are listed below 
+Some of the resources are listed below:
 <br>
 <br>
 <bold>Neural Information Retrieval</bold> - Lecture Notes on
@@ -208,7 +208,7 @@ Yesterday, we had our second session, which went really well! We had 4 exciting 
 The voting also happened, and for the next meeting on 19/11/2022, we will have Harsha and Max talk on Meta-Learning and Neural Information Retrieval. In the subsequent meeting on 3/12/2022, we will have Harry and Ashish talk on Representation Learning and Quantum Probability. 
 <br>
 <br>
-All the speakers will post some pre-requisite material to read up on or familiarize ourselves with before the talk (at least 1 week in advance), so we all prepare and learn as much as we can from the talk! Each presenter will talk for 25 minutes, followed by a 5 - 10 min Q/A! If you have more questions for the speakers, we will also create forums after each presentation where the conversation can be carried on. Thanks to everyone who came the other day; see you all next meeting:)
+All the speakers will post some pre-requisite material to read up on or familiarize ourselves with before the talk (at least 1 week in advance), so we all prepare and learn as much as we can from the talk! Each presenter will talk for 25 minutes, followed by a 5 - 10 min Q&A! If you have more questions for the speakers, we will also create forums after each presentation where the conversation can be carried on. Thanks to everyone who came the other day; see you all next meeting.
 </div>
 <hr>
 
