@@ -4,7 +4,7 @@ home: true
 ---
 <h1>Robert Joseph</h1>
 
-<img align="left" width="195" height="225" src="https://www.robertj1.com/assets/img/pic2.jpg" vspace="0" hspace="0"/>
+<img align="left" width="195" height="230" src="https://www.robertj1.com/assets/img/pic2.jpg" vspace="0" hspace="0"/>
 <p>
 &nbsp; &nbsp; Ph.D. Math & CS, <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Sep 2023 - Present)
 <br>
@@ -16,7 +16,7 @@ home: true
 <br>
 <br>
 <p style="text-align:justify; hyphens: auto;" hspace="30">
-I am a Ph.D. student in Mathematics and Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar (Nvidia)</a>. I work in the Artificial Intelligence and Machine Learning Group <a href="https://www.cms.caltech.edu/research/artificial-intelligence-and-machine-learning">(AI4Science)</a> group. I graduated from the University of Alberta with a degree in Honors Mathematics and Computer Science. My research interests include theoretical aspects of Deep Learning, Neural Operators, AI4Science, Optimization, Numerical Algorithms and Large Language Models. 
+I am a Ph.D. student in Mathematics and Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar (Nvidia)</a>. I work in the Artificial Intelligence and Machine Learning Group <a href="https://www.cms.caltech.edu/research/artificial-intelligence-and-machine-learning">(AI4Science)</a> group. I graduated from the University of Alberta with a degree in Honors Mathematics and Computer Science. My research interests include Deep Learning, Neural Operators, AI4Science, Optimization, Numerical Algorithms and Large Language Models. 
 
 </p>
 <p style="text-align: justify; hyphens: auto;">
