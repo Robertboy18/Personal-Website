@@ -56,7 +56,7 @@ Everyone has talents and God has been grateful to have blessed me with many of t
 
   <tr>
     <td class="tg-0lax">Machine Learning </td>
-    <td class="tg-0lax">Machine learning Projects/Internships as well as Unsupervised/Supervised learning Algorithms -  Participating on <a href="https://www.kaggle.com/robertjoseph2001" target="_blank" rel="noopener noreferrer">Kaggle</a></td>
+    <td class="tg-0lax">Machine learning Projects/Internships as well as Unsupervised/Supervised learning Algorithms -  Participating on <a href="https://www.kaggle.com/robertjoseph" target="_blank" rel="noopener noreferrer">Kaggle</a></td>
      <!--<td class="tg-0lax">2</td>-->
   </tr>
   <tr>
@@ -66,12 +66,12 @@ Everyone has talents and God has been grateful to have blessed me with many of t
   </tr>
   <tr>
     <td class="tg-0lax">Data Science</td>
-    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Participating on </span><a href="https://www.kaggle.com/robertjoseph2001" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">Kaggle</span></a><span style="font-weight:400;font-style:normal;text-decoration:none"> and have developed some projects and did an Internship</span><br></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">Participating on </span><a href="https://www.kaggle.com/" target="_blank" rel="noopener noreferrer"><span style="font-weight:400;font-style:normal;text-decoration:none">Kaggle</span></a><span style="font-weight:400;font-style:normal;text-decoration:none"> and have developed some projects and did an Internship</span><br></td>
      <!--<td class="tg-0lax">3</td>-->
   </tr>
   <tr>
     <td class="tg-0lax">Competitive Programming</td>
-    <td class="tg-0lax"><a href="https://leetcode.com/robujsph2001/" target="_blank" rel="noopener noreferrer">Leetcode, </a><a href="https://app.codesignal.com/profile/robert_j44" target="_blank" rel="noopener noreferrer">CodeSignal</a>, <a href="https://open.kattis.com/users/robert-joseph" target="_blank" rel="noopener noreferrer">Kattis, </a><a href="https://leetcode.com/robujsph2001/" target="_blank" rel="noopener noreferrer">Leetcode</a>, </a><a href="https://www.hackerrank.com/Robert_boy" target="_blank" rel="noopener noreferrer">Hacker Rank,</a> <a href="https://icpc.baylor.edu/ICPCID/AD8WSBDQSBXA" target="_blank" rel="noopener noreferrer">ICPC</a></td>
+    <td class="tg-0lax"><a href="" target="_blank" rel="noopener noreferrer">Leetcode, </a><a href="https://app.codesignal.com/profile/robert_j44" target="_blank" rel="noopener noreferrer">CodeSignal</a>, <a href="https://open.kattis.com/users/robert-joseph" target="_blank" rel="noopener noreferrer">Kattis, </a><a href="" target="_blank" rel="noopener noreferrer">Leetcode</a>, </a><a href="https://www.hackerrank.com/Robert_boy" target="_blank" rel="noopener noreferrer">Hacker Rank,</a> <a href="https://icpc.baylor.edu/ICPCID/AD8WSBDQSBXA" target="_blank" rel="noopener noreferrer">ICPC</a></td>
     <!--<td class="tg-0lax">3</td>-->
   </tr>
   <tr>

@@ -3,19 +3,17 @@ title: Robert
 description: >-
   Ph.D Math + Computer Science at Caltech
 lang: en-US
-timezone: Canada/Edmonton
+timezone: Los Angeles/USA
 image: assets/img/pic.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/Robertboy18
 mode: "light" # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Robert Joseph
-  bio: >-
-    CSRMP Fellow @Google | Research Intern
-    @Caltech and @RLAI/Amii | Former Data Science Intern @Microsoft | Honors Math + CS @UAlberta
+  name: Robert Joseph George
+  bio: PhD Math + CS @Caltech
   username: username
-  email: robujsph2001@gmail.com
+  email: 
   avatar: /assets/img/pic.jpg
 
 # Url settings
