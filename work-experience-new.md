@@ -218,7 +218,7 @@ All the speakers will post some pre-requisite material to read up on or familiar
 We had the ML Theory Learning group's first session, which was a great success. We discussed what we all hope to gain out of this reading group, our mission statement (which is subject to change over time) as well as potential topics we could cover. I am super excited to see where this group goes and I hope to see you all there!
 <br>
 <br>
-<img src="https://pbs.twimg.com/media/Ffs7-BDagAAYugH?format=png&name=small" alt="Image">
+<img src="https://pbs.twimg.com/media/Ffs7-BDagAAYugH?format=png&name=small" alt="Image", class="centered_image">
 </div>
 <hr>
 
@@ -232,7 +232,7 @@ We had the ML Theory Learning group's first session, which was a great success. 
   We are a non-profit ML research lab and community exploring the unknown, together.
 </div>
 
-<img src="https://txt.cohere.ai/content/images/size/w600/2022/06/Blog-header-image---Desktop--3--1.png" alt="Image" class="centered-image">
+<img src="https://cdn.sanity.io/images/rjtqmwfu/production/fafceee94eba9de42014ac3e4c79738e4f3dcb83-1600x1200.png?rect=0,180,1600,840&w=1200&h=630" alt="Image" class="centered-image">
 
 <script>
 

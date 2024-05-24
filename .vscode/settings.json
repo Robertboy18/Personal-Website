@@ -7,5 +7,6 @@
         "Dealiasing",
         "Decima",
         "maketh"
-    ]
+    ],
+    "CodeGPT.apiKey": "Anthropic"
 }

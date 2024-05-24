@@ -10,8 +10,8 @@
   url: /posts/
   external: false
 
-- title: News
-  url: /updates/
+- title: AI4Science
+  url: /ai4science/
   external: false # set true if you using external link, see bellow
 
 - title: Machine Learning Theory
