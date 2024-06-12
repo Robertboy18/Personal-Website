@@ -4,7 +4,7 @@ home: true
 ---
 <h1>Robert Joseph</h1>
 
-<img align="left" width="193" height="225" src="https://www.robertj1.com/assets/img/pic2.jpg" vspace="0" hspace="0"/>
+<img align="left" width="193" height="225" src="https://www.robertj1.com/assets/img/robertpic.jpeg" vspace="0" hspace="0"/>
 <p>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. Math & CS, <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Sep 2023 - Present)
 <br>
