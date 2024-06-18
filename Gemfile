@@ -8,9 +8,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling! done
-ruby '3.3.3'
-gem "jekyll", "~> 4.1.0"
-
+ruby '>= 3.3.22'
+gem "jekyll", "~> 3.8.3"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.0"
 
@@ -20,11 +19,11 @@ gem "jekyll", "~> 4.1.0"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-feed', '~> 0.13'
-  gem 'jekyll-sitemap', '~> 1.4'
+  gem 'jekyll-feed', '~> 0.11.0'
+  gem 'jekyll-sitemap'
   gem 'jekyll-sass-converter', '~> 1.5', '>= 1.5.2'
-  gem 'jekyll-compose', '~> 0.12.0'
-  gem 'jekyll-postfiles', '~> 3.1'
+  gem 'jekyll-compose'
+  gem 'jekyll-postfiles', '~> 3.0'
   gem 'rouge', '3.3.0'
   gem 'jekyll-paginate'
 end
