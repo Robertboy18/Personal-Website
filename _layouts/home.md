@@ -16,14 +16,6 @@ home: true
 <br>
 <br>
 <p style="text-align:justify; hyphens: auto;" hspace="30">
-<h4 class="posts-item-note">Recent News</h4>
-- [July 2024 Attending University of Michigan for summer school on <a href = "https://scifm.ai/summer_school.html">Foundational Models</a>] <br>
-- [July 2024 Attending University of Chicago for the <a href = "https://datascience.uchicago.edu/events/ai-science-summer-school-2024/">AI4Science Summer School</a>] <br>
-- [June 2024 Finished my first year of <a href = "https://x.com/Robertljg/status/1800656342778253395">PhD</a>] <br>
-- [April 2024 Passed my qualification exams]
-
-<br>
-
 I am a Ph.D. student in Mathematics and Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar (Nvidia)</a>. I work in the Artificial Intelligence and Machine Learning Group <a href="https://www.cms.caltech.edu/research/artificial-intelligence-and-machine-learning">(AI4Science)</a> group. I graduated with the Dean's Silver Medal in Science from the University of Alberta with a degree in Honors Mathematics and Computer Science. My research interests include Deep Learning, Neural Operators, AI4Science, AI4Math, LLM Reasoning and Optimization and Efficient training of foundational models. 
 
 </p>
