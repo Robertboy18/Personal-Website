@@ -1,5 +1,5 @@
 ---
-title: AI4Science
+title: AI4Science + Math
 permalink: /ai4science/
 layout: page
 excerpt: ai4science
@@ -12,5 +12,8 @@ excerpt: ai4science
   }
 </style>
 
-# AI4Science
-<img src="https://www.robertj1.com/assets/img/operator.jpg" vspace="0"  hspace="0"/>
+# AI4Science + Math
+<div style="display: flex;">
+  <img src="https://www.robertj1.com/assets/img/operator.jpg" vspace="0"  hspace="0" style="flex: 1;">
+  <img src="https://www.robertj1.com/assets/img/lean.jpg" vspace="0"  hspace="0" style="flex: 1;">
+</div>
