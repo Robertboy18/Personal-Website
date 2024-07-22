@@ -20,20 +20,23 @@ I am a Ph.D. student in Mathematics and Computer Science at Caltech under Profes
 
 </p>
 <p style="text-align: justify; hyphens: auto;">
-I used to work with Professor <a href = "http://webdocs.cs.ualberta.ca/~whitem/">Martha White</a> and <a href = "https://sites.ualberta.ca/~amw8/" >Adam White (Google DeepMind)</a> at the Reinforcement Learning and Artificial Intelligence <a href = "http://rlai.ualberta.ca/)">(RLAI)</a> Lab and the Alberta Machine Intelligence Institute <a href = "https://www.amii.ca/">(Amii)</a>, as well as with Professor <a href = "https://www.math.ualberta.ca/~bowman/">John Bowman</a> in the Mathematics Department. I was a CSRMP Research Scholar at <a href = "https://research.google/outreach/csrmp/">Google AI</a> and collaborated with <a href = "https://www.microsoft.com/en-us/research/research-area/data-platform-analytics/">Microsoft Research</a> as a Data Science Intern.</p>
-<p style="text-align: justify; hyphens: auto;">
-I also did research in Numerical Algorithms affiliated with the Pacific Institute of Mathematical Sciences <a href = "https://www.pims.math.ca/">(PIMS)</a> and the Applied Mathematics Institute <a href = "https://sites.ualberta.ca/~yauwong/AMI.htm">(AMI)</a> where I better contributed to the understanding and developing algorithms for Quasi - Linear PDE's, climate forecasting (AI Computational Team - <a href = "https://www.wishartlab.com/">Wishart Lab</a>), Healthcare (<a href = "https://thecvc.ca/">Canadian VIGOUR center</a>) and Explainable AI <a href = "https://sites.ualberta.ca/~amiixai/">(xAI)</a>.
+I used to work with Professor <a href = "http://webdocs.cs.ualberta.ca/~whitem/">Martha White</a> and <a href = "https://sites.ualberta.ca/~amw8/" >Adam White (Google DeepMind)</a> at the Reinforcement Learning and Artificial Intelligence <a href = "http://rlai.ualberta.ca/)">(RLAI)</a> Lab and the Alberta Machine Intelligence Institute <a href = "https://www.amii.ca/">(Amii)</a>. Previously also worked with Professor <a href = "https://www.math.ualberta.ca/~bowman/">John Bowman</a> in the Mathematics Department. I was a CSRMP Research Scholar at <a href = "https://research.google/outreach/csrmp/">Google AI</a> and worked with <a href = "https://www.microsoft.com/en-us/research/research-area/data-platform-analytics/">Microsoft Research</a> as a Data Science Intern. I also did research in Numerical Algorithms affiliated with the Pacific Institute of Mathematical Sciences <a href = "https://www.pims.math.ca/">(PIMS)</a> and the Applied Mathematics Institute <a href = "https://sites.ualberta.ca/~yauwong/AMI.htm">(AMI)</a>.
 </p>
 <p style="text-align: justify; hyphens: auto;">
-I also am interested in giving back to the community by teaching and mentoring students and sharing my love for <a href = "https://www.robertj1.com/service/">Mathematics and Computer Science</a> and co-leading the ML Theory Reading Group at <a href="https://cohere.for.ai/">Cohere for AI</a>.
+I also am interested in giving back to the community by teaching and mentoring students and sharing my love for AI4Science & Math. Used to co-lead the ML Theory Reading Group at <a href="https://cohere.for.ai/">Cohere for AI</a>.
 Feel free to contact me if any of these interests align with your research or if you have any questions. I am always open to new opportunities and collaborations.
 </p>
 </p>
 <p style="margin-bottom:4cm;">
 Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/Robertljg">@Robertljg</a> | LinkedIn: <a href = "https://www.linkedin.com/in/robertljg/">Robertj</a> | Github: <a href = "https://github.com/Robertboy18">@Robertboy18</a> | Academic: <a href = "https://www.robertj1.com/assets/pdf/resume1.pdf">CV</a>
 
+<h4 class="posts-item-note">Recent News</h4>
+- [July 2024 Attending UMichigan for summer school on Foundational Models] <br>
+- [July 2024 Attending UChicago for the AI4Science Summer School] <br>
+- [June 2024 Finished my first year of PhD] <br>
+- [April 2024 Passed my qualification exams]
 
-<p class="elfsight-app-b13063fd-194b-41ac-a7f5-7c5932cf93f7"></p>
+<!--<p class="elfsight-app-b13063fd-194b-41ac-a7f5-7c5932cf93f7"></p>
 <h4 class="posts-item-note">Recent Posts</h4>
 {% for post in site.posts limit:11%}
 <article class="post-item" align = "center">
@@ -42,7 +45,4 @@ Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/
     <a href="{{ post.url }}">{{ post.title | escape }}</a>
   </h4>
 </article>
-{% endfor %}
-
-
-<h4 class="posts-item-note" href = "/resume">All Posts</h4>
+{% endfor %}-->
