@@ -32,11 +32,9 @@ Feel free to contact me if any of these interests align with your research or if
 <p style="margin-bottom:4cm;">
 Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/Robertljg">@Robertljg</a> | LinkedIn: <a href = "https://www.linkedin.com/in/robertljg/">Robertj</a> | Github: <a href = "https://github.com/Robertboy18">@Robertboy18</a> | Academic: <a href = "https://www.robertj1.com/assets/pdf/resume1.pdf">CV</a>
 
-<!--
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
+
 <p class="elfsight-app-b13063fd-194b-41ac-a7f5-7c5932cf93f7"></p>
--->
-<!--<h4 class="posts-item-note">Recent Posts</h4>
+<h4 class="posts-item-note">Recent Posts</h4>
 {% for post in site.posts limit:11%}
 <article class="post-item" align = "center">
   <span class="post-item-date" align = "center">{{ post.date  | date: "%b %d, %Y" }}</span>
@@ -45,6 +43,6 @@ Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/
   </h4>
 </article>
 {% endfor %}
--->
 
-<!--<h4 class="posts-item-note" href = "/resume">All Posts</h4>-->
+
+<h4 class="posts-item-note" href = "/resume">All Posts</h4>
