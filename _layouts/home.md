@@ -20,7 +20,7 @@ I am a Ph.D. student in Mathematics and Computer Science at Caltech under Profes
 
 </p>
 <p style="text-align: justify; hyphens: auto;">
-I used to work with Professor <a href = "http://webdocs.cs.ualberta.ca/~whitem/">Martha White</a> and <a href = "https://sites.ualberta.ca/~amw8/" >Adam White (Google DeepMind)</a> at the Reinforcement Learning and Artificial Intelligence <a href = "http://rlai.ualberta.ca/)">(RLAI)</a> Lab and the Alberta Machine Intelligence Institute <a href = "https://www.amii.ca/">(Amii)</a>, as well as with Professor <a href = "https://www.math.ualberta.ca/~bowman/">John Bowman</a> in the Mathematics Department. I was a CSRMP Research Scholar at <a href = "https://research.google/outreach/csrmp/">Google AI</a> and collaborated with <a href = "https://www.microsoft.com/en-us/research/research-area/data-platform-analytics/">Microsoft Research</a> as a Data Science Intern.</p>
+I used to work with Professor <a href = "http://webdocs.cs.ualberta.ca/~whitem/">Martha White</a> and <a href = "https://sites.ualberta.ca/~amw8/" >Adam White (Google DeepMind)</a> at the Reinforcement Learning and Artificial Intelligence <a href = "http://rlai.ualberta.ca/)">(RLAI)</a> Lab led by <a href="http://incompleteideas.net/">Rich Sutton</a> and the Alberta Machine Intelligence Institute <a href = "https://www.amii.ca/">(Amii)</a>, as well as with Professor <a href = "https://www.math.ualberta.ca/~bowman/">John Bowman</a> in the Mathematics Department. I was a CSRMP Research Scholar at <a href = "https://research.google/outreach/csrmp/">Google AI</a> and collaborated with <a href = "https://www.microsoft.com/en-us/research/research-area/data-platform-analytics/">Microsoft Research</a> as a Data Science Intern.</p>
 <p style="text-align: justify; hyphens: auto;">
 I also did research in Numerical Algorithms affiliated with the Pacific Institute of Mathematical Sciences <a href = "https://www.pims.math.ca/">(PIMS)</a> and the Applied Mathematics Institute <a href = "https://sites.ualberta.ca/~yauwong/AMI.htm">(AMI)</a> where I better contributed to the understanding and developing algorithms for Quasi - Linear PDE's, climate forecasting (AI Computational Team - <a href = "https://www.wishartlab.com/">Wishart Lab</a>), Healthcare (<a href = "https://thecvc.ca/">Canadian VIGOUR center</a>) and Explainable AI <a href = "https://sites.ualberta.ca/~amiixai/">(xAI)</a>.
 </p>
@@ -30,7 +30,7 @@ Feel free to contact me if any of these interests align with your research or if
 </p>
 </p>
 <p style="margin-bottom:4cm;">
-Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/Robertljg">@Robertljg</a> | LinkedIn: <a href = "https://www.linkedin.com/in/robertljg/">Robertj</a> | Github: <a href = "https://github.com/Robertboy18">@Robertboy18</a> | Academic: <a href = "https://www.robertj1.com/assets/pdf/resume1.pdf">CV</a>
+Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/Robertljg">@Robertljg</a> | LinkedIn: <a href = "https://www.linkedin.com/in/robertljg/">Robertj</a> | Github: <a href = "https://github.com/Robertboy18">@Robertboy18</a> | Academic: <a href = "https://www.robertj1.com/assets/pdf/academic_cv">CV</a>
 
 <!--
 <script src="https://apps.elfsight.com/p/platform.js" defer></script>
