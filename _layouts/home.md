@@ -4,9 +4,9 @@ home: true
 ---
 <h1>Robert Joseph</h1>
 
-<img align="left" width="193" height="225" src="https://www.robertj1.com/assets/img/pic2.jpg" vspace="0" hspace="0"/>
+<img align="left" width="193" height="225" src="https://www.robertj1.com/assets/img/robertpic.jpeg" vspace="0" hspace="0"/>
 <p>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. Math &s CS, <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Sep 2023 - Present)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. Math & CS, <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Sep 2023 - Present)
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B.Sc Honors Math & CS, First Class, <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (Sep 2019 - May 2023)
 </p>
@@ -25,18 +25,15 @@ I used to work with Professor <a href = "http://webdocs.cs.ualberta.ca/~whitem/"
 I also did research in Numerical Algorithms affiliated with the Pacific Institute of Mathematical Sciences <a href = "https://www.pims.math.ca/">(PIMS)</a> and the Applied Mathematics Institute <a href = "https://sites.ualberta.ca/~yauwong/AMI.htm">(AMI)</a> where I better contributed to the understanding and developing algorithms for Quasi - Linear PDE's, climate forecasting (AI Computational Team - <a href = "https://www.wishartlab.com/">Wishart Lab</a>), Healthcare (<a href = "https://thecvc.ca/">Canadian VIGOUR center</a>) and Explainable AI <a href = "https://sites.ualberta.ca/~amiixai/">(xAI)</a>.
 </p>
 <p style="text-align: justify; hyphens: auto;">
-I also am interested in giving back to the community by teaching and mentoring students and sharing my love for <a href = "https://www.robertj1.com/service/">Mathematics and Computer Science</a> and co-leading the ML Theory Reading Group at <a href="https://cohere.for.ai/">Cohere for AI</a>.
+I also am interested in giving back to the community by teaching and mentoring students and sharing my love for AI4Science & Math. Used to co-lead the ML Theory Reading Group at <a href="https://cohere.for.ai/">Cohere for AI</a>.
 Feel free to contact me if any of these interests align with your research or if you have any questions. I am always open to new opportunities and collaborations.
 </p>
 </p>
 <p style="margin-bottom:4cm;">
 Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/Robertljg">@Robertljg</a> | LinkedIn: <a href = "https://www.linkedin.com/in/robertljg/">Robertj</a> | Github: <a href = "https://github.com/Robertboy18">@Robertboy18</a> | Academic: <a href = "https://www.robertj1.com/assets/pdf/academic_cv">CV</a>
 
-<!--
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<p class="elfsight-app-b13063fd-194b-41ac-a7f5-7c5932cf93f7"></p>
--->
-<!--<h4 class="posts-item-note">Recent Posts</h4>
+<!--<p class="elfsight-app-b13063fd-194b-41ac-a7f5-7c5932cf93f7"></p>
+<h4 class="posts-item-note">Recent Posts</h4>
 {% for post in site.posts limit:11%}
 <article class="post-item" align = "center">
   <span class="post-item-date" align = "center">{{ post.date  | date: "%b %d, %Y" }}</span>
@@ -44,7 +41,4 @@ Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/
     <a href="{{ post.url }}">{{ post.title | escape }}</a>
   </h4>
 </article>
-{% endfor %}
--->
-
-<!--<h4 class="posts-item-note" href = "/resume">All Posts</h4>-->
+{% endfor %}-->
