@@ -10,18 +10,17 @@ comments: false
 <hr>
 
 # Conference Proceedings
-**George, Robert Joseph**. "EDCDE - Extended Discovery of Closed-Form Differential Equations". *ICLR Tiny Paper*, 2023. [[Paper](https://openreview.net/forum?id=EVz_vcZQvvg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FTinyPapers%2FAuthors%23your-submissions))], [[Codebase](https://github.com/Robertboy18/EDCDE-ICLR-2023)]
+Rahman, Md Ashiqur, **George, Robert Joseph**, Anima Anandkumar et al. "Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs." NeurIPS, 2024. [[Paper](https://arxiv.org/abs/2403.12553)], [[Codebase](https://github.com/ashiq24/CoDA-NO)]
 
 **George, Robert Joseph**, Jiawei Zhao, Jean Kossafii, Zongyi Li and Anima Anandkumar. "Incremental Spatial and Spectral Learning of Neural Operators for Solving Large-Scale PDEs". *Transactions of Machine Learning Research*, 2024. [[Paper](https://arxiv.org/pdf/2211.15188.pdf)], [[Codebase](https://github.com/neuraloperator/neuraloperator)]
+
+**George, Robert Joseph**. "EDCDE - Extended Discovery of Closed-Form Differential Equations". *ICLR Tiny Paper*, 2023. [[Paper](https://openreview.net/forum?id=EVz_vcZQvvg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FTinyPapers%2FAuthors%23your-submissions))], [[Codebase](https://github.com/Robertboy18/EDCDE-ICLR-2023)]
 <hr>
 
 # Workshops
 Jiawei Zhao, **George, Robert Joseph**, Yifei Zhang, Zongyi Li and Anima Anandkumar. "Incremental Fourier Neural Operator". *NeurIPS 2022 Workshop AI4Science*, 2022. [[Paper](https://arxiv.org/pdf/2211.15188.pdf)], [[NeurIPS](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=57971)]
 
 **George, Robert Joseph**, Martha White, Adam White and Samuel Neumann. "Making Reinforcement Learning Experiments More Reproducible and Computationally Efficient". *Reverse Expo*, Alberta Machine Intelligence Institute, 2022. [[Poster](https://www.robertj1.com/assets/pdf/RL-Poster.pdf)], [[Codebase](https://github.com/Robertboy18/MinAtar-Faster)]
-
-# Arxiv Preprints
-Rahman, Md Ashiqur, **George, Robert Joseph**, Anima Anandkumar et al. "Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs." arXiv preprint, 2024. [[Paper](https://arxiv.org/abs/2403.12553)], [[Codebase](https://github.com/ashiq24/CoDA-NO)]
 
 <hr>
 
