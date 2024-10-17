@@ -10,9 +10,6 @@ comments: false
 <hr>
 
 # Under submission
-
-**George, Robert Joseph**, David Pitt, Anima Anandkumar et al. "Tensor-GaLore: Memory-Efficient Training via Gradient Tensor Decomposition"
-
 Kumarappan, Adarsh, **George, Robert Joseph**, Anima Anandkumar et al. "	
 LeanAgent: Lifelong Learning for Formal Theorem Proving"
 
@@ -25,6 +22,8 @@ Rahman, Md Ashiqur, **George, Robert Joseph**, Anima Anandkumar et al. "Pretrain
 <hr>
 
 # Workshops
+**George, Robert Joseph**, David Pitt, Anima Anandkumar et al. "Tensor-GaLore: Memory-Efficient Training via Gradient Tensor Decomposition", NeurIPS Optimization for Machine Learning Workshop, 2024. [[Paper](https://openreview.net/forum?id=sBaUZzZXJN&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FWorkshop%2FOPT%2FAuthors%23your-submissions))]
+
 Jiawei Zhao, **George, Robert Joseph**, Yifei Zhang, Zongyi Li and Anima Anandkumar. "Incremental Fourier Neural Operator". *NeurIPS 2022 Workshop AI4Science*, 2022. [[Paper](https://arxiv.org/pdf/2211.15188.pdf)], [[NeurIPS](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=57971)]
 
 **George, Robert Joseph**, Martha White, Adam White and Samuel Neumann. "Making Reinforcement Learning Experiments More Reproducible and Computationally Efficient". *Reverse Expo*, Alberta Machine Intelligence Institute, 2022. [[Poster](https://www.robertj1.com/assets/pdf/RL-Poster.pdf)], [[Codebase](https://github.com/Robertboy18/MinAtar-Faster)]
