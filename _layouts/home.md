@@ -6,18 +6,18 @@ home: true
 
 <img align="left" width="193" height="225" src="https://www.robertj1.com/assets/img/robert.jpg" vspace="0" hspace="0"/>
 <p>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D. Math & CS, <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Sep 2023 - Present)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ph.D. Math & CS, <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Sep 2023 - Present)
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B.Sc Honors Math & CS, First Class, <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (Sep 2019 - May 2023)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B.Sc Honors Math & CS, First Class, <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (Sep 2019 - May 2023)
 </p>
 <br>
 <br>
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; <a href = "https://www.robertj1.com/news/">[News]</a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href = "https://www.robertj1.com/news/">[News]</a>
 <br>
 <p style="text-align:justify; hyphens: auto;" hspace="30">
-I am a Ph.D. student in Mathematics and Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar (Nvidia)</a>. I work in the Artificial Intelligence and Machine Learning Group <a href="https://www.cms.caltech.edu/research/artificial-intelligence-and-machine-learning">(AI4Science)</a> group. I graduated with the Dean's Silver Medal in Science from the University of Alberta with a degree in Honors Mathematics and Computer Science. My research interests include Deep Learning, Neural Operators, AI4Science (Theory + Applications), AI4Math (Theorem proving in Lean + Autoformalization), LLM reasoning and Optimization and efficient training of foundational models. 
+I am a 2nd year Ph.D. student in Mathematics and Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar (Nvidia)</a>. I work in the Artificial Intelligence and Machine Learning Group <a href="https://www.cms.caltech.edu/research/artificial-intelligence-and-machine-learning">(AI4Science)</a> group. I graduated with the Dean's Silver Medal in Science from the University of Alberta with a degree in Honors Mathematics and Computer Science. My research interests include Deep Learning, Neural Operators, AI4Science (Theory + Applications), AI4Math (Theorem proving in Lean + Autoformalization), LLM reasoning, optimization and efficient training of foundational models. 
 
 </p>
 <p style="text-align: justify; hyphens: auto;">
