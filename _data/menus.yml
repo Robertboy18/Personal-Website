@@ -6,9 +6,9 @@
   url: /research/
   external: false
 
-- title: News
-  url: /news/
-  external: false
+#- title: News
+#  url: /news/
+#  external: false
 
 - title: AI4Science+Math
   url: /ai4science/
