@@ -6,9 +6,9 @@
   url: /research/
   external: false
 
-- title: News
-  url: /news/
-  external: false
+#- title: News
+#  url: /news/
+#  external: false
 
 - title: AI4Science+Math
   url: /ai4science/
@@ -18,9 +18,9 @@
   url: /ml/
   external: false # set true if you using external link, see bellow
 
-- title: Outreach
-  url: /service/
-  external: false # set true if you using external link, see bellow
+#- title: Outreach
+#  url: /service/
+#  external: false # set true if you using external link, see bellow
 
 #- title: Resume
 #  url: /resume/
