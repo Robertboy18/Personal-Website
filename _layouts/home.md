@@ -18,10 +18,10 @@ home: true
 <br>
 <p style="text-align:justify; hyphens: auto;" hspace="30">
 I am a 2nd year Ph.D. student in Math & Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar (Nvidia)</a>. I work in the Artificial Intelligence and Machine Learning Group <a href="https://www.cms.caltech.edu/research/artificial-intelligence-and-machine-learning">(AI4Science)</a> group. I graduated with the Dean's Silver Medal in Science from the University of Alberta with a degree in Honors Math & Computer Science. I have 3 main research interests:
-
-- AI4Science (Theory + Applications + Neural Operators).
-- AI4Math (Theorem proving in Lean + Autoformalization + LLM reasoning).
-- Optimization and Efficient training of Foundational models.
+<br>
+&nbsp; &nbsp; &nbsp; 1. AI4Science (Theory + Applications + Neural Operators).<br>
+&nbsp; &nbsp; &nbsp; 2. AI4Math (Theorem proving in Lean + Autoformalization + LLM reasoning).<br>
+&nbsp; &nbsp; &nbsp; 3. Optimization and Efficient training of Foundational models.
 
 </p>
 <p style="text-align: justify; hyphens: auto;">
