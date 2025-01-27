@@ -9,11 +9,10 @@ comments: false
 ## For an updated list of my research, see my [Google Scholar](https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=5P1Uwy4AAAAJ) page.
 <hr>
 
-# Under submission
-Kumarappan, Adarsh, **George, Robert Joseph**, Anima Anandkumar et al. "	
-LeanAgent: Lifelong Learning for Formal Theorem Proving"
 
 # Conference Proceedings
+Kumarappan, Adarsh, **George, Robert Joseph**, Anima Anandkumar et al. "LeanAgent: Lifelong Learning for Formal Theorem Proving", ICLR, 2025. [[Paper](https://openreview.net/pdf?id=Uo4EHT4ZZ8)]
+
 Rahman, Md Ashiqur, **George, Robert Joseph**, Anima Anandkumar et al. "Pretraining Codomain Attention Neural Operators for Solving Multiphysics PDEs." NeurIPS, 2024. [[Paper](https://arxiv.org/abs/2403.12553)], [[Codebase](https://github.com/ashiq24/CoDA-NO)]
 
 **George, Robert Joseph**, Jiawei Zhao, Jean Kossafii, Zongyi Li and Anima Anandkumar. "Incremental Spatial and Spectral Learning of Neural Operators for Solving Large-Scale PDEs". *Transactions of Machine Learning Research*, 2024. [[Paper](https://arxiv.org/pdf/2211.15188.pdf)], [[Codebase](https://github.com/neuraloperator/neuraloperator)]

@@ -5,6 +5,8 @@ layout: page
 excerpt: News
 ---
 <h4 class="posts-item-note">Recent News</h4>
+- [December 2024] Attended NeurIPS in Vancouver and presented a workshop paper and main conference paper.
+- [November 2024] Attended the Deep Learning for Mathematics workshop at UCLA. 
 - [October 2024] Invited as a speaker to give a talk on Neural Operators: Machine Learning in Function spaces at <a href = "https://ml.jpl.nasa.gov/index.html">NASA JPL</a>. Slides here: <a href="https://www.robertj1.com/assets/pdf/Neural_Operators_jpl.pdf">JPL</a>.<br>
 - [October 2024] Attending the <a href = "https://www.ima.umn.edu/2024-2025/W10.25-29.24">Mathematics of Deep Learning Workshop</a> at the Institute for Mathematics and its Applications (UCLA).<br>
 - [August 2024] Research updates: iFNO got accepted at TMLR, and CoDA-NO got accepted at NeurIPS.<br>
