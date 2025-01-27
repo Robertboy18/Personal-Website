@@ -54,10 +54,16 @@ Western Summer School in Algebra, University of Alberta, 2020.
 
 # Reviewer Service
 
-- NeurIPS 2024 (Best Reviewer Award), 2025
-- NeurIPS D3S3 Workshop 2024, MATH-AI Workshop 2024
-- ICLR 2024, 2025
-- ICML 2023, 2024, 2025
-- AISTATS 2025
-- TMLR (2025 - Ongoing)
-- JMLR (2022 - Ongoing)
+NeurIPS 2024 (Best Reviewer Award), 2025
+
+NeurIPS D3S3 Workshop 2024, MATH-AI Workshop 2024
+
+ICLR 2024, 2025
+
+ICML 2023, 2024, 2025
+
+AISTATS 2025
+
+TMLR (2025 - Ongoing)
+
+JMLR (2022 - Ongoing)

@@ -5,8 +5,83 @@ layout: page
 excerpt: Courses & Teaching Assistant
 comments: false
 ---
+## Caltech
 <p style="text-align:justify; hyphens: auto;" hspace="30">
-Important courses that I took at the University of Alberta. The courses that I TA'ed are bolded. If a number is in brackets it means I TA'ed the course twice, and DR signifies TA'ed the course in <a href ="https://www.ualberta.ca/mathematical-and-statistical-sciences/undergraduate-studies/decima-support-centre/index.html"> Decima Robinson Support Center</a>. Most of the information is directly referenced from the University of Alberta's course <a href = "https://apps.ualberta.ca/catalogue/course/math">catalogue</a>.</p>
+The courses that I TA'ed are bolded. If a number is in brackets it means I TA'ed the course more than once. Most of the information is directly referenced from the Caltech's course<a href = "https://www.catalog.caltech.edu/"> catalogue</a>.</p>
+
+<hr>
+<html>
+<head>
+<style>
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: transparent;
+  font-size: 15px;
+  transition: background-color 0.1s;
+}
+
+.active, .collapsible:hover {
+  background-color: transparent;
+  outline: transparent;
+  color: blue;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  outline: transparent;
+  background-color: #f9f9f9;
+}
+</style>
+</head>
+<body>
+
+<button class="collapsible">Fall 2024</button>
+<div class="content">
+  <ul>
+    <li>ACM 117 - Probability Theory and Computational 
+Mathematics</li>
+  </ul>
+</div>
+
+<button class="collapsible">Spring 2024</button>
+<div class="content">
+  <ul>
+    <li>CS 159 - Advanced Topics in Machine Learning (LLM Inference And Reasoning)</li>
+    <li>CS 148 - Advanced Topics in Vision: Large Language 
+and Vision Models</li>
+  </ul>
+</div>
+
+<button class="collapsible">Winter 2024</button>
+<div class="content">
+  <ul>
+    <li>CMS 155 -Machine Learning & Data Mining</li>
+    <li>CMS 144 - Networks: Structure & Economics</li>
+    <li><strong>CS 165 - Foundations of Machine Learning and 
+Statistical Inference</strong></li>
+  </ul>
+</div>
+
+<button class="collapsible">Fall 2023</button>
+<div class="content">
+  <ul>
+    <li>ACM 101A - Methods of Applied Mathematics</li>
+    <li>CMS 122 - Mathematical Optimization</li>
+    <li>CMS 107A - Linear Analysis</li>
+  </ul>
+</div>
+
+## University of Alberta
+<p style="text-align:justify; hyphens: auto;" hspace="30">
+The courses that I TA'ed are bolded. If a number is in brackets it means I TA'ed the course twice, and DR signifies TA'ed the course in <a href ="https://www.ualberta.ca/mathematical-and-statistical-sciences/undergraduate-studies/decima-support-centre/index.html"> Decima Robinson Support Center</a>. Most of the information is directly referenced from the University of Alberta's course <a href = "https://apps.ualberta.ca/catalogue/course/math">catalogue</a>.</p>
 <hr>
 
 
@@ -143,12 +218,3 @@ for (i = 0; i < coll.length; i++) {
 
 </body>
 </html>
-
-
-<hr>
-Grateful for the courses that I took and the wonderful Professors who taught me.
-<hr>
-
-<img src = "https://www.ualberta.ca/folio/media-library/2020/05/200514-ualberta-fall2020-classes-banner.jpg">
-
--Robert
