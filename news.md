@@ -5,6 +5,8 @@ layout: page
 excerpt: News
 ---
 <h4 class="posts-item-note">Recent News</h4>
+- [March 2025] Accepted to work as a Research Scientist at Amazon in NYC this summer with the Reinformcement Learning + Automated Reasoning Teams.
+- [January 2025] LeanAgent has been accepted to ICLR 2025 in Singapore. See you all there.
 - [December 2024] Attended NeurIPS in Vancouver and presented a workshop paper and main conference paper.
 - [November 2024] Attended the Deep Learning for Mathematics workshop at UCLA. 
 - [October 2024] Invited as a speaker to give a talk on Neural Operators: Machine Learning in Function spaces at <a href = "https://ml.jpl.nasa.gov/index.html">NASA JPL</a>. Slides here: <a href="https://www.robertj1.com/assets/pdf/Neural_Operators_jpl.pdf">JPL</a>.<br>
