@@ -10,7 +10,10 @@ comments: false
 <hr>
 
 # Preprints
-Suozhi Huang, **George, Robert Joseph**, Anima Anandkumar et al. “ LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction”, *under review*, 2025.
+Suozhi Huang, **George, Robert Joseph**, Anima Anandkumar et al. “ LeanProgress: Guiding Search for Neural Theorem Proving via Proof Progress Prediction”, *under review*, 2025. [[Paper](https://arxiv.org/abs/2502.17925)]
+
+Kossaifi, Jean, **George, Robert Joseph**, Anima Anandkumar et al. "A library for learning neural operators." *under review*, 2024. [[Paper](https://arxiv.org/abs/2412.10354)]
+
 
 # Conference Proceedings
 Kumarappan, Adarsh, **George, Robert Joseph**, Anima Anandkumar et al. "LeanAgent: Lifelong Learning for Formal Theorem Proving", *ICLR*, 2025. [[Paper](https://openreview.net/pdf?id=Uo4EHT4ZZ8)]
