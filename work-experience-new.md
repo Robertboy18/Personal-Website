@@ -12,7 +12,7 @@ excerpt: mltheory
   }
 </style>
 
-I am one of the co-leads for the ML Theory Learning group at [Cohere For AI](https://cohere.for.ai/) and we will be having our sessions bi-weekly from 2 - 3 pm MST! If you aren't a part of this wonderful community, do apply through this [form](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) to join us. 
+I used to one of the co-leads for the ML Theory Learning group at [Cohere For AI](https://cohere.for.ai/) and we used to have our sessions bi-weekly from 2 - 3 pm MST! If you aren't a part of this wonderful community, do apply through this [form](https://share.hsforms.com/10OrjljwpQ52ILJA6ftENIwch5vw) to join us. 
 
 <img src = "https://i.ibb.co/ZMzFgB5/MLTheory-Learning-Group-Discord.png" class="centered-image">
 
@@ -231,8 +231,6 @@ We had the ML Theory Learning group's first session, which was a great success. 
 <div class="centered-text">
   We are a non-profit ML research lab and community exploring the unknown, together.
 </div>
-
-<img src="https://cdn.sanity.io/images/rjtqmwfu/production/fafceee94eba9de42014ac3e4c79738e4f3dcb83-1600x1200.png?rect=0,180,1600,840&w=1200&h=630" alt="Image" class="centered-image">
 
 <script>
 
