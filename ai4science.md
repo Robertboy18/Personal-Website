@@ -16,7 +16,6 @@ excerpt: ai4science
   }
 </style>
 
-# AI4Science + Math
 <div style="display: flex;">
   <img src="https://www.robertj1.com/assets/img/operator.jpg" vspace="0"  hspace="0" style="flex: 1;" class="small-image">
   <img src="https://www.robertj1.com/assets/img/lean.jpg" vspace="0"  hspace="0" style="flex: 1;" class="small-image">
@@ -80,4 +79,3 @@ excerpt: ai4science
     });
   }
 </script>
-```
