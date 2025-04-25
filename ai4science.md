@@ -1,5 +1,5 @@
 ---
-title: AI4Science + Math
+title: AI4Science + Mathematics
 permalink: /ai4science/
 layout: page
 excerpt: ai4science
@@ -57,7 +57,7 @@ excerpt: ai4science
     <li><strong>Lean Copilot</strong>: integrating LLMs to autocomplete tactics and suggest proof steps in Lean.</li>
     <li><strong>Lean Agent</strong>: a lifelong learning framework for theorem proving (Kumarappan et al., ICLR 2025).</li>
     <li><strong>Lean Dojo</strong>: interactive dashboards for visualizing proof search and tactic performance.</li>
-    <li>Formalization of core AI4Science constructs (e.g., neural operators) in Lean to guarantee correctness.</li>
+    <li><strong>Lean Progress</strong>: first of a kind reward model that predicts how much progress you can make on a Lean proof.</li>
   </ul>
 </div>
 
