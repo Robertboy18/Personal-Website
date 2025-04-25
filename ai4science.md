@@ -21,7 +21,8 @@ excerpt: ai4science
   <img src="https://www.robertj1.com/assets/img/lean.jpg" vspace="0"  hspace="0" style="flex: 1;" class="small-image">
 </div>
 
-
+<html>
+<head>
 <style>
   .collapsible {
     background-color: #eee;
@@ -46,6 +47,8 @@ excerpt: ai4science
     margin-bottom: 1em;
   }
 </style>
+</head>
+<body>
 
 <button class="collapsible">AI4Math</button>
 <div class="content">
@@ -70,12 +73,22 @@ excerpt: ai4science
 </div>
 
 <script>
-  var coll = document.getElementsByClassName("collapsible");
-  for (var i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var content = this.nextElementSibling;
-      content.style.display = content.style.display === "block" ? "none" : "block";
-    });
-  }
+
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
 </script>
+
+</body>
+</html>
