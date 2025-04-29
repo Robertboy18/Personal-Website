@@ -39,36 +39,3 @@ Jiawei Zhao, **George, Robert Joseph**, Yifei Zhang, Zongyi Li and Anima Anandku
 
 **George, Robert Joseph**, and Xinwei Yu. “Numerical Analysis for real-time Nonlinear Model Predictive Control of Ethanol Steam Reformers”. *Canadian Undergraduate Mathematics Conference*, 2022. [[Presentation](https://www.robertj1.com/assets/pdf/CUMC-2022-Presentation.pdf)], [[Paper](https://arxiv.org/abs/2210.13745)]
 <hr>
-
-# Talks/Presentations
-Machine Learning in Function Spaces, NASA JPL, 2024.
-
-Foundational Models for PDEs, Scientific Foundation Models, University of Michigan, 2024.
-
-Foundational Models for PDEs, MURI, Caltech, 2024.
-
-CoDomain Attention Neural Operator, AI+Science, University of Chicago, 2024.
-
-Summer School in Logic and Formal Epistemology, Carnegie Mellon University, 2022.
-
-International Undergraduate Summer Enrichment Program, University of Alberta, 2021.
-
-Alberta Number Theory Days XIII, Banff International Research Station for Mathematical Innovation and Discovery, 2021.
-
-Western Summer School in Algebra, University of Alberta, 2020.
-
-# Reviewer Service
-
-NeurIPS 2024 (Best Reviewer Award), 2025
-
-NeurIPS D3S3 Workshop 2024, MATH-AI Workshop 2024
-
-ICLR 2024, 2025
-
-ICML 2023, 2024, 2025
-
-AISTATS 2025
-
-TMLR (2025 - Ongoing)
-
-JMLR (2022 - Ongoing)

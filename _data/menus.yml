@@ -26,8 +26,8 @@
 #  url: /resume/
 #  external: false
 
-- title: Projects
-  url: /projects/
+- title: Talks
+  url: /talks/
   external: false # set true if you using external link, see bellow
 
 - title: Reading

@@ -6,6 +6,7 @@ excerpt: News
 ---
 <h4 class="posts-item-note">Recent News</h4>
 - [May 2025] Will be attending the Algorithmic stability: Mathematical foundations for the modern era at the American Insitute of Mathematics.
+- [April 2025] Gave a talk at the Autoformalization for the Working Mathematician workshop at ICERM
 - [April 2025] Attended the Simons Institute for the Theory of Computing and SLMath Joint Workshop: AI for Math and TCS.
 - [March 2025] Accepted to work as a Research Scientist at Amazon in NYC this summer with the Reinformcement Learning + Automated Reasoning Teams.
 - [January 2025] LeanAgent has been accepted to ICLR 2025 in Singapore. See you all there.
