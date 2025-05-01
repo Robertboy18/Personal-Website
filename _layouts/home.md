@@ -8,7 +8,7 @@ home: true
 <p>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Ph.D. Math & CS, <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Sep 2023 - Present)
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;B.Sc Honors Math & CS, First Class, <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (Sep 2019 - May 2023)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B.Sc Honors Math & CS, First Class & Dean's Silver Medal in Science, <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (Sep 2019 - May 2023)
 </p>
 <br>
 <br>
@@ -17,7 +17,7 @@ home: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;<a href = "https://www.robertj1.com/news/">[News]</a>
 <br>
 <p style="text-align:justify; hyphens: auto;" hspace="30">
-I am a 2nd year Ph.D. student in Math & Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar (Nvidia)</a>. I work in the Artificial Intelligence & Machine Learning <a href="https://www.cms.caltech.edu/research/artificial-intelligence-and-machine-learning">(AI4Science)</a> Group. I graduated from the University of Alberta in Honors Math & Computer Science with the Dean's Silver Medal in Science. My main research interests are:
+I am a 2nd year Ph.D. student in Math & Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar (Nvidia)</a> in the Artificial Intelligence & Machine Learning <a href="https://www.cms.caltech.edu/research/artificial-intelligence-and-machine-learning">(AI4Science)</a> Group. My main research interests are:
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;1. AI4Science (Theory + Applications + Neural Operators).<br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;2. AI4Math (Theorem proving in Lean + Formalization + LLM reasoning).<br>

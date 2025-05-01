@@ -6,7 +6,7 @@ excerpt:
 comments: false
 ---
 # Talks/Presentations
-Verified Mathematical Reasoning with Lean and Language Models, ICERM, 2025.
+Verified Mathematical Reasoning with Lean and Language Models, ICERM, Brown University 2025. Talk here: <a href="https://icerm.brown.edu/video_archive/4106">Slides+Video</a>
 
 Machine Learning in Function Spaces, NASA JPL, 2024.
 
