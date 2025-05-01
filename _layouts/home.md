@@ -9,6 +9,8 @@ home: true
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;Ph.D. Math & CS, <a href ="https://cms.caltech.edu/academics/grad_cms"> California Institute of Technology </a> (Sep 2023 - Present)
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;B.Sc Honors Math & CS, First Class, <a href = "https://www.ualberta.ca/index.html"> University of Alberta </a> (Sep 2019 - May 2023)
+<br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; <small>Dean's Silver Medal in Science, [Thesis 1], [Thesis 2]</small>
 </p>
 <br>
 <br>
