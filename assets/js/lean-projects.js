@@ -290,20 +290,26 @@ document.addEventListener('DOMContentLoaded', function() {
         { from: 'leanverify', to: 'leanfoundation' }
     ];
 
-    // Create roadmap elements
+    // DOM elements
     const roadmapEl = document.getElementById('roadmap');
-    const projectDetailsEl = document.getElementById('projectDetails');
-    const projectTitleEl = document.getElementById('projectTitle');
-    const projectContentEl = document.getElementById('projectContent');
+    const libraryEl = document.getElementById('library');
+    const projectTitleEl = document.getElementById('projectTitleTop');
+    const projectContentEl = document.getElementById('projectContentTop');
+    const backButtonContainer = document.getElementById('backButtonContainer');
+    const backButton = document.getElementById('backButton');
+    const btnRoadmap = document.getElementById('btn-roadmap');
+    const btnLibrary = document.getElementById('btn-library');
+    const roadmapView = document.getElementById('roadmapView');
+    const libraryView = document.getElementById('libraryView');
 
-    if (!roadmapEl) {
-        console.error('Roadmap element not found');
+    if (!roadmapEl || !libraryEl) {
+        console.error('Required elements not found');
         return;
     }
 
-    // First create all nodes
+    // Create roadmap nodes
     projects.forEach(project => {
-        console.log("Creating node for project:", project.name);
+        // Create node for roadmap
         const node = document.createElement('div');
         node.id = project.id;
         node.className = `project-node ${project.status === 'completed' ? 'completed' : project.status === 'in-progress' ? 'in-progress' : 'not-started'}`;
@@ -314,9 +320,23 @@ document.addEventListener('DOMContentLoaded', function() {
         node.addEventListener('click', () => showProjectDetails(project));
         
         roadmapEl.appendChild(node);
+        
+        // Create book for library view
+        const book = document.createElement('div');
+        book.className = `book ${project.status}`;
+        book.setAttribute('data-id', project.id);
+        
+        const bookTitle = document.createElement('div');
+        bookTitle.className = 'book-title';
+        bookTitle.textContent = project.name;
+        
+        book.appendChild(bookTitle);
+        book.addEventListener('click', () => showProjectDetails(project));
+        
+        libraryEl.appendChild(book);
     });
 
-    // Draw connections
+    // Draw connections for roadmap
     function drawConnections() {
         // Remove existing connections
         document.querySelectorAll('.connector').forEach(el => el.remove());
@@ -358,11 +378,43 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Initial connection drawing - delay slightly to ensure DOM is ready
+    // Initial connection drawing
     setTimeout(drawConnections, 300);
     
     // Update connections on window resize
     window.addEventListener('resize', drawConnections);
+
+    // Toggle between roadmap and library views
+    btnRoadmap.addEventListener('click', () => {
+        btnRoadmap.classList.add('active');
+        btnLibrary.classList.remove('active');
+        roadmapView.classList.remove('hidden');
+        libraryView.classList.add('hidden');
+        setTimeout(drawConnections, 100);
+    });
+    
+    btnLibrary.addEventListener('click', () => {
+        btnLibrary.classList.add('active');
+        btnRoadmap.classList.remove('active');
+        libraryView.classList.remove('hidden');
+        roadmapView.classList.add('hidden');
+    });
+
+    // Back button functionality
+    backButton.addEventListener('click', () => {
+        projectTitleEl.textContent = 'Select a project to view details';
+        projectContentEl.innerHTML = '<p>Click on any project in the roadmap or library to view its details, status, and progress.</p>';
+        backButtonContainer.classList.add('hidden');
+        
+        // Reset all nodes/books highlighting
+        document.querySelectorAll('.project-node').forEach(node => {
+            node.style.boxShadow = '0 2px 5px rgba(0, 0, 0, 0.1)';
+        });
+        
+        document.querySelectorAll('.book').forEach(book => {
+            book.style.boxShadow = '2px 2px 5px rgba(0,0,0,0.2)';
+        });
+    });
 
     // Show project details
     function showProjectDetails(project) {
@@ -426,15 +478,27 @@ document.addEventListener('DOMContentLoaded', function() {
         `;
         
         projectContentEl.innerHTML = contentHTML;
+        backButtonContainer.classList.remove('hidden');
         
         // Highlight the selected project
         document.querySelectorAll('.project-node').forEach(node => {
             node.style.boxShadow = '0 2px 5px rgba(0, 0, 0, 0.1)';
         });
         
-        document.getElementById(project.id).style.boxShadow = '0 0 15px rgba(0, 120, 255, 0.7)';
+        document.querySelectorAll('.book').forEach(book => {
+            book.style.boxShadow = '2px 2px 5px rgba(0,0,0,0.2)';
+        });
+        
+        // Highlight selected project in roadmap
+        const selectedNode = document.getElementById(project.id);
+        if (selectedNode) {
+            selectedNode.style.boxShadow = '0 0 15px rgba(0, 120, 255, 0.7)';
+        }
+        
+        // Highlight selected book in library
+        const selectedBook = document.querySelector(`.book[data-id="${project.id}"]`);
+        if (selectedBook) {
+            selectedBook.style.boxShadow = '0 0 15px rgba(0, 120, 255, 0.7)';
+        }
     }
-
-    // Check if nodes were created
-    console.log("All nodes created:", document.querySelectorAll('.project-node').length);
 });
