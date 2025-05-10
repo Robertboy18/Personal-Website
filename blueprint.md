@@ -10,11 +10,7 @@ comments: false
 
 <div class="lean-logo">
     <img src="{{ site.baseurl }}/assets/img/lean1.jpg" alt="Lean Logo">
-</div>
-
-<div class="view-toggle">
-    <button id="btn-roadmap" class="active">Roadmap View</button>
-    <button id="btn-library">Library View</button>
+    <div class="subtitle">An open-source functional programming language and interactive theorem prover.</div>
 </div>
 
 <div class="top-details" id="projectDetailsTop">
@@ -25,6 +21,11 @@ comments: false
     <div id="backButtonContainer" class="hidden">
         <button class="back-button" id="backButton">← Back to Overview</button>
     </div>
+</div>
+
+<div class="view-toggle">
+    <button id="btn-roadmap" class="active">Roadmap View</button>
+    <button id="btn-library">Library View</button>
 </div>
 
 <div class="legend">

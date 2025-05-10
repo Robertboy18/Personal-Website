@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Project data structure
+    // Project data structure with improved positioning
     const projects = [
         {
             id: 'leandojo',
             name: 'LeanDojo',
             status: 'completed',
-            position: { x: 50, y: 150 },
+            position: { x: 40, y: 50 },
             description: 'Theorem Proving with Retrieval-Augmented Language Models',
             publication: 'NeurIPS 2023',
             contributors: ['Peiyang', 'Kaiyu'],
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanagent',
             name: 'LeanAgent',
             status: 'completed',
-            position: { x: 50, y: 300 },
+            position: { x: 40, y: 180 },
             description: 'Lifelong Learning for Formal Theorem Proving',
             publication: 'CLR 2025',
             contributors: ['Adarsh', 'Mo', 'Robert'],
@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leancopilot',
             name: 'LeanCopilot',
             status: 'completed',
-            position: { x: 250, y: 100 },
+            position: { x: 240, y: 50 },
             description: 'Code completion for Lean',
             publication: 'Submission to NeuSYS 2025',
             contributors: ['Peiyang'],
@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leancontinue',
             name: 'LeanContinue',
             status: 'in-progress',
-            position: { x: 250, y: 200 },
+            position: { x: 240, y: 180 },
             description: 'Unified interface for all Lean tools',
             publication: 'Paper writing with LeanCopilot (TMLR submission planned)',
             contributors: ['Gavin', 'Peiyang'],
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanformal',
             name: 'LeanFormal',
             status: 'not-started',
-            position: { x: 250, y: 300 },
+            position: { x: 240, y: 310 },
             description: 'Autoformalizer for converting informal proofs to formal proofs',
             publication: 'No submission planned, will be open source',
             contributors: ['Robert', 'Potential Postdoc/SURF'],
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanprogress',
             name: 'LeanProgress',
             status: 'in-progress',
-            position: { x: 250, y: 400 },
+            position: { x: 40, y: 310 },
             description: 'Predicting number of steps to the goal',
             publication: 'Paper submitted to ICML 2025',
             contributors: ['Suozhi', 'Peiyang', 'Robert'],
@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanpde',
             name: 'LeanPDE',
             status: 'in-progress',
-            position: { x: 450, y: 150 },
+            position: { x: 440, y: 50 },
             description: 'Formalizing PDEs in general euclidean spaces',
             publication: 'Target submission NeurIPS 2025 or ICLR 2026',
             contributors: ['Robert', 'Looi'],
@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leannn',
             name: 'LeanNN',
             status: 'in-progress',
-            position: { x: 450, y: 250 },
+            position: { x: 440, y: 180 },
             description: 'Formalizing Neural Networks in Lean',
             publication: 'No target submission yet (class project + SURF)',
             contributors: ['Robert'],
@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leannumerical',
             name: 'LeanNumerical',
             status: 'not-started',
-            position: { x: 450, y: 350 },
+            position: { x: 440, y: 310 },
             description: 'Integrating numerical solvers/ML models with Lean',
             publication: 'No submission planned',
             contributors: ['Robert', 'Potential Postdoc/SURF'],
@@ -225,7 +225,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanverify',
             name: 'LeanVerify',
             status: 'not-started',
-            position: { x: 450, y: 450 },
+            position: { x: 440, y: 440 },
             description: 'Formal verification tools in Lean',
             publication: 'No submission planned',
             contributors: ['Robert', 'Potential Postdoc/SURF'],
@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanfoundation',
             name: 'LeanFoundation',
             status: 'not-started',
-            position: { x: 650, y: 250 },
+            position: { x: 640, y: 180 },
             description: 'Foundational model for Lean',
             publication: 'No submission planned',
             contributors: ['Robert', 'Potential Postdocs/SURFs'],
@@ -307,7 +307,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
     }
 
-    // Create roadmap nodes
+    // Create roadmap nodes and library books
     projects.forEach(project => {
         // Create node for roadmap
         const node = document.createElement('div');
@@ -321,7 +321,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         roadmapEl.appendChild(node);
         
-        // Create book for library view
+        // Create book for library view with horizontal text
         const book = document.createElement('div');
         book.className = `book ${project.status}`;
         book.setAttribute('data-id', project.id);
@@ -378,8 +378,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Initial connection drawing
-    setTimeout(drawConnections, 300);
+    // Initial connection drawing with a longer delay to ensure DOM is ready
+    setTimeout(drawConnections, 500);
     
     // Update connections on window resize
     window.addEventListener('resize', drawConnections);
@@ -390,7 +390,7 @@ document.addEventListener('DOMContentLoaded', function() {
         btnLibrary.classList.remove('active');
         roadmapView.classList.remove('hidden');
         libraryView.classList.add('hidden');
-        setTimeout(drawConnections, 100);
+        setTimeout(drawConnections, 300);
     });
     
     btnLibrary.addEventListener('click', () => {
@@ -500,5 +500,17 @@ document.addEventListener('DOMContentLoaded', function() {
         if (selectedBook) {
             selectedBook.style.boxShadow = '0 0 15px rgba(0, 120, 255, 0.7)';
         }
+        
+        // Scroll to top of details
+        window.scrollTo({
+            top: document.getElementById('projectDetailsTop').offsetTop - 20,
+            behavior: 'smooth'
+        });
     }
+    
+    // Add scroll-to-top behavior after page load
+    window.addEventListener('load', function() {
+        // Draw connections again after everything is loaded
+        drawConnections();
+    });
 });
