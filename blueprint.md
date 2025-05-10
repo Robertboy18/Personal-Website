@@ -10,7 +10,6 @@ comments: false
 
 <div class="lean-logo">
     <img src="{{ site.baseurl }}/assets/img/lean1.jpg" alt="Lean Logo">
-    <div class="subtitle">An open-source functional programming language and interactive theorem prover.</div>
 </div>
 
 <div class="top-details" id="projectDetailsTop">
