@@ -273,21 +273,31 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     ];
 
-    // Define connections between projects
+    // Define sequential flow connections between projects
     const connections = [
-        { from: 'leandojo', to: 'leancopilot' },
-        { from: 'leandojo', to: 'leanagent' },
-        { from: 'leancopilot', to: 'leancontinue' },
-        { from: 'leanprogress', to: 'leancopilot' },
-        { from: 'leancontinue', to: 'leanformal' },
-        { from: 'leanagent', to: 'leanformal' },
-        { from: 'leanpde', to: 'leannn' },
-        { from: 'leannn', to: 'leannumerical' },
-        { from: 'leannumerical', to: 'leanverify' },
-        { from: 'leanpde', to: 'leanfoundation' },
-        { from: 'leannn', to: 'leanfoundation' },
-        { from: 'leannumerical', to: 'leanfoundation' },
-        { from: 'leanverify', to: 'leanfoundation' }
+        // Primary path from LeanDojo to LeanFoundation
+        { from: 'leandojo', to: 'leancopilot', type: 'main' },
+        { from: 'leancopilot', to: 'leancontinue', type: 'main' },
+        { from: 'leancontinue', to: 'leanformal', type: 'main' },
+        { from: 'leanformal', to: 'leanfoundation', type: 'main' },
+        
+        // Secondary path through LeanAgent
+        { from: 'leandojo', to: 'leanagent', type: 'secondary' },
+        { from: 'leanagent', to: 'leanformal', type: 'secondary' },
+        
+        // LeanProgress integration
+        { from: 'leanprogress', to: 'leancopilot', type: 'secondary' },
+        
+        // Technical path through PDE
+        { from: 'leanpde', to: 'leannn', type: 'main' },
+        { from: 'leannn', to: 'leannumerical', type: 'main' },
+        { from: 'leannumerical', to: 'leanverify', type: 'main' },
+        { from: 'leanverify', to: 'leanfoundation', type: 'main' },
+        
+        // Direct connections to foundation
+        { from: 'leanpde', to: 'leanfoundation', type: 'secondary' },
+        { from: 'leannn', to: 'leanfoundation', type: 'secondary' },
+        { from: 'leannumerical', to: 'leanfoundation', type: 'secondary' }
     ];
 
     // DOM elements
@@ -313,7 +323,13 @@ document.addEventListener('DOMContentLoaded', function() {
         const node = document.createElement('div');
         node.id = project.id;
         node.className = `project-node ${project.status === 'completed' ? 'completed' : project.status === 'in-progress' ? 'in-progress' : 'not-started'}`;
-        node.textContent = project.name;
+        
+        // Create a label for the project name to ensure visibility
+        const nodeLabel = document.createElement('div');
+        nodeLabel.className = 'project-label';
+        nodeLabel.textContent = project.name;
+        node.appendChild(nodeLabel);
+        
         node.style.left = project.position.x + 'px';
         node.style.top = project.position.y + 'px';
         
@@ -321,7 +337,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         roadmapEl.appendChild(node);
         
-        // Create book for library view with horizontal text
+        // Create book for library view
         const book = document.createElement('div');
         book.className = `book ${project.status}`;
         book.setAttribute('data-id', project.id);
@@ -336,7 +352,7 @@ document.addEventListener('DOMContentLoaded', function() {
         libraryEl.appendChild(book);
     });
 
-    // Draw connections for roadmap
+    // Draw connections for roadmap with enhanced design for sequential flow
     function drawConnections() {
         // Remove existing connections
         document.querySelectorAll('.connector').forEach(el => el.remove());
@@ -359,7 +375,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 // Create line element
                 const line = document.createElement('div');
-                line.className = 'connector';
+                line.className = `connector ${conn.type}`;
                 
                 // Calculate line properties
                 const length = Math.sqrt(Math.pow(toX - fromX, 2) + Math.pow(toY - fromY, 2));
@@ -367,11 +383,27 @@ document.addEventListener('DOMContentLoaded', function() {
                 
                 // Set line position and dimensions
                 line.style.width = length + 'px';
-                line.style.height = '2px';
+                line.style.height = conn.type === 'main' ? '3px' : '2px';
                 line.style.left = fromX + 'px';
                 line.style.top = fromY + 'px';
                 line.style.transform = `rotate(${angle}deg)`;
                 line.style.transformOrigin = '0 0';
+                
+                // Add arrow head for the main flow
+                if (conn.type === 'main') {
+                    const arrow = document.createElement('div');
+                    arrow.className = 'arrow-head';
+                    
+                    // Position the arrow at the end of the line
+                    const arrowX = toX - 10 * Math.cos(angle * Math.PI / 180);
+                    const arrowY = toY - 10 * Math.sin(angle * Math.PI / 180);
+                    
+                    arrow.style.left = arrowX + 'px';
+                    arrow.style.top = arrowY + 'px';
+                    arrow.style.transform = `rotate(${angle + 90}deg)`;
+                    
+                    roadmapEl.appendChild(arrow);
+                }
                 
                 roadmapEl.appendChild(line);
             }

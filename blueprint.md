@@ -43,6 +43,17 @@ comments: false
     </div>
 </div>
 
+<div class="path-legend">
+    <div class="legend-item">
+        <div class="line-sample main"></div>
+        <div>Primary Path</div>
+    </div>
+    <div class="legend-item">
+        <div class="line-sample secondary"></div>
+        <div>Secondary Path</div>
+    </div>
+</div>
+
 <div id="roadmapView">
     <div class="roadmap-container">
         <div class="roadmap" id="roadmap">
@@ -58,3 +69,32 @@ comments: false
 </div>
 
 <script src="{{ site.baseurl }}/assets/js/lean-projects.js"></script>
+
+<style>
+/* Additional inline styles for the path legend */
+.path-legend {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto 30px;
+    gap: 20px;
+    background-color: #f5f5f5;
+    padding: 15px;
+    border-radius: 8px;
+    max-width: 500px;
+}
+
+.line-sample {
+    width: 30px;
+    height: 3px;
+    margin: auto 0;
+}
+
+.line-sample.main {
+    background-color: #3498db;
+}
+
+.line-sample.secondary {
+    background-color: #aaaaaa;
+    opacity: 0.7;
+}
+</style>
