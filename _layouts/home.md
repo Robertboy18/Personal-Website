@@ -14,7 +14,6 @@ home: true
 <br>
 <br>
 <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;<a href = "https://www.robertj1.com/news/">[News]</a>
 <br>
 <p style="text-align:justify; hyphens: auto;" hspace="30">
 I am a 2nd year Ph.D. student in Math & Computer Science at Caltech under Professor <a href = "http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar (Nvidia)</a>. I work in the Artificial Intelligence & Machine Learning <a href="https://www.cms.caltech.edu/research/artificial-intelligence-and-machine-learning">(AI4Science)</a> Group. I graduated from the University of Alberta in Honors Math & Computer Science with the Dean's Silver Medal in Science. My main research interests are:
@@ -33,7 +32,7 @@ Feel free to contact me if any of these interests align with your research or if
 </p>
 </p>
 <p style="margin-bottom:2cm;">
-Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/Robertljg">@Robertljg</a> | LinkedIn: <a href = "https://www.linkedin.com/in/robertljg/">Robertj</a> | Github: <a href = "https://github.com/Robertboy18">@Robertboy18</a> | Academic: <a href = "https://www.robertj1.com/assets/pdf/academic_cv.pdf">CV</a>
+<strong>Email:</strong> rgeorge (at) caltech (dot) edu | <strong>Twitter:</strong> <a href = "https://twitter.com/Robertljg">@Robertljg</a> | <strong>LinkedIn:</strong> <a href = "https://www.linkedin.com/in/robertljg/">Robertj</a> | <strong>Github:</strong> <a href = "https://github.com/Robertboy18">@Robertboy18</a> | <strong>Academic:</strong> <a href = "https://www.robertj1.com/assets/pdf/academic_cv.pdf">CV</a>
 </p>
 
 <div class="news-section">
