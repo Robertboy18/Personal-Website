@@ -317,7 +317,7 @@ document.addEventListener('DOMContentLoaded', function() {
         return;
     }
 
-    // Create roadmap nodes and library books
+    // Create book for library view with visible text
     projects.forEach(project => {
         // Create node for roadmap
         const node = document.createElement('div');
@@ -337,18 +337,23 @@ document.addEventListener('DOMContentLoaded', function() {
         
         roadmapEl.appendChild(node);
         
-        // Create book for library view
+        // Create book for library view with improved text visibility
         const book = document.createElement('div');
         book.className = `book ${project.status}`;
         book.setAttribute('data-id', project.id);
         
+        // Create title element with improved visibility
         const bookTitle = document.createElement('div');
         bookTitle.className = 'book-title';
         bookTitle.textContent = project.name;
         
+        // Add title to book
         book.appendChild(bookTitle);
+        
+        // Add click event
         book.addEventListener('click', () => showProjectDetails(project));
         
+        // Add to library
         libraryEl.appendChild(book);
     });
 
