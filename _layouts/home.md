@@ -41,7 +41,7 @@ Feel free to contact me if any of these interests align with your research or if
     <li><span class="news-date">May 2025</span> - Invited to attend the Algorithmic stability: Mathematical foundations for the modern era Workshop at the American Institute of Mathematics, Caltech.</li>
     <li><span class="news-date">April 2025</span> - Gave a talk at the Autoformalization for the Working Mathematician workshop at ICERM, Brown University. <a href="https://icerm.brown.edu/video_archive/4106">Slides+Video</a></li>
     <li><span class="news-date">April 2025</span> - Attended the Simons Institute for the Theory of Computing and SLMath Joint Workshop: AI for Math and TCS.</li>
-    <li><span class="news-date">March 2025</span> - Accepted to work as a Research Scientist at Amazon in NYC this summer with the Reinforcement Learning + Automated Reasoning Teams.</li>
+    <li><span class="news-date">March 2025</span> - Accepted to work as a Research Scientist at Amazon in NYC this summer with the Reinforcement Learning Team.</li>
     <li><span class="news-date">January 2025</span> - LeanAgent has been accepted to ICLR 2025 in Singapore. See you all there.</li>
   </ul>
   <a href="/news/" class="view-all-button">View All News</a>
@@ -52,8 +52,8 @@ Feel free to contact me if any of these interests align with your research or if
   margin-top: -2cm;
   margin-bottom: 3cm;
   background-color: #f9f9f9;
-  padding: 20px;
-  border-radius: 8px;
+  padding: 10px;
+  border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
