@@ -1,81 +1,20 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.6;
-    color: #333;
-    background-color: #f8f9fa;
-    padding: 20px;
-}
-
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
-
-h1 {
-    text-align: center;
-    margin-bottom: 10px;
-    font-size: 2.5rem;
-}
-
-.subtitle {
-    text-align: center;
-    margin-bottom: 30px;
-    color: #666;
-}
-
-.lean-logo {
-    font-size: 4rem;
-    font-weight: bold;
-    text-align: center;
-    color: #157;
-    margin: 20px 0;
-    letter-spacing: 0.5rem;
-}
-
-.legend {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 30px;
-    gap: 20px;
-}
-
-.legend-item {
-    display: flex;
-    align-items: center;
-    gap: 5px;
-}
-
-.status-dot {
-    width: 15px;
-    height: 15px;
-    border-radius: 50%;
-}
-
-.red { background-color: #ff7b7b; }
-.blue { background-color: #7b9fff; }
-.green { background-color: #7bff7b; }
-
 .roadmap-container {
     display: flex;
+    flex-direction: row;
     gap: 40px;
     margin-top: 30px;
 }
 
 .roadmap {
     flex: 1;
-    min-height: 600px;
+    min-height: 700px;
+    height: 700px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     padding: 20px;
     position: relative;
+    overflow: auto;
 }
 
 .project-node {
@@ -89,6 +28,7 @@ h1 {
     position: absolute;
     width: 180px;
     text-align: center;
+    z-index: 10;
 }
 
 .project-node:hover {
@@ -114,7 +54,7 @@ h1 {
 .connector {
     position: absolute;
     background-color: #ddd;
-    z-index: -1;
+    z-index: 5;
 }
 
 .project-details {
@@ -123,7 +63,7 @@ h1 {
     border-radius: 8px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    max-height: 600px;
+    max-height: 700px;
     overflow-y: auto;
 }
 
@@ -143,22 +83,16 @@ h1 {
     color: #555;
 }
 
-.tag {
+.status-badge {
     display: inline-block;
-    background-color: #e9ecef;
     padding: 5px 10px;
-    border-radius: 15px;
-    margin-right: 5px;
-    margin-bottom: 5px;
-    font-size: 0.9rem;
+    border-radius: 4px;
+    font-weight: bold;
 }
 
-.timeline-item {
-    margin-left: 20px;
-    padding-left: 15px;
-    border-left: 2px solid #ddd;
-    margin-bottom: 15px;
-}
+.status-badge.red { background-color: #ffeeee; color: #d43f3a; }
+.status-badge.blue { background-color: #eeeeff; color: #2e6da4; }
+.status-badge.green { background-color: #eeffee; color: #4cae4c; }
 
 .pros-cons {
     display: flex;
@@ -184,6 +118,46 @@ h1 {
 .pros ul, .cons ul {
     margin-top: 10px;
     padding-left: 20px;
+}
+
+.timeline-item {
+    margin-left: 20px;
+    padding-left: 15px;
+    border-left: 2px solid #ddd;
+    margin-bottom: 15px;
+}
+
+.legend {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    gap: 20px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.status-dot {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.red { background-color: #ff7b7b; }
+.blue { background-color: #7b9fff; }
+.green { background-color: #7bff7b; }
+
+.lean-logo {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.lean-logo img {
+    max-width: 200px;
+    height: auto;
 }
 
 @media (max-width: 768px) {

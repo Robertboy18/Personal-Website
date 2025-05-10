@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leandojo',
             name: 'LeanDojo',
             status: 'completed',
-            position: { x: 150, y: 350 },
+            position: { x: 50, y: 150 },
             description: 'Theorem Proving with Retrieval-Augmented Language Models',
             publication: 'NeurIPS 2023',
             contributors: ['Peiyang', 'Kaiyu'],
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanagent',
             name: 'LeanAgent',
             status: 'completed',
-            position: { x: 150, y: 700 },
+            position: { x: 50, y: 300 },
             description: 'Lifelong Learning for Formal Theorem Proving',
             publication: 'CLR 2025',
             contributors: ['Adarsh', 'Mo', 'Robert'],
@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leancopilot',
             name: 'LeanCopilot',
             status: 'completed',
-            position: { x: 500, y: 250 },
+            position: { x: 250, y: 100 },
             description: 'Code completion for Lean',
             publication: 'Submission to NeuSYS 2025',
             contributors: ['Peiyang'],
@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leancontinue',
             name: 'LeanContinue',
             status: 'in-progress',
-            position: { x: 500, y: 400 },
+            position: { x: 250, y: 200 },
             description: 'Unified interface for all Lean tools',
             publication: 'Paper writing with LeanCopilot (TMLR submission planned)',
             contributors: ['Gavin', 'Peiyang'],
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanformal',
             name: 'LeanFormal',
             status: 'not-started',
-            position: { x: 500, y: 550 },
+            position: { x: 250, y: 300 },
             description: 'Autoformalizer for converting informal proofs to formal proofs',
             publication: 'No submission planned, will be open source',
             contributors: ['Robert', 'Potential Postdoc/SURF'],
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanprogress',
             name: 'LeanProgress',
             status: 'in-progress',
-            position: { x: 500, y: 100 },
+            position: { x: 250, y: 400 },
             description: 'Predicting number of steps to the goal',
             publication: 'Paper submitted to ICML 2025',
             contributors: ['Suozhi', 'Peiyang', 'Robert'],
@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanpde',
             name: 'LeanPDE',
             status: 'in-progress',
-            position: { x: 850, y: 150 },
+            position: { x: 450, y: 150 },
             description: 'Formalizing PDEs in general euclidean spaces',
             publication: 'Target submission NeurIPS 2025 or ICLR 2026',
             contributors: ['Robert', 'Looi'],
@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leannn',
             name: 'LeanNN',
             status: 'in-progress',
-            position: { x: 850, y: 300 },
+            position: { x: 450, y: 250 },
             description: 'Formalizing Neural Networks in Lean',
             publication: 'No target submission yet (class project + SURF)',
             contributors: ['Robert'],
@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leannumerical',
             name: 'LeanNumerical',
             status: 'not-started',
-            position: { x: 850, y: 450 },
+            position: { x: 450, y: 350 },
             description: 'Integrating numerical solvers/ML models with Lean',
             publication: 'No submission planned',
             contributors: ['Robert', 'Potential Postdoc/SURF'],
@@ -225,7 +225,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanverify',
             name: 'LeanVerify',
             status: 'not-started',
-            position: { x: 850, y: 600 },
+            position: { x: 450, y: 450 },
             description: 'Formal verification tools in Lean',
             publication: 'No submission planned',
             contributors: ['Robert', 'Potential Postdoc/SURF'],
@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 'leanfoundation',
             name: 'LeanFoundation',
             status: 'not-started',
-            position: { x: 1000, y: 375 },
+            position: { x: 650, y: 250 },
             description: 'Foundational model for Lean',
             publication: 'No submission planned',
             contributors: ['Robert', 'Potential Postdocs/SURFs'],
@@ -296,6 +296,26 @@ document.addEventListener('DOMContentLoaded', function() {
     const projectTitleEl = document.getElementById('projectTitle');
     const projectContentEl = document.getElementById('projectContent');
 
+    if (!roadmapEl) {
+        console.error('Roadmap element not found');
+        return;
+    }
+
+    // First create all nodes
+    projects.forEach(project => {
+        console.log("Creating node for project:", project.name);
+        const node = document.createElement('div');
+        node.id = project.id;
+        node.className = `project-node ${project.status === 'completed' ? 'completed' : project.status === 'in-progress' ? 'in-progress' : 'not-started'}`;
+        node.textContent = project.name;
+        node.style.left = project.position.x + 'px';
+        node.style.top = project.position.y + 'px';
+        
+        node.addEventListener('click', () => showProjectDetails(project));
+        
+        roadmapEl.appendChild(node);
+    });
+
     // Draw connections
     function drawConnections() {
         // Remove existing connections
@@ -312,10 +332,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 const roadmapRect = roadmapEl.getBoundingClientRect();
                 
                 // Calculate positions relative to the roadmap
-                const fromX = fromRect.left + fromRect.width/2 - roadmapRect.left;
-                const fromY = fromRect.top + fromRect.height/2 - roadmapRect.top;
-                const toX = toRect.left + toRect.width/2 - roadmapRect.left;
-                const toY = toRect.top + toRect.height/2 - roadmapRect.top;
+                const fromX = fromRect.left + fromRect.width/2 - roadmapRect.left + roadmapEl.scrollLeft;
+                const fromY = fromRect.top + fromRect.height/2 - roadmapRect.top + roadmapEl.scrollTop;
+                const toX = toRect.left + toRect.width/2 - roadmapRect.left + roadmapEl.scrollLeft;
+                const toY = toRect.top + toRect.height/2 - roadmapRect.top + roadmapEl.scrollTop;
                 
                 // Create line element
                 const line = document.createElement('div');
@@ -338,22 +358,8 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    // Create project nodes
-    projects.forEach(project => {
-        const node = document.createElement('div');
-        node.id = project.id;
-        node.className = `project-node ${project.status === 'completed' ? 'completed' : project.status === 'in-progress' ? 'in-progress' : 'not-started'}`;
-        node.textContent = project.name;
-        node.style.left = project.position.x + 'px';
-        node.style.top = project.position.y + 'px';
-        
-        node.addEventListener('click', () => showProjectDetails(project));
-        
-        roadmapEl.appendChild(node);
-    });
-
-    // Initial connection drawing
-    setTimeout(drawConnections, 100);
+    // Initial connection drawing - delay slightly to ensure DOM is ready
+    setTimeout(drawConnections, 300);
     
     // Update connections on window resize
     window.addEventListener('resize', drawConnections);
@@ -428,4 +434,7 @@ document.addEventListener('DOMContentLoaded', function() {
         
         document.getElementById(project.id).style.boxShadow = '0 0 15px rgba(0, 120, 255, 0.7)';
     }
+
+    // Check if nodes were created
+    console.log("All nodes created:", document.querySelectorAll('.project-node').length);
 });
