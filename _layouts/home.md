@@ -38,16 +38,11 @@ Feel free to contact me if any of these interests align with your research or if
 <div class="news-section">
   <h2>Latest News</h2>
   <ul class="news-list">
-    <li><span class="news-date">May 2025</span> - Will be attending the Algorithmic stability: Mathematical foundations for the modern era at the American Institute of Mathematics.</li>
-    <li><span class="news-date">April 2025</span> - Gave a talk at the Autoformalization for the Working Mathematician workshop at ICERM. <a href="https://icerm.brown.edu/video_archive/4106">Slides+Video</a></li>
+    <li><span class="news-date">May 2025</span> - Invited to attend the Algorithmic stability: Mathematical foundations for the modern era Workshop at the American Institute of Mathematics, Caltech.</li>
+    <li><span class="news-date">April 2025</span> - Gave a talk at the Autoformalization for the Working Mathematician workshop at ICERM, Brown University. <a href="https://icerm.brown.edu/video_archive/4106">Slides+Video</a></li>
     <li><span class="news-date">April 2025</span> - Attended the Simons Institute for the Theory of Computing and SLMath Joint Workshop: AI for Math and TCS.</li>
     <li><span class="news-date">March 2025</span> - Accepted to work as a Research Scientist at Amazon in NYC this summer with the Reinforcement Learning + Automated Reasoning Teams.</li>
     <li><span class="news-date">January 2025</span> - LeanAgent has been accepted to ICLR 2025 in Singapore. See you all there.</li>
-    <li><span class="news-date">December 2024</span> - Attended NeurIPS in Vancouver and presented a workshop paper and main conference paper.</li>
-    <li><span class="news-date">November 2024</span> - Attended the Deep Learning for Mathematics workshop at UCLA.</li>
-    <li><span class="news-date">October 2024</span> - Invited as a speaker to give a talk on Neural Operators: Machine Learning in Function spaces at <a href="https://ml.jpl.nasa.gov/index.html">NASA JPL</a>. <a href="https://www.robertj1.com/assets/pdf/Neural_Operators_jpl.pdf">Slides</a></li>
-    <li><span class="news-date">October 2024</span> - Attending the <a href="https://www.ima.umn.edu/2024-2025/W10.25-29.24">Mathematics of Deep Learning Workshop</a> at the Institute for Mathematics and its Applications (UCLA).</li>
-    <li><span class="news-date">August 2024</span> - Research updates: iFNO got accepted at TMLR, and CoDA-NO got accepted at NeurIPS.</li>
   </ul>
   <a href="/news/" class="view-all-button">View All News</a>
 </div>
