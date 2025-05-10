@@ -69,17 +69,20 @@ Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/
   padding-bottom: 10px;
   margin-bottom: 20px;
   color: #333;
+  font-size: 1.5em;
 }
 
 .news-list {
   list-style-type: none;
   padding-left: 0;
   margin-bottom: 25px;
+  font-size: 13px; /* Reduced font size for news items */
+  line-height: 1.4; /* Adjusted line height for better readability */
 }
 
 .news-list li {
-  margin-bottom: 12px;
-  padding-left: 20px;
+  margin-bottom: 8px; /* Reduced spacing between items */
+  padding-left: 15px; /* Reduced padding */
   position: relative;
 }
 
@@ -94,17 +97,23 @@ Email: rgeorge (at) caltech (dot) edu | Twitter: <a href = "https://twitter.com/
 .news-date {
   font-weight: bold;
   color: #555;
+  font-size: 13px; /* Same size as regular text */
+}
+
+.news-list a {
+  font-size: 13px; /* Make links the same size as text */
 }
 
 .view-all-button {
   display: inline-block;
-  padding: 8px 20px;
+  padding: 6px 16px; /* Slightly smaller button */
   background-color: #3366cc;
   color: white;
   text-decoration: none;
   border-radius: 4px;
   font-weight: bold;
   transition: background-color 0.3s;
+  font-size: 13px; /* Smaller button text */
 }
 
 .view-all-button:hover {
